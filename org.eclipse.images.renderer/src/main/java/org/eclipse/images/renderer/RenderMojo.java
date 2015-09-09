@@ -558,6 +558,11 @@ public class RenderMojo extends AbstractMojo {
         File outputDir = new File(workingDirectory + (iconScale == 1 ? "/" + targetDir + "/" : "/" + targetDir + "-highdpi/"));
         File iconDirectoryRoot = new File(sourceDir + "/");
 
+        if (!iconDirectoryRoot.exists()){
+            log.error("Source directory' "+sourceDir+"' does not exist.");
+            return;
+        }
+
         // Search each subdir in the root dir for svg icons
         for (File file : iconDirectoryRoot.listFiles()) {
             if(!file.isDirectory()) {

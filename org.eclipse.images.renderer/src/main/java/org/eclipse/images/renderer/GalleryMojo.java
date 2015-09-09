@@ -78,6 +78,10 @@ public class GalleryMojo extends AbstractMojo {
         }
 
         File iconDirectoryRoot = new File(pngDir + "/");
+        if (!iconDirectoryRoot.exists()){
+            log.error("PNG directory' "+pngDir+"' does not exist.");
+            return;
+        }
 
         Map<String, List<IconEntry>> galleryIconSets = new HashMap<>();
 
