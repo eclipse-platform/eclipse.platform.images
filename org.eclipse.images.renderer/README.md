@@ -1,25 +1,25 @@
-org.eclipse.ui.images.renderer
+org.eclipse.images.renderer
 ==============================
 
-org.eclipse.ui.images provides the a Maven generator of svg images located in the org.eclipse.ui.images plug-in. 
+org.eclipse.images provides the a Maven generator of svg images located in the org.eclipse.images plug-in. 
 
-org.eclipse.ui.images.renderer plug-in usage
+org.eclipse.images.renderer plug-in usage
 --------------------------------------------
 
-Install the org.eclipse.ui.images.renderer plug-in:
+Install the org.eclipse.images.renderer plug-in:
 
-cd org.eclipse.ui.images.renderer
+cd org.eclipse.images.renderer
 mvn clean install
 
 After the renderer plugin is installed, change into the root of the images project:
 
-cd org.eclipse.ui.images
+cd org.eclipse.images
 
 Finally, execute the icon render mojo with:
 
-mvn org.eclipse.ui:org.eclipse.ui.images.renderer:render-icons
+mvn org.eclipse.images:org.eclipse.images.renderer:render-icons
 
-This renders all of the svg icons in "eclipse-svg" into the "eclipse-png" folder of the org.eclipse.ui.images project, maintaining the directory structure (i.e. eclipse-svg/icondir will be rendered into org.eclipse.ui.images/eclipse-png/icondir).
+This renders all of the svg icons in "eclipse-svg" into the "eclipse-png" folder of the org.eclipse.images project, maintaining the directory structure (i.e. eclipse-svg/icondir will be rendered into org.eclipse.images/eclipse-png/icondir).
 
 Supported runtime arguments (e.g mvn -Declipse.svg.scale=2 ...):
 
@@ -30,7 +30,7 @@ eclipse.svg.targetdirectory - a string that specifies the directory name where t
 
 Once the icon sets have been rendered, you can create galleries for evaluation and feedback with the gallery mojo:
 
-mvn org.eclipse.ui:org.eclipse.ui.images.renderer:render-galleries
+mvn org.eclipse.images:org.eclipse.images.renderer:render-galleries
 
 This will create a set of galleries and gif comparisons comprised of the newly rendered icons, located in the target/ output directory.
 

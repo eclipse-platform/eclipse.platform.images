@@ -8,17 +8,19 @@
 
   Contributors:
      Lars Vogel - initial implementation
+     Tony McCrary - move to eclipse.images
 -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <parent>
-    <artifactId>eclipse.platform.ui</artifactId>
-    <groupId>eclipse.platform.ui</groupId>
-    <version>4.6.0-SNAPSHOT</version>
-    <relativePath>../../</relativePath>
-  </parent>
-  <groupId>org.eclipse.ui</groupId>
-  <artifactId>org.eclipse.ui.images</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
-  <packaging>eclipse-plugin</packaging>
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<artifactId>org.eclipse.images.parent</artifactId>
+		<groupId>eclipse.images</groupId>
+		<version>4.6.0-SNAPSHOT</version>
+		<relativePath>../</relativePath>
+	</parent>
+	<groupId>org.eclipse.images</groupId>
+	<artifactId>org.eclipse.images</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<packaging>jar</packaging>
+	<name>Eclipse Images SVG Repository</name>
 </project>

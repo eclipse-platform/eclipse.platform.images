@@ -9,7 +9,7 @@
  *     l33t labs LLC and others - initial contribution
  *******************************************************************************/
 
-package org.eclipse.ui.images.renderer;
+package org.eclipse.images.renderer;
 
 import java.io.File;
  
