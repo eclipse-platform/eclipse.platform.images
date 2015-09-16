@@ -230,15 +230,5 @@
          d="m 2.9142132,1040.8881 c 0.839655,0 1.576133,0.6781 1.515624,1.5156 l -0.220969,3.0584 c -0.060502,0.8374 -0.455,1.4051 -1.294655,1.4051 -0.839655,0 -1.2341524,-0.4888 -1.294655,-1.3262 l -0.220972,-3.0584 c -0.06051,-0.8375 0.675972,-1.5945 1.515627,-1.5945 z"
          style="display:inline;fill:url(#linearGradient3051);fill-opacity:1;stroke:#f93337;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <image
-       sodipodi:absref="/home/tmccrary/eclipse.platform.ui/bundles/org.eclipse.ui.images/eclipse-gif/org.eclipse.jdt.ui/icons/full/ovr16/error_co_buildpath.gif"
-       y="1039.3622"
-       x="7"
-       id="image4170"
-       xlink:href="file:///home/tmccrary/eclipse.platform.ui/bundles/org.eclipse.ui.images/eclipse-gif/org.eclipse.jdt.ui/icons/full/ovr16/error_co_buildpath.gif"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="13"
-       width="6" />
   </g>
 </svg>
