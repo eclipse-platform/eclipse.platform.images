@@ -27,11 +27,13 @@ public class IconGatherer {
      * <p>Searches the root resources directory for svg icons and adds them to a
      * collection for later rasterization.</p>	
      *
-     * @param outputName
+     * @param icons
+     * @param extension
+     * @param rootDir
      * @param iconDir
      * @param outputBase
-     * @param outputDir2
-     */ 
+     * @param generateDisabledDirs
+     */
     public static void gatherIcons(List<IconEntry> icons, String extension, File rootDir, File iconDir, File outputBase, boolean generateDisabledDirs) {
         File[] listFiles = iconDir.listFiles();
 

@@ -117,10 +117,10 @@ public class GalleryMojo extends AbstractMojo {
      * <p>Renders each icon set into a gallery image for reviewing and showing off
      * icons, and then composes them into a master gallery image.</p>
      *
-     * @param rasterizer
      * @param galleryDir
      * @param gifCompare
      * @param master
+     * @param iconSets
      * @param iconSize
      * @param width
      * @param pngDir
@@ -182,7 +182,6 @@ public class GalleryMojo extends AbstractMojo {
         g.setColor(Color.GRAY);
         g.drawString("SVG Icon Set: " + key + " - Count: " + icons.size(), 8, 20);
 
-        int x = leftColumnWidth;
         int y = textHeaderHeight;
 
         // Render
@@ -349,6 +348,8 @@ public class GalleryMojo extends AbstractMojo {
      * current resolution.</p>
      * 
      * @param root
+     * @param output
+     * @param fileEnding
      * @param iconSize
      * @param width
      * @param dark

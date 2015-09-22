@@ -113,6 +113,9 @@ public class RenderMojo extends AbstractMojo {
      *
      * @param icon
      *            the icon to render
+     * @param grayFilter
+     * @param desaturator
+     * @param decontrast
      */
     public void rasterize(IconEntry icon, GrayscaleFilter grayFilter, HSBAdjustFilter desaturator, ContrastFilter decontrast) {
         if (icon == null) {
@@ -404,13 +407,14 @@ public class RenderMojo extends AbstractMojo {
      * Use batik to rasterize the input SVG into a raster image at the specified
      * image dimensions.
      *
+     * @param iconName
      * @param width the width to render the icons at
      * @param height the height to render the icon at
-     * @param input the SVG transcoder input
+     * @param tInput the SVG transcoder input
      * @param stream the stream to write the PNG data to
      */
     public boolean renderIcon(final String iconName, int width, int height,
-            TranscoderInput tinput, OutputStream stream) {
+            TranscoderInput tInput, OutputStream stream) {
         PNGTranscoder transcoder = new PNGTranscoder() {
             protected ImageRenderer createRenderer() {
                 ImageRenderer renderer = super.createRenderer();
@@ -474,7 +478,7 @@ public class RenderMojo extends AbstractMojo {
         TranscoderOutput output = new TranscoderOutput(stream);
 
         try {
-            transcoder.transcode(tinput, output);
+            transcoder.transcode(tInput, output);
             return true;
         } catch (Exception e) {
             e.printStackTrace();
