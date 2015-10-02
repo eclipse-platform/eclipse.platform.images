@@ -162,25 +162,33 @@ public class RenderMojo extends AbstractMojo {
         int nativeHeight = -1;
 
         try{
-            if (nativeWidthStr != "" && nativeHeightStr != ""){
+            if (!"".equals(nativeWidthStr) && !"".equals(nativeHeightStr)){
+            	nativeWidthStr = stripOffPx(nativeWidthStr);
+            	nativeHeightStr = stripOffPx(nativeHeightStr);
                 nativeWidth = Integer.parseInt(nativeWidthStr);
                 nativeHeight = Integer.parseInt(nativeHeightStr);
             } else {
                 // Vector graphics editing programs don't always output height and width attributes on SVG.
                 // As fall back: parse the viewBox attribute (which is almost always set).
                 String viewBoxStr = svgDocumentNode.getAttribute("viewBox");
-                if (viewBoxStr == ""){
+                if ("".equals(viewBoxStr)){
                     log.error("Icon defines neither width/height nor a viewBox, skipping: " + icon.nameBase);
                     failedIcons.add(icon);
                     return;
                 }
                 String[] splitted = viewBoxStr.split(" ");
-                String xStr = splitted[0];
-                String yStr = splitted[1];
+                if (splitted.length != 4){
+                	log.error("Dimension could not be parsed. Skipping: " + icon.nameBase);
+                    failedIcons.add(icon);
+                    return;
+                }
                 String widthStr = splitted[2];
+                widthStr = stripOffPx(widthStr);
                 String heightStr = splitted[3];
-                nativeWidth = Integer.parseInt(widthStr) - Integer.parseInt(xStr);
-                nativeHeight = Integer.parseInt(heightStr) - Integer.parseInt(yStr); 
+                heightStr = stripOffPx(heightStr);
+                
+                nativeWidth = Integer.parseInt(widthStr);
+                nativeHeight = Integer.parseInt(heightStr); 
             }
         }catch (NumberFormatException e){
             log.error("Dimension could not be parsed ( "+e.getMessage()+ "), skipping: " + icon.nameBase);
@@ -253,6 +261,13 @@ public class RenderMojo extends AbstractMojo {
             failedIcons.add(icon);
         }
     }
+
+	private String stripOffPx(String dimensionString) {
+		if (dimensionString.endsWith("px")){
+			dimensionString = dimensionString.substring(0, dimensionString.length()-2);
+		}
+		return dimensionString;
+	}
 
     /**
      * <p>Generates a Batik SVGDocument for the supplied IconEntry's input
