@@ -39,7 +39,7 @@ public class IconGatherer {
 
         for (File child : listFiles) {
             if (child.isDirectory()) {
-            	if(child.getName().startsWith("d")) {
+            	if(child.getName().startsWith("d") && !("dgm".equals(child.getName())) ) {
             		continue;
             	}
             	

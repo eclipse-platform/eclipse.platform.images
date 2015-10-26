@@ -224,6 +224,8 @@ public class GalleryMojo extends AbstractMojo {
                 log.debug("GIF path: " + gifPath.getAbsolutePath());
 
                 BufferedImage gifImage = null;
+                BufferedImage sizedGifImage = null;
+                BufferedImage sizedPngImage = null;
 
                 if(gifPath.exists()) {
                     gifImage = ImageIO.read(gifPath);
@@ -236,16 +238,26 @@ public class GalleryMojo extends AbstractMojo {
                 g.drawLine(0, y, widthTotal, y);
 
                 if(gifImage != null) {
-                    g.drawImage(gifImage, leftColumnWidth, y + margin, null);
+                    if (gifImage.getWidth() > outputSize || gifImage.getHeight() > outputSize){
+                        sizedGifImage = resampleOp.filter(gifImage, null);
+                    } else {
+                        sizedGifImage = gifImage;
+                    }
+                    g.drawImage(sizedGifImage, leftColumnWidth, y + margin, null);
                 }
 
-                g.drawImage(pngImage, second, y + margin, null);
+                if (pngImage.getWidth() > outputSize || pngImage.getHeight() > outputSize){
+                    sizedPngImage = resampleOp.filter(pngImage, null);
+                } else{
+                    sizedPngImage = pngImage;
+                }
+                g.drawImage(sizedPngImage, second, y + margin, null);
 
                 if(gifImage != null) {
-                    g.drawImage(gifImage, second + margin + iconSize + 30, y + margin, null);
+                    g.drawImage(sizedGifImage, second + margin + iconSize + 30, y + margin, null);
                 }
 
-                g.drawImage(pngImage, second + (margin * 2) + (iconSize * 2) + 30, y + margin, null);
+                g.drawImage(sizedPngImage, second + (margin * 2) + (iconSize * 2) + 30, y + margin, null);
 
                 y += iconSize + margin * 2;
             } catch (Exception e) {
