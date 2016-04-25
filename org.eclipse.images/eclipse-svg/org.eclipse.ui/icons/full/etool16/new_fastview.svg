@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="new_fastview.svg">
   <defs
      id="defs4">
@@ -25,7 +25,7 @@
          offset="0"
          id="stop4931" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="1"
          id="stop4934" />
     </linearGradient>
@@ -77,7 +77,7 @@
        xlink:href="#linearGradient4839"
        id="linearGradient4917"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-9.3249707,0)"
+       gradientTransform="matrix(1.0181309,0,0,0.9948761,-9.6294579,5.3081805)"
        x1="16.793787"
        y1="1040.5402"
        x2="30.714952"
@@ -90,7 +90,8 @@
        x1="7.4688163"
        y1="1040.5623"
        x2="21.389982"
-       y2="1040.5623" />
+       y2="1040.5623"
+       gradientTransform="matrix(1.0158646,0,0,1.0160703,-0.11848958,-16.761219)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4929"
@@ -345,16 +346,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="6.1605894"
-     inkscape:cy="6.4385047"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-0.11143382"
+     inkscape:cy="4.1095289"
      inkscape:document-units="px"
      inkscape:current-layer="g4908"
      showgrid="true"
-     inkscape:window-width="1208"
-     inkscape:window-height="913"
-     inkscape:window-x="1285"
-     inkscape:window-y="562"
+     inkscape:window-width="1290"
+     inkscape:window-height="1001"
+     inkscape:window-x="1160"
+     inkscape:window-y="427"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -385,29 +386,29 @@
        id="g4908"
        transform="translate(17.6875,0)">
       <rect
-         y="1039.4575"
-         x="-16.19733"
-         height="11.441895"
-         width="6.0233498"
+         y="1039.8481"
+         x="-16.181705"
+         height="11.035645"
+         width="6.0077248"
          id="rect4898"
-         style="color:#000000;fill:url(#linearGradient4936);fill-opacity:1;stroke:url(#linearGradient4915);stroke-width:0.89999998;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4936);fill-opacity:1;stroke:url(#linearGradient4915);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
       <g
-         transform="translate(-24.063485,0)"
+         transform="translate(-24.157235,0.34375)"
          id="g4890">
         <rect
-           style="color:#000000;fill:url(#linearGradient4917);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4917);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;marker:none;enable-background:accumulate"
            id="rect4069"
-           width="6.8942919"
-           height="3.0494385"
+           width="7.0192919"
+           height="3.0338135"
            x="7.4688163"
-           y="1039.0155" />
+           y="1038.9999" />
         <rect
-           style="color:#000000;fill:url(#linearGradient4919);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4919);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;marker:none;enable-background:accumulate"
            id="rect4069-8"
-           width="6.8942919"
-           height="0.97229004"
+           width="7.0036669"
+           height="0.98791504"
            x="7.4688163"
-           y="1040.0762" />
+           y="1040.0293" />
       </g>
     </g>
     <g

@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="problems_view_error.svg">
   <defs
      id="defs4">
@@ -478,11 +478,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="18.692985"
-     inkscape:cy="5.2368731"
+     inkscape:zoom="64"
+     inkscape:cx="5.3516547"
+     inkscape:cy="4.280874"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3047"
      showgrid="true"
      inkscape:window-width="1638"
      inkscape:window-height="1174"
@@ -643,7 +643,7 @@
              sodipodi:cy="468.23718"
              sodipodi:rx="10.625"
              sodipodi:ry="10.625"
-             d="m 398.75,468.23718 c 0,5.86803 -4.75697,10.625 -10.625,10.625 -5.86803,0 -10.625,-4.75697 -10.625,-10.625 0,-5.86802 4.75697,-10.625 10.625,-10.625 5.86803,0 10.625,4.75698 10.625,10.625 z"
+             d="m 398.75,468.23718 a 10.625,10.625 0 0 1 -10.625,10.625 10.625,10.625 0 0 1 -10.625,-10.625 10.625,10.625 0 0 1 10.625,-10.625 10.625,10.625 0 0 1 10.625,10.625 z"
              transform="matrix(0,0.21336007,0.20391989,0,-75.150605,958.20085)" />
         </g>
       </g>
@@ -671,9 +671,10 @@
            y="1041.0391" />
         <path
            inkscape:connector-curvature="0"
-           style="font-size:7.68999243px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.27519909;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           d="m 27.158346,1042.9451 0,0.1337 0,0.535 0,0.1337 0.133736,0 0.401208,0 1.27049,1.5046 -1.303924,1.6382 -0.367774,0 -0.133736,0 0,0.1337 0,0.535 0,0.1337 0.133736,0 1.60483,0 0.133736,0 0,-0.1337 0,-0.535 0,-0.1337 -0.133736,0 0.66868,-0.9027 0.668679,0.9027 -0.133736,0 0,0.1337 0,0.535 0,0.1337 0.133736,0 1.604831,0 0.133735,0 0,-0.1337 0,-0.535 0,-0.1337 -0.133735,0 -0.33434,0 -1.337359,-1.6717 1.237057,-1.4711 0.434642,0 0.133735,0 0,-0.1337 0,-0.535 0,-0.1337 -0.133735,0 -1.604831,0 -0.133736,0 0,0.1337 0,0.535 0,0.1337 0.06687,0 -0.601811,0.769 -0.601812,-0.769 0.06687,0 0,-0.1337 0,-0.535 0,-0.1337 -0.133734,0 -1.60483,0 -0.133736,0 z"
-           id="path4187" />
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.68999243px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.27519909;marker:none;enable-background:accumulate"
+           d="m 26.856252,1043.165 0,0.1267 0,0.814 0,0.1267 0.148131,0 0.444393,0 1.407245,1.1177 -1.444277,1.008 -0.407361,0 -0.148131,0 0,0.1266 0,0.8259 0,0.1267 0.148131,0 1.848497,0 0.14813,0 0,-0.1267 0,-0.8259 0,-0.1266 -0.14813,0 0.669731,-0.3113 0.693373,0.3113 -0.148131,0 0,0.1266 0,0.8259 0,0.1267 0.148131,0 1.824856,0 0.14813,0 0,-0.1267 0,-0.8259 0,-0.1266 -0.14813,0 -0.370329,0 -1.481311,-1.0397 1.370213,-1.086 0.481427,0 0.14813,0 0,-0.1267 0,-0.814 0,-0.1267 -0.14813,0 -1.824856,0 -0.148131,0 0,0.1267 0,0.814 0,0.1267 0.07407,0 -0.619308,0.421 -0.607485,-0.421 0.07407,0 0,-0.1267 0,-0.814 0,-0.1267 -0.148129,0 -1.836676,0 z"
+           id="path4187"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
       </g>
     </g>
   </g>

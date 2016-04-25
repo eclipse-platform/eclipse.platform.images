@@ -13,7 +13,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="thin_restore_view.svg">
   <defs
      id="defs4" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="5.1435697"
-     inkscape:cy="8.1336965"
+     inkscape:zoom="32"
+     inkscape:cx="2.2098598"
+     inkscape:cy="8.0947072"
      inkscape:document-units="px"
      inkscape:current-layer="g4794"
      showgrid="true"
      inkscape:window-width="1164"
      inkscape:window-height="982"
-     inkscape:window-x="182"
-     inkscape:window-y="338"
+     inkscape:window-x="622"
+     inkscape:window-y="413"
      inkscape:window-maximized="0"
      inkscape:snap-global="true">
     <inkscape:grid
@@ -71,6 +71,24 @@
          transform="matrix(0.97551468,0,0,0.97551468,9.2809852,25.497327)"
          id="g4794"
          style="display:inline">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.92549819;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4141"
+           width="4.1003995"
+           height="2.0631461"
+           x="-1.3046875"
+           y="1042.3685"
+           ry="0"
+           rx="0" />
+        <rect
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.92549819;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4141-6"
+           width="4.9653277"
+           height="2.8045893"
+           x="-3.6431966"
+           y="1045.0442"
+           ry="0"
+           rx="0" />
         <g
            transform="matrix(1.0250999,0,0,1.031573,-8.4817307,-32.901454)"
            style="fill:#3f5f3f;fill-opacity:1;display:inline"
