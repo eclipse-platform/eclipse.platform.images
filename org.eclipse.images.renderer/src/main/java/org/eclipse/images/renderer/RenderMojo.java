@@ -60,7 +60,7 @@ public class RenderMojo extends AbstractMojo {
     /** Maven logger */
     Log log;
 
-    /** Used for high res rendering support. */
+    /** Used for high resolution (HiDPI) rendering support. */
     public static final String ECLIPSE_SVG_SCALE = "eclipse.svg.scale";
 
     /** Used to specify the number of render threads when rasterizing icons. */
@@ -253,7 +253,8 @@ public class RenderMojo extends AbstractMojo {
 
                 BufferedImage deconstrast = decontrast.filter(desaturated16, null);
 
-                ImageIO.write(deconstrast, "PNG", new File(icon.disabledPath, icon.nameBase + ".png"));
+                String outputName = getOutputName(icon.nameBase);
+                ImageIO.write(deconstrast, "PNG", new File(icon.disabledPath, outputName));
             }
         } catch (Exception e1) {
             log.error("Failed to render disabled icon: "  +
@@ -308,18 +309,23 @@ public class RenderMojo extends AbstractMojo {
      */
     private void writeIcon(IconEntry icon, int width, int height, BufferedImage sourceImage) {
         try {
-            String outputName = icon.nameBase;
-            if (outputScale != 1) {
-                String scaleId = outputScale == (double) (int) outputScale ? Integer.toString((int) outputScale): Double.toString(outputScale);
-                outputName += "@" + scaleId + "x";
-            }
-            outputName += ".png";
+            String outputName = getOutputName(icon.nameBase);
             ImageIO.write(sourceImage, "PNG", new File(icon.outputPath, outputName));
         } catch (Exception e1) {
             log.error("Failed to resize rendered icon to output size: "  +
                                icon.nameBase, e1);
             failedIcons.add(icon);
         }
+    }
+
+    private String getOutputName(String outputName) {
+        if (outputScale != 1) {
+            String scaleId = outputScale == (double) (int) outputScale ? Integer.toString((int) outputScale)
+                    : Double.toString(outputScale);
+            outputName += "@" + scaleId + "x";
+        }
+        outputName += ".png";
+        return outputName;
     }
 
     /**
@@ -574,7 +580,7 @@ public class RenderMojo extends AbstractMojo {
 
         String workingDirectory = System.getProperty("user.dir");
 
-        File outputDir = new File(workingDirectory + (iconScale == 1 ? "/" + targetDir + "/" : "/" + targetDir + "-highdpi/"));
+        File outputDir = new File(workingDirectory + (iconScale == 1 ? "/" + targetDir + "/" : "/" + targetDir + "-hidpi/"));
         File iconDirectoryRoot = new File(sourceDir + "/");
 
         if (!iconDirectoryRoot.exists()){
@@ -591,7 +597,7 @@ public class RenderMojo extends AbstractMojo {
             String dirName = file.getName();
 
             // Where to place the rendered icon
-            File outputBase = new File(outputDir, (iconScale == 1 ? dirName : dirName + ".highdpi"));
+            File outputBase = new File(outputDir, (iconScale == 1 ? dirName : dirName + ".hidpi"));
             if (iconScale != 1) {
                 createFragmentFiles(outputBase, dirName);
             }
@@ -624,7 +630,7 @@ public class RenderMojo extends AbstractMojo {
         createFile(new File(outputBase, "build.properties"), "bin.includes = META-INF/,icons/,.\n");
         createFile(new File(outputBase, ".project"), "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" + 
                 "<projectDescription>\n" + 
-                "    <name>" + dirName + ".highdpi</name>\n" + 
+                "    <name>" + dirName + ".hidpi</name>\n" + 
                 "    <comment></comment>\n" + 
                 "    <projects>\n" + 
                 "    </projects>\n" + 
@@ -646,8 +652,8 @@ public class RenderMojo extends AbstractMojo {
                 "</projectDescription>\n");
         createFile(new File(outputBase, "META-INF/MANIFEST.MF"), "Manifest-Version: 1.0\n" + 
                 "Bundle-ManifestVersion: 2\n" + 
-                "Bundle-Name: " + dirName + ".highdpi\n" + 
-                "Bundle-SymbolicName: " + dirName + ".highdpi\n" + 
+                "Bundle-Name: " + dirName + ".hidpi\n" + 
+                "Bundle-SymbolicName: " + dirName + ".hidpi\n" + 
                 "Bundle-Version: 0.1.0.qualifier\n" + 
                 "Fragment-Host: " + dirName + "\n");
     }
