@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="org.eclipse.images-builder" default="default">
+	<description>
+		Workaround for Apache Batik bug:
+		https://issues.apache.org/jira/browse/BATIK-1112
+		
+		Removes occurrences of the "-inkscape-font-specification"
+		property that break the renderer.
+		
+		https://bugs.eclipse.org/bugs/show_bug.cgi?id=493994
+	</description>
+
+	<target name="default">
+		<replaceregexp replace="">
+			<regexp pattern="-inkscape-font-specification:[^;&quot;]*;" />
+			<fileset dir="eclipse-svg" includes="**/*.svg">
+			</fileset>
+		</replaceregexp>
+	</target>
+</project>
