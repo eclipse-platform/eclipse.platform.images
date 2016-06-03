@@ -1,7 +1,7 @@
 org.eclipse.images.renderer
 ==============================
 
-org.eclipse.images provides the a Maven generator of svg images located in the org.eclipse.images plug-in. 
+org.eclipse.images provides the a Maven generator of svg images located in the org.eclipse.images plug-in.
 
 org.eclipse.images.renderer plug-in usage
 --------------------------------------------
@@ -28,8 +28,9 @@ This renders all of the svg icons in "eclipse-svg" into the "eclipse-png" folder
 
 Supported runtime arguments (e.g mvn -Declipse.svg.scale=2 ...):
 
-eclipse.svg.scale - an integer that is used to scale output images (e.g. 2 will render a 16x16 svg at 32x32)
-eclipse.svg.renderthreads - an integer that specifies how many threads to use simultaneously while rendering
+eclipse.svg.scale           - an integer that is used to scale output images (e.g. 2 will render a 16x16 svg at 32x32)
+eclipse.svg.createFragments - a boolean that specifies whether to create separate fragments or putting the high resolution icons next to the low-resolution icons (defaults to "true")
+eclipse.svg.renderthreads   - an integer that specifies how many threads to use simultaneously while rendering
 eclipse.svg.sourcedirectory - a string that specifies the directory name where the SVGs are taken from (defaults to "eclipse-svg")
 eclipse.svg.targetdirectory - a string that specifies the directory name where the PNGs are written to (defaults to "eclipse-png")
 

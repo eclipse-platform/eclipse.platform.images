@@ -73,6 +73,9 @@ public class RenderMojo extends AbstractMojo {
     /** Used to specify the directory name where the PNGs are saved to. */
     public static final String TARGET_DIR = "eclipse.svg.targetdirectory";
 
+    /** Used to specify whether to create separate fragments or putting the high resolution icons next to the low-resolution icons. */
+    public static final String CREATE_FRAGMENTS = "eclipse.svg.createFragments";
+     
     /** A list of directories with svg sources to rasterize. */
     private List<IconEntry> icons;
 
@@ -572,6 +575,13 @@ public class RenderMojo extends AbstractMojo {
         if (targetDirProp != null) {
             targetDir = targetDirProp;
         }
+        
+        // Defaults to "true"
+        boolean createFragements = true;
+        String createFragmentsProp = System.getProperty(CREATE_FRAGMENTS);
+        if (createFragmentsProp != null) {
+        	createFragements = Boolean.parseBoolean(createFragmentsProp);
+        }        
 
         // Track the time it takes to render the entire set
         long totalStartTime = System.currentTimeMillis();
@@ -581,7 +591,11 @@ public class RenderMojo extends AbstractMojo {
 
         String workingDirectory = System.getProperty("user.dir");
 
-        File outputDir = new File(workingDirectory + (iconScale == 1 ? "/" + targetDir + "/" : "/" + targetDir + "-hidpi/"));
+        String dirSuffix = "/" + targetDir + "/";
+        if ((iconScale != 1) && createFragements){
+        	dirSuffix = "/" + targetDir + "-hidpi/";
+        }
+		File outputDir = new File(workingDirectory + dirSuffix);
         File iconDirectoryRoot = new File(sourceDir + "/");
 
         if (!iconDirectoryRoot.exists()){
@@ -598,8 +612,13 @@ public class RenderMojo extends AbstractMojo {
             String dirName = file.getName();
 
             // Where to place the rendered icon
-            File outputBase = new File(outputDir, (iconScale == 1 ? dirName : dirName + ".hidpi"));
-            if (iconScale != 1) {
+            String child = dirName;
+            if ((iconScale != 1) && createFragements ){
+            	child = dirName + ".hidpi";
+            }
+            	
+			File outputBase = new File(outputDir, child);
+            if ((iconScale != 1) && createFragements) {
                 createFragmentFiles(outputBase, dirName);
             }
 
