@@ -15,6 +15,11 @@ After the renderer plugin is installed, change into the root of the images proje
 
 cd org.eclipse.images
 
+** Work around bug 493994 in Apache Batik [3]: **
+Apache Batik produces bad PNGs for some SVGs created by Inkscape.
+The workaround is to run the Ant script /org.eclipse.images/build.xml.
+This may modify some SVG files. You should commit these changes.
+
 Finally, execute the icon render mojo with:
 
 mvn org.eclipse.images:org.eclipse.images.renderer:render-icons
@@ -46,3 +51,4 @@ License
 
 [1]: http://wiki.eclipse.org/Platform_UI
 [2]: http://wiki.eclipse.org/EPL
+[3]: https://bugs.eclipse.org/493994
