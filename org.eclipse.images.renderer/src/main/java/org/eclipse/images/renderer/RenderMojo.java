@@ -32,6 +32,7 @@ import javax.imageio.ImageIO;
 
 import org.apache.batik.dom.svg.SAXSVGDocumentFactory;
 import org.apache.batik.gvt.renderer.ImageRenderer;
+import org.apache.batik.gvt.renderer.StaticRenderer;
 import org.apache.batik.transcoder.ErrorHandler;
 import org.apache.batik.transcoder.TranscoderException;
 import org.apache.batik.transcoder.TranscoderInput;
@@ -438,7 +439,7 @@ public class RenderMojo extends AbstractMojo {
             TranscoderInput tInput, OutputStream stream) {
         PNGTranscoder transcoder = new PNGTranscoder() {
             protected ImageRenderer createRenderer() {
-                ImageRenderer renderer = super.createRenderer();
+                ImageRenderer renderer = new StaticRenderer();
 
                 RenderingHints renderHints = renderer.getRenderingHints();
 
