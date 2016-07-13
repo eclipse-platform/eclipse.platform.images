@@ -47,7 +47,7 @@ public class IconGatherer {
                 continue;
             }
 
-            if (!child.getName().endsWith(extension)) {
+            if (!child.getName().endsWith(extension) || child.getName().contains("@1.5x")|| child.getName().contains("@2x")) {
                 continue;
             }
 
