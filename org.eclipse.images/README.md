@@ -10,6 +10,8 @@ The "tools" folder contains the eclipse style color palette in differnent file f
 
 To generate the png files based on the svg files, see the README.md file in the org.eclipse.images.renderer plug-in.
 
+When you add a file "example.svg", also add both the generated "example.png" and "example@2x.png".
+
 ##License
 
 [Eclipse Public License (EPL) v1.0][1]
