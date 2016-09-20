@@ -1,0 +1,322 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4098 {
+  stop-color: #008333;
+  stop-opacity: 1; }
+
+#stop4100 {
+  stop-color: #008c31;
+  stop-opacity: 1; }
+
+#stop4092 {
+  stop-color: #008333;
+  stop-opacity: 1; }
+
+#stop4094 {
+  stop-color: #008c31;
+  stop-opacity: 1; }
+
+#stop4015 {
+  stop-color: #008333;
+  stop-opacity: 1; }
+
+#stop4017 {
+  stop-color: #008c31;
+  stop-opacity: 1; }
+
+#stop13757 {
+  stop-color: #f1fdfc;
+  stop-opacity: 1; }
+
+#stop13765 {
+  stop-color: #dbeff9;
+  stop-opacity: 1; }
+
+#stop13763 {
+  stop-color: #cee4f0;
+  stop-opacity: 1; }
+
+#stop13759 {
+  stop-color: #def1fa;
+  stop-opacity: 1; }
+
+#stop13833 {
+  stop-color: #055797;
+  stop-opacity: 1; }
+
+#stop13835 {
+  stop-color: #184785;
+  stop-opacity: 1; }
+
+#stop3848-6 {
+  stop-color: #4a2aa7;
+  stop-opacity: 1; }
+
+#stop3850-8 {
+  stop-color: #6c4fc2;
+  stop-opacity: 1; }
+
+#stop3830-4-1-7 {
+  stop-color: #b4bbd1;
+  stop-opacity: 1; }
+
+#stop3832-0-7-6 {
+  stop-color: #6d83ac;
+  stop-opacity: 1; }
+
+#stop3830-4-1 {
+  stop-color: #b4bbd1;
+  stop-opacity: 1; }
+
+#stop3832-0-7 {
+  stop-color: #6d83ac;
+  stop-opacity: 1; }
+
+#stop3830-4-8 {
+  stop-color: #b4bbd1;
+  stop-opacity: 1; }
+
+#stop3832-0-2 {
+  stop-color: #6d83ac;
+  stop-opacity: 1; }
+
+#stop3830-4 {
+  stop-color: #b4bbd1;
+  stop-opacity: 1; }
+
+#stop3832-0 {
+  stop-color: #6d83ac;
+  stop-opacity: 1; }
+
+#g3993 {
+  fill: #ffffff; }
+
+#rect3995 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3997 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3999 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4001 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#stop3831-6 {
+  stop-color: #8297bc;
+  stop-opacity: 1; }
+
+#stop3833-1 {
+  stop-color: #6c81ad;
+  stop-opacity: 1; }
+
+#stop3049-2 {
+  stop-color: #146d39;
+  stop-opacity: 1; }
+
+#stop3051-4 {
+  stop-color: #359b58;
+  stop-opacity: 1; }
+
+#stop5105-5-4-4 {
+  stop-color: #96b956;
+  stop-opacity: 1; }
+
+#stop7550-07-0-0 {
+  stop-color: #c6d560;
+  stop-opacity: 1; }
+
+#stop7548-6-9-9 {
+  stop-color: #cfdc63;
+  stop-opacity: 1; }
+
+#stop5107-7-48-4 {
+  stop-color: #abca52;
+  stop-opacity: 1; }
+
+#stop8564 {
+  stop-color: #6994ad;
+  stop-opacity: 1; }
+
+#stop8566 {
+  stop-color: #005596;
+  stop-opacity: 1; }
+
+#stop5105-5-4 {
+  stop-color: #96b956;
+  stop-opacity: 1; }
+
+#stop7550-07-0 {
+  stop-color: #c6d560;
+  stop-opacity: 1; }
+
+#stop7548-6-9 {
+  stop-color: #cfdc63;
+  stop-opacity: 1; }
+
+#stop5107-7-48 {
+  stop-color: #abca52;
+  stop-opacity: 1; }
+
+#stop23104 {
+  stop-color: #c9473e;
+  stop-opacity: 1; }
+
+#stop23118 {
+  stop-color: #f35863;
+  stop-opacity: 1; }
+
+#stop23106 {
+  stop-color: #f6928e;
+  stop-opacity: 1; }
+
+#stop3049 {
+  stop-color: #146d39;
+  stop-opacity: 1; }
+
+#stop3051 {
+  stop-color: #359b58;
+  stop-opacity: 1; }
+
+#stop3831 {
+  stop-color: #8297bc;
+  stop-opacity: 1; }
+
+#stop3833 {
+  stop-color: #6c81ad;
+  stop-opacity: 1; }
+
+#stop3839 {
+  stop-color: #6f8db9;
+  stop-opacity: 1; }
+
+#stop3841 {
+  stop-color: #1b639e;
+  stop-opacity: 1; }
+
+#stop3830 {
+  stop-color: #b4bbd1;
+  stop-opacity: 1; }
+
+#stop3832 {
+  stop-color: #6d83ac;
+  stop-opacity: 1; }
+
+#stop3848 {
+  stop-color: #008233;
+  stop-opacity: 1; }
+
+#stop3850 {
+  stop-color: #008c31;
+  stop-opacity: 1; }
+
+#stop3851 {
+  stop-color: #50b053;
+  stop-opacity: 1; }
+
+#stop3853 {
+  stop-color: #9ad16d;
+  stop-opacity: 1; }
+
+#stop3851-9 {
+  stop-color: #50b053;
+  stop-opacity: 1; }
+
+#stop3853-4 {
+  stop-color: #9ad16d;
+  stop-opacity: 1; }
+
+#stop3848-2 {
+  stop-color: #008233;
+  stop-opacity: 1; }
+
+#stop3850-4 {
+  stop-color: #008c31;
+  stop-opacity: 1; }
+
+#stop4015-1 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4017-7 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4032 {
+  stop-color: #4424a3;
+  stop-opacity: 1; }
+
+#stop4034 {
+  stop-color: #4424a3;
+  stop-opacity: 1; }
+
+#rect3454 {
+  opacity: 1;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-opacity: 1; }
+
+#g8579 {
+  display: inline; }
+
+#path13745 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/ovr16//sync_over.svg#linearGradient8584);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/ovr16//sync_over.svg#linearGradient8586);
+  stroke-width: 1.78771026;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path13811 {
+  fill: none;
+  stroke: #1f4a83;
+  stroke-width: 1.62702;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path13811-9 {
+  fill: none;
+  stroke: #1f4a83;
+  stroke-width: 1.62702;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#path3836-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/ovr16//sync_over.svg#linearGradient4055);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/ovr16//sync_over.svg#linearGradient4057);
+  stroke-width: 0.77245712;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }

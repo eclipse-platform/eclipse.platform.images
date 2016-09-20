@@ -1,0 +1,371 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop10800-5-2-1-8-20-6-4-9-8-2 {
+  stop-color: #a17748;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-3-2 {
+  stop-color: #8e5c24;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-9-2 {
+  stop-color: #c7af93;
+  stop-opacity: 1; }
+
+#g17100 {
+  fill: #ffffff; }
+
+#g17102 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#g17104 {
+  fill: #ffffff;
+  stroke: #ffffff; }
+
+#g17106 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#g17108 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#rect17110 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff; }
+
+#g17112 {
+  fill: #ffffff;
+  stroke: #ffffff; }
+
+#rect17114 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path17116 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path17118 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path17120 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#g17122 {
+  fill: #ffffff;
+  stroke: #ffffff; }
+
+#rect17124 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2.38039374;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline;
+  filter: url(../../../../eclipse-svg/org.eclipse.e4.tools.context.spy/icons//field_public_obj.svg#filter4929-9); }
+
+#rect17126 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.60383272;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path17128 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff; }
+
+#path17130 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  display: inline; }
+
+#path4919-6-6 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#g17066 {
+  fill: #ffffff; }
+
+#g17068 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#g17070 {
+  fill: #ffffff;
+  stroke: #ffffff; }
+
+#g17072 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#g17074 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#rect17076 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff; }
+
+#g17078 {
+  fill: #ffffff;
+  stroke: #ffffff; }
+
+#rect17080 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path17082 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path17084 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path17086 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#g17088 {
+  fill: #ffffff;
+  stroke: #ffffff; }
+
+#rect17090 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2.38039374;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline;
+  filter: url(../../../../eclipse-svg/org.eclipse.e4.tools.context.spy/icons//field_public_obj.svg#filter4929-9); }
+
+#rect17092 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.60383272;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path17094 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff; }
+
+#path17096 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  display: inline; }
+
+#path18862 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#stop7542-8-7-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0.502; }
+
+#stop7544-8-2-0 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop7546-1-7-9 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop7548-98-9-2 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop7542-4-4-3-3 {
+  stop-color: #ffffff;
+  stop-opacity: 0.502; }
+
+#stop7544-5-3-8-5 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop7546-2-9-1-2 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop7548-9-2-0-9 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop6740 {
+  stop-color: #5481b6;
+  stop-opacity: 1; }
+
+#stop5729 {
+  stop-color: #1c65a2;
+  stop-opacity: 1; }
+
+#stop6742 {
+  stop-color: #5286ba;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-20-6-4-9-8-2-7 {
+  stop-color: #75ba7a;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-3-2-4 {
+  stop-color: #418a4d;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-9-2-0 {
+  stop-color: #a4c589;
+  stop-opacity: 1; }
+
+#path10796-2-6-2 {
+  font-size: 13.58917427000000100px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: url(../../../../eclipse-svg/org.eclipse.e4.tools.context.spy/icons//field_public_obj.svg#linearGradient3077);
+  fill-opacity: 1;
+  stroke: #058149;
+  stroke-width: 4.28791809;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline;
+  font-family: Sans; }
+
+#layer1-3 {
+  display: inline; }
+
+#rect6501-1-6-1 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

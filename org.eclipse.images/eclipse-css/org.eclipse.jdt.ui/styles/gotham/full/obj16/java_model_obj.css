@@ -1,0 +1,89 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop3820 {
+  stop-color: #5c7aaa;
+  stop-opacity: 1; }
+
+#stop3822 {
+  stop-color: #286296;
+  stop-opacity: 1; }
+
+#stop3812 {
+  stop-color: #c1cde0;
+  stop-opacity: 1; }
+
+#stop3814 {
+  stop-color: #a5b5d0;
+  stop-opacity: 1; }
+
+#stop3804 {
+  stop-color: #fff2b0;
+  stop-opacity: 1; }
+
+#stop3806 {
+  stop-color: #fecf6c;
+  stop-opacity: 1; }
+
+#stop3796 {
+  stop-color: #be9c28;
+  stop-opacity: 1; }
+
+#stop3798 {
+  stop-color: #a77e1c;
+  stop-opacity: 1; }
+
+#stop23104 {
+  stop-color: #cfa73e;
+  stop-opacity: 1; }
+
+#stop23118 {
+  stop-color: #fecf6c;
+  stop-opacity: 1; }
+
+#stop23106 {
+  stop-color: #ffea91;
+  stop-opacity: 1; }
+
+#rect3014 {
+  fill: #286296;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3016 {
+  fill: #286296;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3790 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//java_model_obj.svg#linearGradient3800);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3792 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//java_model_obj.svg#linearGradient3824);
+  fill-opacity: 1;
+  stroke: none; }
+
+#path10927-5-7-4-4 {
+  fill: #366c9a;
+  fill-opacity: 1;
+  display: inline; }
+
+#rect3786 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//java_model_obj.svg#linearGradient3816);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3788 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//java_model_obj.svg#linearGradient3808);
+  fill-opacity: 1;
+  stroke: none; }

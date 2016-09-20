@@ -1,0 +1,216 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop3956 {
+  stop-color: #bccce4;
+  stop-opacity: 1; }
+
+#stop3958 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop3850 {
+  stop-color: #b38e22;
+  stop-opacity: 1; }
+
+#stop3852 {
+  stop-color: #b38e22;
+  stop-opacity: 1; }
+
+#stop3834 {
+  stop-color: #7694be;
+  stop-opacity: 1; }
+
+#stop3836 {
+  stop-color: #5c7aaa;
+  stop-opacity: 1; }
+
+#stop3826 {
+  stop-color: #c5d4e8;
+  stop-opacity: 1; }
+
+#stop3828 {
+  stop-color: #c5d4e8;
+  stop-opacity: 1; }
+
+#stop14967 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop14969 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop14959 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop14961 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop3813-8 {
+  stop-color: #cbe8f3;
+  stop-opacity: 1; }
+
+#stop3815-06 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop3789-1 {
+  stop-color: #a3937d;
+  stop-opacity: 1; }
+
+#stop3791-6 {
+  stop-color: #2a5e90;
+  stop-opacity: 1; }
+
+#stop3799-6 {
+  stop-color: #59ac57;
+  stop-opacity: 1; }
+
+#stop3805-4 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop3801-9 {
+  stop-color: #59ac57;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-2-8-1-7-3-7 {
+  stop-color: #e17673;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-2-95-0-5-4-8 {
+  stop-color: #d04046;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-2-0-9-8-4-3 {
+  stop-color: #e17673;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-2-8-1-7-3-7-37 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-2-95-0-5-4-8-8 {
+  stop-color: #3c8d49;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-2-0-9-8-4-3-7 {
+  stop-color: #a4e173;
+  stop-opacity: 1; }
+
+#stop7594-8-9-0 {
+  stop-color: #b08319;
+  stop-opacity: 1; }
+
+#stop7596-5-6-6 {
+  stop-color: #9a680f;
+  stop-opacity: 1; }
+
+#stop9278 {
+  stop-color: #9dd560;
+  stop-opacity: 1; }
+
+#stop9280 {
+  stop-color: #499851;
+  stop-opacity: 1; }
+
+#stop9323 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop9325 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop9331 {
+  stop-color: #f8d060;
+  stop-opacity: 1; }
+
+#stop9337 {
+  stop-color: #f8e898;
+  stop-opacity: 1; }
+
+#stop9333 {
+  stop-color: #f8f8e8;
+  stop-opacity: 1; }
+
+#stop3850-1 {
+  stop-color: #b38e22;
+  stop-opacity: 1; }
+
+#stop3852-9 {
+  stop-color: #b38e22;
+  stop-opacity: 1; }
+
+#stop3834-7 {
+  stop-color: #7694be;
+  stop-opacity: 1; }
+
+#stop3836-2 {
+  stop-color: #5c7aaa;
+  stop-opacity: 1; }
+
+#stop3850-1-2 {
+  stop-color: #b38e22;
+  stop-opacity: 1; }
+
+#stop3852-9-6 {
+  stop-color: #b38e22;
+  stop-opacity: 1; }
+
+#rect3054 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/elcl16//showchild_mode.svg#linearGradient3960);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/elcl16//showchild_mode.svg#linearGradient3838-3);
+  stroke-width: 0.65517247000000001;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path3840 {
+  fill: none;
+  stroke: #617fae;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path3842 {
+  fill: none;
+  stroke: #617fae;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#rect3846-6 {
+  fill: #fbeba4;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/elcl16//showchild_mode.svg#linearGradient3919);
+  stroke-width: 0.65517247;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#rect3846 {
+  fill: #fbeba4;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/elcl16//showchild_mode.svg#linearGradient3854);
+  stroke-width: 0.80000000999999998;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }

@@ -14,37 +14,37 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="backward_nav.svg">
   <defs
      id="defs4">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4749">
+       id="arrow_background">
       <stop
          style="stop-color:#ffffee;stop-opacity:1"
          offset="0"
-         id="stop4751" />
+         id="background_stop_0" />
       <stop
          style="stop-color:#ffecad;stop-opacity:1"
          offset="1"
-         id="stop4753" />
+         id="background_stop_1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4741">
+       id="arrow_stroke">
       <stop
          style="stop-color:#ba7f0d;stop-opacity:1"
          offset="0"
-         id="stop4743" />
+         id="stroke_stop_0" />
       <stop
          style="stop-color:#a2660b;stop-opacity:1"
          offset="1"
-         id="stop4745" />
+         id="stroke_stop_1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4741"
+       xlink:href="#arrow_stroke"
        id="linearGradient4747"
        x1="11.0625"
        y1="1038.5497"
@@ -54,7 +54,7 @@
        gradientTransform="matrix(-1,0,0,1,16,0)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4749"
+       xlink:href="#arrow_background"
        id="linearGradient4755"
        x1="4.5"
        y1="1042.047"
@@ -71,15 +71,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="8.1894629"
-     inkscape:cy="5.7677771"
+     inkscape:cx="2.8457129"
+     inkscape:cy="5.7052771"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1164"
-     inkscape:window-height="982"
-     inkscape:window-x="104"
-     inkscape:window-y="89"
+     inkscape:window-width="1363"
+     inkscape:window-height="1057"
+     inkscape:window-x="675"
+     inkscape:window-y="356"
      inkscape:window-maximized="0"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -107,7 +107,7 @@
     <path
        style="fill:url(#linearGradient4755);fill-opacity:1;stroke:url(#linearGradient4747);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 7.5,1038.8622 0,3 5.78125,0 c 0.667867,0 1.21875,0.5509 1.21875,1.2188 l 0,2.5625 c 0,0.6678 -0.550883,1.2187 -1.21875,1.2187 l -5.78125,0 0,3 -1,0 -5.5,-5.5 5.5,-5.5 1,0 z"
-       id="rect3968"
+       id="back_arrow"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

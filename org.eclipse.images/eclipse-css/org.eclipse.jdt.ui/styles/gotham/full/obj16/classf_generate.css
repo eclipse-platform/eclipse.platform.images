@@ -1,0 +1,503 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4996 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop4998 {
+  stop-color: #dce7f7;
+  stop-opacity: 1; }
+
+#stop4896 {
+  stop-color: #e0c88f;
+  stop-opacity: 1; }
+
+#stop4898 {
+  stop-color: #d5b269;
+  stop-opacity: 1; }
+
+#stop4904 {
+  stop-color: #b28a30;
+  stop-opacity: 1; }
+
+#stop4906 {
+  stop-color: #7b6f3e;
+  stop-opacity: 1; }
+
+#path22722 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#stop4996-4 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop4998-0 {
+  stop-color: #dce7f7;
+  stop-opacity: 1; }
+
+#stop4896-8 {
+  stop-color: #e0c88f;
+  stop-opacity: 1; }
+
+#stop4898-8 {
+  stop-color: #d5b269;
+  stop-opacity: 1; }
+
+#stop4904-5 {
+  stop-color: #b28a30;
+  stop-opacity: 1; }
+
+#stop4906-51 {
+  stop-color: #7b6f3e;
+  stop-opacity: 1; }
+
+#g22827 {
+  fill: #ffffff;
+  display: inline; }
+
+#g22829 {
+  fill: #ffffff; }
+
+#path22831 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path22833 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path22835 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4001-3 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//classf_generate.svg#linearGradient20767);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4884 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//classf_generate.svg#linearGradient22582);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4001 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//classf_generate.svg#linearGradient22579);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#g22707 {
+  opacity: 0.5;
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//classf_generate.svg#filter22716); }
+
+#layer1-6-7-7 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g4827-1-6 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none; }
+
+#rect4001-3-1-6 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#path4884-5-3 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4001-2-0 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#path21765-9 {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  font-family: Gautami;
+  inkscape-font-specification: Gautami; }
+
+#path21763-3-0 {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  font-family: Gautami;
+  inkscape-font-specification: Gautami; }
+
+#layer1-6-7 {
+  display: inline; }
+
+#rect4001-3-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//classf_generate.svg#linearGradient5000-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4884-5 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//classf_generate.svg#linearGradient4900-9);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4001-2 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//classf_generate.svg#linearGradient4884-2);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#g22819 {
+  opacity: 0.75;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g22814 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//classf_generate.svg#filter22841); }
+
+#path21763-9 {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  font-family: Gautami;
+  inkscape-font-specification: Gautami; }
+
+#path21765-3 {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  font-family: Gautami;
+  inkscape-font-specification: Gautami; }
+
+#path21763-3-02 {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  font-family: Gautami;
+  inkscape-font-specification: Gautami; }
+
+#path21763 {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: #17325d;
+  fill-opacity: 1;
+  stroke: #17325d;
+  stroke-width: 0.47980908;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  font-family: Gautami;
+  inkscape-font-specification: Gautami; }
+
+#path21765 {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: #17325d;
+  fill-opacity: 1;
+  stroke: #17325d;
+  stroke-width: 0.29654568;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  font-family: Gautami;
+  inkscape-font-specification: Gautami; }
+
+#path21763-3 {
+  font-size: 10px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: #17325d;
+  fill-opacity: 1;
+  stroke: #17325d;
+  stroke-width: 0.47980908;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  font-family: Gautami;
+  inkscape-font-specification: Gautami; }

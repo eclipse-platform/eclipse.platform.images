@@ -1,0 +1,75 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop10800-5-2-1-8-2-8-1-7-3-7-3 {
+  stop-color: #e17673;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-2-95-0-5-4-8-2 {
+  stop-color: #d04046;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-2-0-9-8-4-3-1 {
+  stop-color: #e17673;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g8159 {
+  display: inline; }
+
+#g4110 {
+  display: inline; }
+
+#path10796-2-6-0 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.progress/icons/full/progress//errorstate.svg#linearGradient4116-4);
+  fill-opacity: 1;
+  stroke: #c93e35;
+  stroke-width: 1.97452509;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path5021 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1px;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }

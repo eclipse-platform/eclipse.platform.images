@@ -19,15 +19,15 @@
   <defs
      id="defs4">
     <linearGradient
-       id="linearGradient4740-1">
+       id="triangle_stroke">
       <stop
          style="stop-color:#5900cd;stop-opacity:1;"
          offset="0"
-         id="stop4742-5" />
+         id="triangle_stop_0" />
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="1"
-         id="stop4744-0" />
+         id="triangle_stop_1" />
     </linearGradient>
     <linearGradient
        gradientTransform="matrix(0.8005698,0,0,0.8005698,-1.3139245,1044.5914)"
@@ -37,7 +37,7 @@
        x1="5.09375"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4763"
-       xlink:href="#linearGradient4740-1"
+       xlink:href="#triangle_stroke"
        inkscape:collect="always" />
   </defs>
   <sodipodi:namedview

@@ -1,0 +1,487 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop5105-5-4 {
+  stop-color: #c1ebca;
+  stop-opacity: 1; }
+
+#stop7550-07-0 {
+  stop-color: #b3dac7;
+  stop-opacity: 1; }
+
+#stop7548-6-9 {
+  stop-color: #9ec2c3;
+  stop-opacity: 1; }
+
+#stop5107-7-48 {
+  stop-color: #7a99bb;
+  stop-opacity: 1; }
+
+#stop3957-4 {
+  stop-color: #c38536;
+  stop-opacity: 1; }
+
+#stop3959-2 {
+  stop-color: #f2dc91;
+  stop-opacity: 1; }
+
+#stop3961-1 {
+  stop-color: #fbdc8b;
+  stop-opacity: 1; }
+
+#stop3963-4 {
+  stop-color: #e6bd7a;
+  stop-opacity: 1; }
+
+#stop3965-5 {
+  stop-color: #ba772f;
+  stop-opacity: 1; }
+
+#g5161 {
+  font-size: 11.05178356px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 0.24860173;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  font-family: AustralianFlyingCorpsStencil;
+  inkscape-font-specification: AustralianFlyingCorpsStencil; }
+
+#rect5163 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path5165 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path5167 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#g5155 {
+  display: inline; }
+
+#path5157 {
+  display: inline;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#stop11150-4-72-2-0 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-9-0-2-9 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop3969-3 {
+  stop-color: #c48a4e;
+  stop-opacity: 1; }
+
+#stop3971-6 {
+  stop-color: #ad6c24;
+  stop-opacity: 1; }
+
+#stop3975-0 {
+  stop-color: #f8d078;
+  stop-opacity: 1; }
+
+#stop3977-3 {
+  stop-color: #f8f0c8;
+  stop-opacity: 1; }
+
+#stop3951-7 {
+  stop-color: #9e6627;
+  stop-opacity: 1; }
+
+#stop3953-6 {
+  stop-color: #c38536;
+  stop-opacity: 1; }
+
+#g5155-0 {
+  display: inline; }
+
+#path5157-4 {
+  display: inline;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#filter4929-6 {
+  color-interpolation-filters: sRGB; }
+
+#stop4286 {
+  stop-color: #6588c1;
+  stop-opacity: 0; }
+
+#stop4288 {
+  stop-color: #becce3;
+  stop-opacity: 1; }
+
+#stop4290 {
+  stop-color: #809dcb;
+  stop-opacity: 0; }
+
+#stop10450-3-5-6-7 {
+  stop-color: #cf9307;
+  stop-opacity: 1; }
+
+#stop10456-4-1-5-3 {
+  stop-color: #f7d87b;
+  stop-opacity: 1; }
+
+#stop10452-22-7-8-4 {
+  stop-color: #ebb313;
+  stop-opacity: 1; }
+
+#stop10442-43-2-0-9 {
+  stop-color: #ae7603;
+  stop-opacity: 1; }
+
+#stop10521-1-2-5-3 {
+  stop-color: #e8d8a3;
+  stop-opacity: 1; }
+
+#stop10444-3-4-0-4 {
+  stop-color: #bb9221;
+  stop-opacity: 1; }
+
+#stop10750-5 {
+  stop-color: #ecac18;
+  stop-opacity: 1; }
+
+#stop10752-8 {
+  stop-color: #f1ce66;
+  stop-opacity: 1; }
+
+#stop10754-8 {
+  stop-color: #f6e5a6;
+  stop-opacity: 1; }
+
+#stop10756-4 {
+  stop-color: #f1cf6c;
+  stop-opacity: 1; }
+
+#stop10758-7 {
+  stop-color: #e5b630;
+  stop-opacity: 1; }
+
+#stop10450-0 {
+  stop-color: #ecac18;
+  stop-opacity: 1; }
+
+#stop10458-2 {
+  stop-color: #ffe38d;
+  stop-opacity: 1; }
+
+#stop10456-96 {
+  stop-color: #fdf5d2;
+  stop-opacity: 1; }
+
+#stop10460-3 {
+  stop-color: #ffeba7;
+  stop-opacity: 1; }
+
+#stop10452-1 {
+  stop-color: #e5b630;
+  stop-opacity: 1; }
+
+#stop10416-3 {
+  stop-color: #5078b9;
+  stop-opacity: 1; }
+
+#stop10422-8 {
+  stop-color: #6d8cbd;
+  stop-opacity: 1; }
+
+#stop10418-4 {
+  stop-color: #5f88c9;
+  stop-opacity: 1; }
+
+#stop10434-4 {
+  stop-color: #1f4d9a;
+  stop-opacity: 1; }
+
+#stop10436-2 {
+  stop-color: #4e6da1;
+  stop-opacity: 1; }
+
+#stop10438-9 {
+  stop-color: #567ebc;
+  stop-opacity: 1; }
+
+#stop10159-5 {
+  stop-color: #6588c1;
+  stop-opacity: 1; }
+
+#stop10165-9 {
+  stop-color: #becce3;
+  stop-opacity: 1; }
+
+#stop10161-55 {
+  stop-color: #809dcb;
+  stop-opacity: 1; }
+
+#stop10398-7 {
+  stop-color: #1b3e79;
+  stop-opacity: 1; }
+
+#stop10404-9 {
+  stop-color: #728fbf;
+  stop-opacity: 1; }
+
+#stop10400-9 {
+  stop-color: #1f4d9a;
+  stop-opacity: 1; }
+
+#stop10151-5-7-2 {
+  stop-color: #1f4d9a;
+  stop-opacity: 1; }
+
+#stop10394-3 {
+  stop-color: #b9c7df;
+  stop-opacity: 1; }
+
+#stop10153-8-1-2 {
+  stop-color: #567ebc;
+  stop-opacity: 1; }
+
+#stop4809-7-5 {
+  stop-color: #9e6627;
+  stop-opacity: 1; }
+
+#stop4811-50-7 {
+  stop-color: #bc8532;
+  stop-opacity: 1; }
+
+#stop4370 {
+  stop-color: #fbdf89;
+  stop-opacity: 1; }
+
+#stop4376 {
+  stop-color: #f5ebc6;
+  stop-opacity: 1; }
+
+#stop4378 {
+  stop-color: #f3f4f0;
+  stop-opacity: 1; }
+
+#stop4372 {
+  stop-color: #f3f4f0;
+  stop-opacity: 1; }
+
+#stop4346 {
+  stop-color: #7e9cca;
+  stop-opacity: 1; }
+
+#stop4354 {
+  stop-color: #7e9cca;
+  stop-opacity: 1; }
+
+#stop4356 {
+  stop-color: #c0cde4;
+  stop-opacity: 1; }
+
+#stop4352 {
+  stop-color: #7e9cca;
+  stop-opacity: 1; }
+
+#stop4348 {
+  stop-color: #7e9cca;
+  stop-opacity: 1; }
+
+#stop4338 {
+  stop-color: #3461ab;
+  stop-opacity: 1; }
+
+#stop4340 {
+  stop-color: #5d88cb;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g8159 {
+  display: inline; }
+
+#g13813-9 {
+  display: inline; }
+
+#rect13693-3-7 {
+  display: inline;
+  fill: #fdf7eb;
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//open_artifact_obj.svg#linearGradient4299);
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#rect13693-1 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//open_artifact_obj.svg#linearGradient4301);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//open_artifact_obj.svg#linearGradient4303);
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#path13797-6 {
+  fill: none;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//open_artifact_obj.svg#linearGradient4305);
+  stroke-width: 3.02792978;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#g6258 {
+  display: inline; }
+
+#rect13693-2-2 {
+  display: inline;
+  opacity: 0.5;
+  fill: #000000;
+  fill-opacity: 1;
+  stroke: #000000;
+  stroke-width: 2.38039374;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1;
+  filter: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//open_artifact_obj.svg#filter4929-6); }
+
+#layer1-4 {
+  display: inline; }
+
+#g4246 {
+  display: inline; }
+
+#g4382 {
+  display: inline; }
+
+#path4366 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//open_artifact_obj.svg#linearGradient4374);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #b08b21;
+  stroke-width: 3.58380508px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4326 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//open_artifact_obj.svg#linearGradient4350);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//open_artifact_obj.svg#linearGradient4342);
+  stroke-width: 3.58380508;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none; }
+
+#rect4358 {
+  opacity: 1;
+  fill: #547fc4;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1.79190254;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4380 {
+  opacity: 1;
+  fill: #b08b21;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1.79190254;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect13693-2 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//open_artifact_obj.svg#linearGradient6107);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//open_artifact_obj.svg#linearGradient6109);
+  stroke-width: 1.6308614;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }

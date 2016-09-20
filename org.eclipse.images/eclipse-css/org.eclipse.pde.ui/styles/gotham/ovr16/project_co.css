@@ -1,0 +1,69 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4193 {
+  stop-color: #a07069;
+  stop-opacity: 1; }
+
+#stop4195 {
+  stop-color: #765c77;
+  stop-opacity: 1; }
+
+#stop4172 {
+  stop-color: #b6ffff;
+  stop-opacity: 1; }
+
+#stop4174 {
+  stop-color: #8dd6ff;
+  stop-opacity: 1; }
+
+#rect4199 {
+  opacity: 1;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4180 {
+  opacity: 1;
+  fill: #ffeab9;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4168 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/ovr16//project_co.svg#linearGradient4176);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #123596;
+  stroke-width: 1.02520812px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4178 {
+  fill: none;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/ovr16//project_co.svg#radialGradient4197);
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }

@@ -1,0 +1,78 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4892 {
+  stop-color: #2857bd;
+  stop-opacity: 1; }
+
+#stop4894 {
+  stop-color: #3d5384;
+  stop-opacity: 1; }
+
+#stop4998-5 {
+  stop-color: #02468c;
+  stop-opacity: 1; }
+
+#stop5000-5 {
+  stop-color: #0e62a4;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g8159 {
+  display: inline; }
+
+#text4140-1-8 {
+  font-size: 15.07241725999999993px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 900;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.runtime/icons/obj16//info_st_obj.svg#linearGradient4896);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  font-family: Kozuka Mincho Pr6N H;
+  inkscape-font-specification: Kozuka Mincho Pr6N H Heavy; }
+
+#path5058 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.runtime/icons/obj16//info_st_obj.svg#linearGradient4898);
+  fill-opacity: 1; }
+
+#text4140-1-8-1 {
+  font-size: 15.07241726px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 900;
+  font-stretch: normal;
+  text-align: start;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.runtime/icons/obj16//info_st_obj.svg#linearGradient5028);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  font-family: Kozuka Mincho Pr6N H;
+  inkscape-font-specification: Kozuka Mincho Pr6N H Heavy; }
+
+#tspan4142-7-8-7 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.runtime/icons/obj16//info_st_obj.svg#linearGradient5028);
+  fill-opacity: 1; }

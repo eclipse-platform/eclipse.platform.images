@@ -1,0 +1,94 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4165 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop4167 {
+  stop-color: #e0e9f7;
+  stop-opacity: 1; }
+
+#stop4173 {
+  stop-color: #606f8d;
+  stop-opacity: 1; }
+
+#stop4175 {
+  stop-color: #a29762;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g4212 {
+  display: inline; }
+
+#rect4161-7 {
+  display: inline;
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//group_sc_obj.svg#linearGradient4169-4);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//group_sc_obj.svg#linearGradient4177-0);
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4161 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//group_sc_obj.svg#linearGradient4169);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//group_sc_obj.svg#linearGradient4177);
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#g4340 {
+  display: inline; }
+
+#rect4287 {
+  display: inline;
+  opacity: 1;
+  fill: #29486b;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4287-5 {
+  display: inline;
+  opacity: 1;
+  fill: #29486b;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4287-5-8 {
+  display: inline;
+  opacity: 1;
+  fill: #29486b;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

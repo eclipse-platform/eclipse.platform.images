@@ -1,0 +1,313 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4841 {
+  stop-color: #2846b3;
+  stop-opacity: 1; }
+
+#stop4843 {
+  stop-color: #555f9e;
+  stop-opacity: 1; }
+
+#stop4845 {
+  stop-color: #567ebc;
+  stop-opacity: 0; }
+
+#stop4840 {
+  stop-color: #9e6627;
+  stop-opacity: 1; }
+
+#stop4842 {
+  stop-color: #cf9852;
+  stop-opacity: 1; }
+
+#stop4764 {
+  stop-color: #ffd175;
+  stop-opacity: 1; }
+
+#stop4766 {
+  stop-color: #fff1c2;
+  stop-opacity: 1; }
+
+#stop4758 {
+  stop-color: #92b5eb;
+  stop-opacity: 1; }
+
+#stop4760 {
+  stop-color: #b1e1fd;
+  stop-opacity: 1; }
+
+#stop4750 {
+  stop-color: #958189;
+  stop-opacity: 1; }
+
+#stop4752 {
+  stop-color: #897b8d;
+  stop-opacity: 1; }
+
+#stop4809 {
+  stop-color: #2846b3;
+  stop-opacity: 1; }
+
+#stop4811 {
+  stop-color: #60649d;
+  stop-opacity: 1; }
+
+#stop3969 {
+  stop-color: #d1ad79;
+  stop-opacity: 1; }
+
+#stop3971 {
+  stop-color: #ce9650;
+  stop-opacity: 1; }
+
+#stop3957 {
+  stop-color: #c38536;
+  stop-opacity: 0; }
+
+#stop3959 {
+  stop-color: #f2dc91;
+  stop-opacity: 1; }
+
+#stop3961 {
+  stop-color: #fbdc8b;
+  stop-opacity: 1; }
+
+#stop3963 {
+  stop-color: #e6bd7a;
+  stop-opacity: 1; }
+
+#stop3965 {
+  stop-color: #ba772f;
+  stop-opacity: 0; }
+
+#path4919 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path4919-3 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#g6896 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#rect6898 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path6900 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path6902 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path6904 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#g6906 {
+  fill: #ffffff;
+  stroke: #ffffff; }
+
+#rect6908 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2.38039374;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#filter4929-8); }
+
+#rect6910 {
+  fill: #000000;
+  fill-opacity: 1;
+  stroke: #000000;
+  stroke-width: 3.60383272;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect6912 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#layer1 {
+  display: inline; }
+
+#g13862 {
+  display: inline; }
+
+#rect3978 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#linearGradient4030);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect13693-3 {
+  fill: #fdf7eb;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#linearGradient3939);
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect13693 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#linearGradient4933);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#linearGradient4935);
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#rect13693-4 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#linearGradient4795-2);
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path13797 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#linearGradient4867);
+  stroke-width: 3.02792978;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#rect13693-2-2 {
+  opacity: 0.5;
+  fill: #000000;
+  fill-opacity: 1;
+  stroke: #000000;
+  stroke-width: 2.38039374;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#filter4929); }
+
+#rect13693-2 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#linearGradient4776);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#linearGradient4778);
+  stroke-width: 3.60383272;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path4004 {
+  fill: #60649d;
+  fill-opacity: 1;
+  stroke: none; }
+
+#g6069 {
+  opacity: 0.5; }
+
+#path10927-5-7-3 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  display: inline;
+  stroke: #ffffff;
+  stroke-width: 7.16761023000000020;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//projects.svg#filter6914); }
+
+#path10927-5-7 {
+  fill: #366c9a;
+  fill-opacity: 1;
+  display: inline; }

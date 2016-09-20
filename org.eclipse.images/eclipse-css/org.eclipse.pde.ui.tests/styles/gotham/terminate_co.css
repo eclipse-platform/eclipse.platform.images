@@ -1,0 +1,77 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4731 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4737 {
+  stop-color: #ffffff;
+  stop-opacity: 0.49579832; }
+
+#stop4733 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop6644-4 {
+  stop-color: #e83038;
+  stop-opacity: 1; }
+
+#stop6646-0 {
+  stop-color: #af131a;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect6562 {
+  font-size: 13.58917427px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: #000000;
+  fill: url(../../../../eclipse-svg/org.eclipse.pde.ui.tests/icons//terminate_co.svg#linearGradient4783);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #a81d24;
+  stroke-width: 0.60000002;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans; }
+
+#rect6562-9 {
+  font-size: 13.58917427px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: #000000;
+  fill: none;
+  stroke: url(../../../../eclipse-svg/org.eclipse.pde.ui.tests/icons//terminate_co.svg#linearGradient4735);
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-opacity: 0.69158876;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans; }

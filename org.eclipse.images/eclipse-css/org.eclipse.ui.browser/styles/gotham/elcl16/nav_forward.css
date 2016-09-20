@@ -1,0 +1,41 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4751 {
+  stop-color: #ffffee;
+  stop-opacity: 1; }
+
+#stop4753 {
+  stop-color: #ffecad;
+  stop-opacity: 1; }
+
+#stop4743 {
+  stop-color: #ba7f0d;
+  stop-opacity: 1; }
+
+#stop4745 {
+  stop-color: #a2660b;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect3968 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.ui.browser/icons/elcl16//nav_forward.svg#linearGradient4755);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.ui.browser/icons/elcl16//nav_forward.svg#linearGradient4747);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }

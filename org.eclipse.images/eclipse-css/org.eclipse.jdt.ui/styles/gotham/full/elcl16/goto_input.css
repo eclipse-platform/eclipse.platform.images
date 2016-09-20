@@ -1,0 +1,142 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop16149 {
+  stop-color: #a66b10;
+  stop-opacity: 1; }
+
+#stop16151 {
+  stop-color: #bd8416;
+  stop-opacity: 1; }
+
+#stop5099 {
+  stop-color: #778cb4;
+  stop-opacity: 1; }
+
+#stop5101 {
+  stop-color: #677da9;
+  stop-opacity: 1; }
+
+#stop5091 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop5093 {
+  stop-color: #e0eaf7;
+  stop-opacity: 1; }
+
+#stop4317 {
+  stop-color: #c7b571;
+  stop-opacity: 1; }
+
+#stop4319 {
+  stop-color: #9a998f;
+  stop-opacity: 1; }
+
+#stop5105-40-0 {
+  stop-color: #fefdef;
+  stop-opacity: 1; }
+
+#stop7550-3-3 {
+  stop-color: #fef5d4;
+  stop-opacity: 1; }
+
+#stop7548-4-6 {
+  stop-color: #fbe08e;
+  stop-opacity: 1; }
+
+#stop5107-10-1 {
+  stop-color: #fbdd83;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect3997-9 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//goto_input.svg#linearGradient5095);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//goto_input.svg#linearGradient4060);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect4816-1-1-4 {
+  fill: #a9b7d2;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816-1-1-4-8 {
+  fill: #a9b7d2;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816-1-1-4-8-5 {
+  fill: #c1c6d9;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816-1-1-4-8-5-5 {
+  fill: #c1c6d9;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816-1-1-4-8-5-5-4 {
+  fill: #286296;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816-1-1-4-8-5-5-4-1 {
+  fill: #286296;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816-1-1-4-8-5-5-4-1-6 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//goto_input.svg#linearGradient5103);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816-1-1-4-8-2 {
+  fill: #a9b7d2;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816-1-1-4-8-5-3 {
+  fill: #c1c6d9;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#layer1-7-8 {
+  display: inline; }
+
+#path4108-1-2 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//goto_input.svg#linearGradient5109-2-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4108-1-6-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//goto_input.svg#linearGradient16112);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

@@ -1,0 +1,31 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#layer1 {
+  display: inline; }
+
+#g8472 {
+  display: inline; }
+
+#rect4177 {
+  fill: #888888;
+  fill-opacity: 1;
+  stroke: none; }
+
+#path4966 {
+  fill: #000000;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4968 {
+  fill: #000000;
+  fill-opacity: 1;
+  stroke: none; }

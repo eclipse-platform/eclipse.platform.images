@@ -1,0 +1,63 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4974 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4976 {
+  stop-color: #f5f8fd;
+  stop-opacity: 1; }
+
+#stop4966 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4968 {
+  stop-color: #e8eefa;
+  stop-opacity: 1; }
+
+#stop4958 {
+  stop-color: #fcfdfe;
+  stop-opacity: 1; }
+
+#stop4960 {
+  stop-color: #dee6f8;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g8159 {
+  display: inline; }
+
+#rect4113 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4113-1 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.jface/icons/full//title_banner.svg#linearGradient4978);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4113-1-7 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.jface/icons/full//title_banner.svg#linearGradient4970);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4113-1-0 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.jface/icons/full//title_banner.svg#linearGradient4962);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

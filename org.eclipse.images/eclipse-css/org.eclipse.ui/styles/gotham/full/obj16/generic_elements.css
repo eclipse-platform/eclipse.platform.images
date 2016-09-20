@@ -1,0 +1,79 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4896 {
+  stop-color: #b4d1e5;
+  stop-opacity: 1; }
+
+#stop4898 {
+  stop-color: #5395be;
+  stop-opacity: 1; }
+
+#stop4900 {
+  stop-color: #91bcd7;
+  stop-opacity: 1; }
+
+#stop4896-4 {
+  stop-color: #b4d1e5;
+  stop-opacity: 1; }
+
+#stop4898-0 {
+  stop-color: #5395be;
+  stop-opacity: 1; }
+
+#stop4900-9 {
+  stop-color: #91bcd7;
+  stop-opacity: 1; }
+
+#stop4896-2 {
+  stop-color: #b4d1e5;
+  stop-opacity: 1; }
+
+#stop4898-4 {
+  stop-color: #5395be;
+  stop-opacity: 1; }
+
+#stop4900-5 {
+  stop-color: #91bcd7;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#path4035-4-5 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//generic_elements.svg#linearGradient4871);
+  fill-opacity: 1;
+  stroke: #264e72;
+  stroke-width: 0.93798536;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#path4035-4-5-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//generic_elements.svg#linearGradient4064);
+  fill-opacity: 1;
+  stroke: #264e72;
+  stroke-width: 0.93798536;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#path4035-4-5-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//generic_elements.svg#linearGradient4064-5);
+  fill-opacity: 1;
+  stroke: #264e72;
+  stroke-width: 0.93798536;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }

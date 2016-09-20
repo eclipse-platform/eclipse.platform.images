@@ -1,0 +1,203 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4352 {
+  stop-color: #304bb0;
+  stop-opacity: 1; }
+
+#stop4354 {
+  stop-color: #897b8d;
+  stop-opacity: 1; }
+
+#stop4192 {
+  stop-color: #2846b3;
+  stop-opacity: 1; }
+
+#stop4194 {
+  stop-color: #92808a;
+  stop-opacity: 1; }
+
+#stop4172 {
+  stop-color: #85c0ed;
+  stop-opacity: 1; }
+
+#stop4174 {
+  stop-color: #dbedfa;
+  stop-opacity: 1; }
+
+#stop4189 {
+  stop-color: #17325d;
+  stop-opacity: 1; }
+
+#stop4201 {
+  stop-color: #b7d2e4;
+  stop-opacity: 1; }
+
+#stop4191 {
+  stop-color: #3e72a7;
+  stop-opacity: 1; }
+
+#stop4180-5 {
+  stop-color: #7e713d;
+  stop-opacity: 1; }
+
+#stop4182-0 {
+  stop-color: #b28a30;
+  stop-opacity: 1; }
+
+#rect3368-9-6 {
+  opacity: 1;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4340);
+  stroke-width: 1;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4307-4-6 {
+  fill: #b7d2e4;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #ffffff;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4198-65-8 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4342);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-7-5 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4344);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-7-2-3 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4346);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-7-2-6-7 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4348);
+  stroke-width: 0.96179312;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect3368-9 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4362);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4184-2);
+  stroke-width: 1;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4307-4 {
+  fill: #b7d2e4;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #ffffff;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4198-65 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4206-38);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-7 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4206-1);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-7-2 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4206-1-9);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-7-2-6 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4206-1-9-5);
+  stroke-width: 0.96179312;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4188-0 {
+  opacity: 1;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_obj.svg#linearGradient4196-9);
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

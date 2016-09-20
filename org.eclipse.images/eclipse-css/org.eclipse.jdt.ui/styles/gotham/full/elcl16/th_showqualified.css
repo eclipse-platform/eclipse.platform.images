@@ -1,0 +1,97 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop11150-9-6-9-1-7 {
+  stop-color: #ffffac;
+  stop-opacity: 1; }
+
+#stop11152-6-7-6-5-5 {
+  stop-color: #9e9b42;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g11260-4 {
+  display: inline; }
+
+#rect10961-8 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//th_showqualified.svg#radialGradient11268-5-5-8-6);
+  fill-opacity: 1;
+  stroke: #57423b;
+  stroke-width: 2.14568497;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-9-0 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//th_showqualified.svg#radialGradient11270-4-5-9-3);
+  fill-opacity: 1;
+  stroke: #57423b;
+  stroke-width: 2.14568497;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-3-9 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//th_showqualified.svg#radialGradient11272-3-8-4-4);
+  fill-opacity: 1;
+  stroke: #57423b;
+  stroke-width: 2.14568497;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-9-6-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//th_showqualified.svg#radialGradient11274-3-3-6-7);
+  fill-opacity: 1;
+  stroke: #57423b;
+  stroke-width: 2.14568497;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path11108-6 {
+  fill: none;
+  stroke: #57423b;
+  stroke-width: 2.14568496;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path11108-8-0 {
+  fill: none;
+  stroke: #57423b;
+  stroke-width: 2.14568496;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }

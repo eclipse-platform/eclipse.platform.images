@@ -1,0 +1,83 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4928 {
+  stop-color: #ac9575;
+  stop-opacity: 1; }
+
+#stop4931 {
+  stop-color: #f4efe9;
+  stop-opacity: 1; }
+
+#stop4902 {
+  stop-color: #9a8d73;
+  stop-opacity: 1; }
+
+#stop4904 {
+  stop-color: #c0b194;
+  stop-opacity: 1; }
+
+#stop4822 {
+  stop-color: #f5ede6;
+  stop-opacity: 1; }
+
+#stop4824 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4814 {
+  stop-color: #ccbba3;
+  stop-opacity: 1; }
+
+#stop4816 {
+  stop-color: #f2ebe4;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#path4002 {
+  fill: none;
+  stroke: #9a8d73;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4004-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear_co.svg#linearGradient4826);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4004-1-7 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear_co.svg#linearGradient4818);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4002-1 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear_co.svg#linearGradient4933);
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  display: inline; }
+
+#path4004-1-5 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear_co.svg#linearGradient4906);
+  stroke-width: 1px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-opacity: 1;
+  display: inline; }

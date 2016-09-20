@@ -1,0 +1,630 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4625 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4627 {
+  stop-color: #ffffff;
+  stop-opacity: 0.65445024; }
+
+#stop10800-5-2-1-8-2-8-1-7 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-2-95-0-5 {
+  stop-color: #418a4d;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-2-0-9-8 {
+  stop-color: #a4c589;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-2-5-2-6-8 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-2-3-3-7-3 {
+  stop-color: #418a4d;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-2-2-2-2-4 {
+  stop-color: #a4c589;
+  stop-opacity: 1; }
+
+#stop11689-3-7-3 {
+  stop-color: #bdb692;
+  stop-opacity: 1; }
+
+#stop11695-9-8-7 {
+  stop-color: #869097;
+  stop-opacity: 1; }
+
+#stop11691-10-4-7 {
+  stop-color: #c3cace;
+  stop-opacity: 1; }
+
+#stop4764 {
+  stop-color: #a0c8f0;
+  stop-opacity: 1; }
+
+#stop4766 {
+  stop-color: #b0e0f8;
+  stop-opacity: 1; }
+
+#stop4840 {
+  stop-color: #465289;
+  stop-opacity: 1; }
+
+#stop4842 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3957-3 {
+  stop-color: #3870da;
+  stop-opacity: 1; }
+
+#stop3959-2 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3961-3 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3963-9 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3965-8 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#g5079 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#g5081 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#rect5083 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff; }
+
+#g5085 {
+  fill: #ffffff;
+  stroke: #ffffff; }
+
+#rect5087 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path5089 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path5091 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path5095 {
+  fill: #000000;
+  fill-opacity: 1;
+  stroke: none; }
+
+#stop4764-1 {
+  stop-color: #a0c8f0;
+  stop-opacity: 1; }
+
+#stop4766-3 {
+  stop-color: #b0e0f8;
+  stop-opacity: 1; }
+
+#stop4840-0 {
+  stop-color: #465289;
+  stop-opacity: 1; }
+
+#stop4842-5 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3957-3-9 {
+  stop-color: #3870da;
+  stop-opacity: 1; }
+
+#stop3959-2-3 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3961-3-7 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3963-9-6 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3965-8-3 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#rect3943 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#path3945 {
+  fill: #000000;
+  fill-opacity: 1;
+  stroke: none; }
+
+#stop4764-8 {
+  stop-color: #a0c8f0;
+  stop-opacity: 1; }
+
+#stop4766-2 {
+  stop-color: #b0e0f8;
+  stop-opacity: 1; }
+
+#stop4840-08 {
+  stop-color: #465289;
+  stop-opacity: 1; }
+
+#stop4842-9 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3957-3-95 {
+  stop-color: #3870da;
+  stop-opacity: 1; }
+
+#stop3959-2-31 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3961-3-8 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3963-9-0 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3965-8-1 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop4764-8-3 {
+  stop-color: #a0c8f0;
+  stop-opacity: 1; }
+
+#stop4766-2-5 {
+  stop-color: #b0e0f8;
+  stop-opacity: 1; }
+
+#stop4840-08-8 {
+  stop-color: #465289;
+  stop-opacity: 1; }
+
+#stop4842-9-9 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3957-3-95-1 {
+  stop-color: #3870da;
+  stop-opacity: 1; }
+
+#stop3959-2-31-2 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3961-3-8-3 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3963-9-0-9 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3965-8-1-1 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3957-3-7 {
+  stop-color: #3870da;
+  stop-opacity: 1; }
+
+#stop3959-2-5 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3961-3-0 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3963-9-8 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3965-8-12 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop4764-2-7 {
+  stop-color: #a0c8f0;
+  stop-opacity: 1; }
+
+#stop4766-7-1 {
+  stop-color: #b0e0f8;
+  stop-opacity: 1; }
+
+#stop4840-7-4 {
+  stop-color: #465289;
+  stop-opacity: 1; }
+
+#stop4842-57-4 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3957-3-7-7 {
+  stop-color: #3870da;
+  stop-opacity: 1; }
+
+#stop3959-2-5-6 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3961-3-0-3 {
+  stop-color: #78b8f0;
+  stop-opacity: 1; }
+
+#stop3963-9-8-9 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop3965-8-12-5 {
+  stop-color: #3068d8;
+  stop-opacity: 1; }
+
+#stop11681-91-8-7-2 {
+  stop-color: #ffffff;
+  stop-opacity: 0.72146118; }
+
+#stop11683-02-6-7-6 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop11689-3-7-3-0 {
+  stop-color: #bdb692;
+  stop-opacity: 1; }
+
+#stop11695-9-8-7-3 {
+  stop-color: #869097;
+  stop-opacity: 1; }
+
+#stop11691-10-4-7-1 {
+  stop-color: #c3cace;
+  stop-opacity: 1; }
+
+#stop11681-91-8-7-4 {
+  stop-color: #ffffff;
+  stop-opacity: 0.72146118; }
+
+#stop11683-02-6-7-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop11689-3-7-3-7 {
+  stop-color: #bdb692;
+  stop-opacity: 1; }
+
+#stop11695-9-8-7-6 {
+  stop-color: #869097;
+  stop-opacity: 1; }
+
+#stop11691-10-4-7-2 {
+  stop-color: #c3cace;
+  stop-opacity: 1; }
+
+#stop11681-91-8-7-23 {
+  stop-color: #ffffff;
+  stop-opacity: 0.72146118; }
+
+#stop11683-02-6-7-4 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop11689-3-7-3-4 {
+  stop-color: #bdb692;
+  stop-opacity: 1; }
+
+#stop11695-9-8-7-4 {
+  stop-color: #869097;
+  stop-opacity: 1; }
+
+#stop11691-10-4-7-6 {
+  stop-color: #c3cace;
+  stop-opacity: 1; }
+
+#stop11681-91-8-7-23-0 {
+  stop-color: #ffffff;
+  stop-opacity: 0.72146118; }
+
+#stop11683-02-6-7-4-0 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop11689-3-7-3-4-0 {
+  stop-color: #9e9460;
+  stop-opacity: 1; }
+
+#stop11695-9-8-7-4-9 {
+  stop-color: #6a747b;
+  stop-opacity: 1; }
+
+#stop11691-10-4-7-6-7 {
+  stop-color: #919ea5;
+  stop-opacity: 1; }
+
+#stop11689-3-7-3-4-0-1 {
+  stop-color: #bdb692;
+  stop-opacity: 1; }
+
+#stop11695-9-8-7-4-9-6 {
+  stop-color: #869097;
+  stop-opacity: 1; }
+
+#stop11691-10-4-7-6-7-8 {
+  stop-color: #c3cace;
+  stop-opacity: 1; }
+
+#stop11689-3-7-3-4-0-11 {
+  stop-color: #bdb692;
+  stop-opacity: 1; }
+
+#stop11695-9-8-7-4-9-5 {
+  stop-color: #869097;
+  stop-opacity: 1; }
+
+#stop11691-10-4-7-6-7-0 {
+  stop-color: #c3cace;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g4187 {
+  display: inline; }
+
+#rect13693-3-3 {
+  font-size: 13.58917427px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: #f8e0d0;
+  fill-opacity: 1;
+  stroke: #f8b098;
+  stroke-width: 0.99300164;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline;
+  font-family: Sans; }
+
+#layer1-9-2 {
+  font-size: 13.58917427px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  font-family: Sans; }
+
+#g13862-2 {
+  display: inline; }
+
+#rect3978-6-9 {
+  font-size: 13.58917427px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: #73667b;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  font-family: Sans; }
+
+#rect3978 {
+  fill: #73667b;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3978-6 {
+  font-size: 13.58917427px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: #73667b;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  font-family: Sans; }
+
+#rect13693-38 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//browse_persp.svg#linearGradient4933-7-2-9);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//browse_persp.svg#linearGradient4935-0-3-2);
+  stroke-width: 4.49057722;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path13797-8 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//browse_persp.svg#linearGradient4867-1-2);
+  stroke-width: 4.49057722;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#g14363 {
+  display: inline; }
+
+#path10927-5-7-9-9 {
+  fill: #366c9a;
+  fill-opacity: 1;
+  display: inline; }
+
+#path10796-2-6-0 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//browse_persp.svg#linearGradient11520-0-3-1);
+  fill-opacity: 1;
+  stroke: #14733c;
+  stroke-width: 3.40905260999999982;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path10796-2-6-9-6-8 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//browse_persp.svg#linearGradient4629);
+  stroke-width: 2.92570853000000008;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect11640-3 {
+  fill: #896d61;
+  fill-opacity: 1;
+  stroke: #7e594b;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path10796-2-6-9-6-4 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 2.92570853000000008;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline;
+  fill-opacity: 1; }
+
+#path10796-2-6-6-9 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//browse_persp.svg#linearGradient11713-8-1-7);
+  fill-opacity: 1;
+  stroke: #14733c;
+  stroke-width: 3.05384278;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path10796-2-6-9-6 {
+  fill: none;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//browse_persp.svg#linearGradient4518);
+  stroke-width: 2.92570853000000008;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path10796-2-6-9-6-3 {
+  fill: none;
+  stroke: #ffffff;
+  stroke-width: 2.92570853000000008;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 0.64150941;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#layer1-9-4 {
+  font-size: 13.58917427px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  font-family: Sans; }

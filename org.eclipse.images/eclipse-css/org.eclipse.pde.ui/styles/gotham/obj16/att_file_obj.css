@@ -1,0 +1,185 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop10800-5-2-1-8-20-6-4-9-8-2 {
+  stop-color: #7564b1;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-3-2 {
+  stop-color: #5d4aa1;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-9-2 {
+  stop-color: #9283c3;
+  stop-opacity: 1; }
+
+#stop4904-2 {
+  stop-color: #b4903d;
+  stop-opacity: 1; }
+
+#stop4906-2 {
+  stop-color: #7b744f;
+  stop-opacity: 1; }
+
+#stop4896-8 {
+  stop-color: #e0c88f;
+  stop-opacity: 1; }
+
+#stop4898-5 {
+  stop-color: #d5b269;
+  stop-opacity: 1; }
+
+#stop4996-1 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop4998-89 {
+  stop-color: #dce7f7;
+  stop-opacity: 1; }
+
+#rect4001-3 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 11.05178356px;
+  line-height: 125%;
+  font-family: AustralianFlyingCorpsStencil;
+  text-align: start;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//att_file_obj.svg#linearGradient4101);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 0.24860173;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4884 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 11.05178356px;
+  line-height: 125%;
+  font-family: AustralianFlyingCorpsStencil;
+  text-align: start;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//att_file_obj.svg#linearGradient4900-1);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 0.24860173;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4001 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 11.05178356px;
+  line-height: 125%;
+  font-family: AustralianFlyingCorpsStencil;
+  text-align: start;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  display: inline;
+  fill: none;
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//att_file_obj.svg#linearGradient4908-2);
+  stroke-width: 1.08484948;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#g4159 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 8.9916935px;
+  line-height: 125%;
+  font-family: Serif;
+  text-align: start;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  fill: #387838;
+  fill-opacity: 1;
+  stroke: #266923;
+  stroke-width: 0.27821511;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path10796-2-6-2 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13.58917427px;
+  line-height: 125%;
+  font-family: Sans;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  display: inline;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #266923;
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#path10796-2-6-2-2 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13.58917427px;
+  line-height: 125%;
+  font-family: Sans;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  display: inline;
+  fill: none;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#path4156 {
+  fill: #266923;
+  fill-opacity: 1;
+  stroke: #266923;
+  stroke-width: 0.27716896;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

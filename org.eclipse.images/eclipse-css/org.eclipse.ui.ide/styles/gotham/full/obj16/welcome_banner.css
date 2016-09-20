@@ -1,0 +1,66 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4189 {
+  stop-color: #dee6f8;
+  stop-opacity: 1; }
+
+#stop4191 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4153 {
+  stop-color: #e4eaf8;
+  stop-opacity: 1; }
+
+#stop4155 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#filter4889 {
+  color-interpolation-filters: sRGB; }
+
+#filter4893 {
+  color-interpolation-filters: sRGB; }
+
+#rect4935 {
+  opacity: 1;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4149-0 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/obj16//welcome_banner.svg#linearGradient4157-8);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: none;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/obj16//welcome_banner.svg#filter4889); }
+
+#path4149 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/obj16//welcome_banner.svg#linearGradient4157);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: none;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/obj16//welcome_banner.svg#filter4893); }

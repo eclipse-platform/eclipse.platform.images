@@ -1,0 +1,437 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop5264 {
+  stop-color: #000000;
+  stop-opacity: 0.502; }
+
+#stop5266 {
+  stop-color: #000000;
+  stop-opacity: 0.25; }
+
+#stop5173 {
+  stop-color: #000000;
+  stop-opacity: 1; }
+
+#stop5179 {
+  stop-color: #000000;
+  stop-opacity: 0.25210086; }
+
+#stop5181 {
+  stop-color: #000000;
+  stop-opacity: 0; }
+
+#stop5175 {
+  stop-color: #000000;
+  stop-opacity: 1; }
+
+#stop5011 {
+  stop-color: #61719a;
+  stop-opacity: 1; }
+
+#stop5013 {
+  stop-color: #8599bf;
+  stop-opacity: 1; }
+
+#stop5005 {
+  stop-color: #61719a;
+  stop-opacity: 1; }
+
+#stop5007 {
+  stop-color: #8599bf;
+  stop-opacity: 1; }
+
+#stop4929 {
+  stop-color: #e7eef9;
+  stop-opacity: 1; }
+
+#stop4931 {
+  stop-color: #f1f5fb;
+  stop-opacity: 1; }
+
+#stop4912-8 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4996-5 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4998-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4996-5-4 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4998-5-0 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4912-8-8 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8-8 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4929-7 {
+  stop-color: #e7eef9;
+  stop-opacity: 1; }
+
+#stop4931-6 {
+  stop-color: #f1f5fb;
+  stop-opacity: 1; }
+
+#path5234 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#layer1 {
+  display: inline; }
+
+#path5248 {
+  opacity: 0.75;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#linearGradient5268);
+  fill-opacity: 1;
+  stroke: none;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#filter5258); }
+
+#rect3997-9-1-1-1 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#linearGradient5048);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4853-82-7-2 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#linearGradient4068);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#linearGradient4975-2-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect3997-9-1-16 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #557cac;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect3997-9-1-1-1-5 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #557cac;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect3997-9-1-1-1-5-3 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #557cac;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#path5226 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  opacity: 0.5;
+  color: #000000;
+  fill: #000000;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #000000;
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#filter5244);
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect3997-9-1-1 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#linearGradient4933);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4853-82-7 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#linearGradient5062);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#linearGradient4975-2);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect3997-9-1 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #548cd0;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4816-1-1-4-1-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#linearGradient4950);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816-1-1-4-1-1-2 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#linearGradient4984);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect3997-9-1-1-1-5-34 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  opacity: 0.25;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//writeout_co.svg#linearGradient5177);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }

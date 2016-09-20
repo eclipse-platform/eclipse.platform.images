@@ -1,0 +1,112 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4996 {
+  stop-color: #a19a7c;
+  stop-opacity: 1; }
+
+#stop5002 {
+  stop-color: #a29d80;
+  stop-opacity: 1; }
+
+#stop4998 {
+  stop-color: #c5c3b5;
+  stop-opacity: 1; }
+
+#stop5004 {
+  stop-color: #a29d80;
+  stop-opacity: 1; }
+
+#stop5000 {
+  stop-color: #9e9070;
+  stop-opacity: 1; }
+
+#stop4978 {
+  stop-color: #a8a38c;
+  stop-opacity: 1; }
+
+#stop4984 {
+  stop-color: #c5c3b5;
+  stop-opacity: 1; }
+
+#stop4980 {
+  stop-color: #a19a7c;
+  stop-opacity: 1; }
+
+#stop4962 {
+  stop-color: #eac826;
+  stop-opacity: 1; }
+
+#stop4964 {
+  stop-color: #c5a334;
+  stop-opacity: 1; }
+
+#stop4954 {
+  stop-color: #fbdd83;
+  stop-opacity: 1; }
+
+#stop4970 {
+  stop-color: #fdf39f;
+  stop-opacity: 1; }
+
+#stop4968 {
+  stop-color: #fee745;
+  stop-opacity: 1; }
+
+#stop4956 {
+  stop-color: #eac826;
+  stop-opacity: 1; }
+
+#stop4944 {
+  stop-color: #f5d71e;
+  stop-opacity: 1; }
+
+#stop4946 {
+  stop-color: #fdf39f;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g8472 {
+  display: inline; }
+
+#rect4172 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//mark_occurrences.svg#linearGradient4948);
+  fill-opacity: 1;
+  stroke: none; }
+
+#path4950 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//mark_occurrences.svg#linearGradient4958);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//mark_occurrences.svg#linearGradient4966);
+  stroke-width: 1.06988704px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4972 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//mark_occurrences.svg#linearGradient4982);
+  fill-opacity: 1;
+  stroke: #999072;
+  stroke-width: 1.06988704px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4974 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//mark_occurrences.svg#linearGradient4992);
+  fill-opacity: 1;
+  stroke: #9c9170;
+  stroke-width: 1.06988704px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }

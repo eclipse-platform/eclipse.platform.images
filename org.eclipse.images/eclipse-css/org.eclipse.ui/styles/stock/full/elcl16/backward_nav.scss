@@ -1,0 +1,39 @@
+@import "stock";
+
+#background_stop_0 {
+	stop-color: #ffffee;
+	stop-opacity: 1;
+}
+
+#background_stop_1 {
+	stop-color: #ffecad;
+	stop-opacity: 1;
+}
+
+#stroke_stop_0 {
+	stop-color: #ba7f0d;
+	stop-opacity: 1;
+}
+
+#stroke_stop_1 {
+	stop-color: #a2660b;
+	stop-opacity: 1;
+}
+
+#layer1 {
+	display: inline;
+}
+
+#back_arrow {
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/elcl16//backward_nav.svg#linearGradient4755);
+	fill-opacity: 1;
+	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/elcl16//backward_nav.svg#linearGradient4747);
+	stroke-width: 1;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 4;
+	stroke-opacity: 1;
+	stroke-dasharray: none;
+	stroke-dashoffset: 0;
+}
+

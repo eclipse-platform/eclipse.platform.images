@@ -1,0 +1,104 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop8305 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop8313 {
+  stop-color: #ffffff;
+  stop-opacity: 0.25; }
+
+#stop8311 {
+  stop-color: #ffffff;
+  stop-opacity: 0.251; }
+
+#stop8307 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop8200 {
+  stop-color: #f8e088;
+  stop-opacity: 1; }
+
+#stop8206 {
+  stop-color: #f8d880;
+  stop-opacity: 1; }
+
+#stop8202 {
+  stop-color: #f8f0b0;
+  stop-opacity: 1; }
+
+#stop8305-8 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop8313-2 {
+  stop-color: #ffffff;
+  stop-opacity: 0.25; }
+
+#stop8311-4 {
+  stop-color: #ffffff;
+  stop-opacity: 0.251; }
+
+#stop8307-5 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop8200-1 {
+  stop-color: #f8e088;
+  stop-opacity: 1; }
+
+#stop8206-5 {
+  stop-color: #f8d880;
+  stop-opacity: 1; }
+
+#stop8202-2 {
+  stop-color: #f8f0b0;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#layer1-0 {
+  display: inline; }
+
+#g8248 {
+  display: inline; }
+
+#path7442 {
+  fill: #466f0a;
+  fill-opacity: 1;
+  stroke: #466f0a;
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path7442-9 {
+  fill: #668834;
+  fill-opacity: 1;
+  stroke: #668833;
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#path7442-9-9 {
+  fill: #749347;
+  fill-opacity: 1;
+  stroke: #749347;
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }

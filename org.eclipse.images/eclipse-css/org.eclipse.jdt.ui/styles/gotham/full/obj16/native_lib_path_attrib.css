@@ -1,0 +1,195 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4832 {
+  stop-color: #e0a010;
+  stop-opacity: 1; }
+
+#stop4834 {
+  stop-color: #c87810;
+  stop-opacity: 1; }
+
+#stop4792 {
+  stop-color: #17477c;
+  stop-opacity: 1; }
+
+#stop4794 {
+  stop-color: #40a5da;
+  stop-opacity: 1; }
+
+#stop4749 {
+  stop-color: #1b844b;
+  stop-opacity: 1; }
+
+#stop4751 {
+  stop-color: #299962;
+  stop-opacity: 1; }
+
+#stop4909-5 {
+  stop-color: #c1723f;
+  stop-opacity: 1; }
+
+#stop4911-0 {
+  stop-color: #b04814;
+  stop-opacity: 1; }
+
+#stop5283-7 {
+  stop-color: #e5b165;
+  stop-opacity: 1; }
+
+#stop5289-2 {
+  stop-color: #f2d98c;
+  stop-opacity: 1; }
+
+#stop5285-55 {
+  stop-color: #ffffb2;
+  stop-opacity: 1; }
+
+#stop5293-0 {
+  stop-color: #766059;
+  stop-opacity: 1; }
+
+#stop5295-0 {
+  stop-color: #766059;
+  stop-opacity: 1; }
+
+#g26896 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#g26898 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#path26900 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 0.61838311;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#stop4013-1-6 {
+  stop-color: #e0b575;
+  stop-opacity: 1; }
+
+#stop4015-8-7 {
+  stop-color: #f5ca75;
+  stop-opacity: 1; }
+
+#stop4017-4-4 {
+  stop-color: #f5f5b5;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g4969 {
+  display: inline; }
+
+#layer1-9 {
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#layer1-5 {
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#path4059-7-6-6 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//native_lib_path_attrib.svg#linearGradient3114);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//native_lib_path_attrib.svg#linearGradient3116);
+  stroke-width: 1.03397691;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g26748-8 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//native_lib_path_attrib.svg#filter26906); }
+
+#rect4897-6 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#rect4926-6 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none; }
+
+#rect4926-4-1 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4926-5-6 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4897 {
+  fill: #d38a4b;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//native_lib_path_attrib.svg#linearGradient26910);
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#rect4926 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//native_lib_path_attrib.svg#linearGradient26912);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4926-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//native_lib_path_attrib.svg#linearGradient26914);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4926-5 {
+  fill: #e89b16;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//native_lib_path_attrib.svg#linearGradient26916);
+  stroke-width: 0.88811594;
+  stroke-opacity: 1;
+  display: inline; }

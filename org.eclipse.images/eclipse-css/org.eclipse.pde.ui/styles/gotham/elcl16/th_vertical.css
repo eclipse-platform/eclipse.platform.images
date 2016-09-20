@@ -1,0 +1,182 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4812 {
+  stop-color: #bfb688;
+  stop-opacity: 1; }
+
+#stop4814 {
+  stop-color: #8694ae;
+  stop-opacity: 1; }
+
+#stop5059 {
+  stop-color: #677da9;
+  stop-opacity: 1; }
+
+#stop5061 {
+  stop-color: #b4bbd1;
+  stop-opacity: 1; }
+
+#stop4964-2 {
+  stop-color: #7cb87d;
+  stop-opacity: 1; }
+
+#stop4966-1 {
+  stop-color: #a8ceb7;
+  stop-opacity: 1; }
+
+#stop4912-8 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4996-5 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4998-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4820 {
+  stop-color: #eb9186;
+  stop-opacity: 1; }
+
+#stop4822 {
+  stop-color: #e06b5e;
+  stop-opacity: 1; }
+
+#stop5059-0 {
+  stop-color: #677da9;
+  stop-opacity: 1; }
+
+#stop5061-9 {
+  stop-color: #b4bbd1;
+  stop-opacity: 1; }
+
+#stop4912-8-2 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8-2 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4996-5-85 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4998-5-7 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#layer1 {
+  display: inline; }
+
+#rect3997-9 {
+  fill: #f4fcff;
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/elcl16//th_vertical.svg#linearGradient4079);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect4853-82-7 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/elcl16//th_vertical.svg#linearGradient4077);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/elcl16//th_vertical.svg#linearGradient4075);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816-1-1-4 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/elcl16//th_vertical.svg#linearGradient5065);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4959-6 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/elcl16//th_vertical.svg#radialGradient5038);
+  fill-opacity: 1;
+  stroke: #379860;
+  stroke-width: 1.34009874;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4816-1-1-4-4 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/elcl16//th_vertical.svg#linearGradient4123);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4816 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/elcl16//th_vertical.svg#linearGradient4148);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4246 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #a5a699;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4853-82-7-6 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/elcl16//th_vertical.svg#linearGradient4268);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0-1 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/elcl16//th_vertical.svg#linearGradient4075-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

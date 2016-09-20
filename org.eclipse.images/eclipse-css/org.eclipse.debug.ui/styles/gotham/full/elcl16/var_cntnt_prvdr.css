@@ -1,0 +1,188 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop6042 {
+  stop-color: #6983b3;
+  stop-opacity: 1; }
+
+#stop6044 {
+  stop-color: #a2b1c8;
+  stop-opacity: 1; }
+
+#stop5917 {
+  stop-color: #a97e20;
+  stop-opacity: 1; }
+
+#stop5919 {
+  stop-color: #bb9529;
+  stop-opacity: 1; }
+
+#stop5183 {
+  stop-color: #fefaef;
+  stop-opacity: 1; }
+
+#stop5185 {
+  stop-color: #fce39f;
+  stop-opacity: 1; }
+
+#stop7257-4 {
+  stop-color: #c28a1d;
+  stop-opacity: 1; }
+
+#stop7259-0 {
+  stop-color: #c28a1d;
+  stop-opacity: 0; }
+
+#stop4873-4-7 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4875-0-3 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4873-4-7-2 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4875-0-3-4 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#layer1 {
+  display: inline; }
+
+#rect3968 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//var_cntnt_prvdr.svg#linearGradient5168);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//var_cntnt_prvdr.svg#linearGradient5170);
+  stroke-width: 0.58432114;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect3968-7 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  opacity: 0.25;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//var_cntnt_prvdr.svg#linearGradient7263-1);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect3968-1 {
+  fill: #5e79ab;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect3968-1-1 {
+  fill: #5e79ab;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect3968-1-1-1 {
+  fill: #5e79ab;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect3968-1-1-1-5 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//var_cntnt_prvdr.svg#linearGradient6046);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g5029-8-0 {
+  display: inline; }
+
+#rect4035-17-2-0 {
+  fill: #de5d6b;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-5 {
+  fill: #eb98a2;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-1-5-1 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//var_cntnt_prvdr.svg#linearGradient4877-1-6);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-4-5-1-8 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//var_cntnt_prvdr.svg#linearGradient4879-9-5);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g5029-8-0-2 {
+  display: inline; }
+
+#rect4035-17-2-0-2 {
+  fill: #de5d6b;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-5-8 {
+  fill: #eb98a2;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-1-5-1-6 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//var_cntnt_prvdr.svg#linearGradient4877-1-6-2);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-4-5-1-8-9 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//var_cntnt_prvdr.svg#linearGradient4879-9-5-5);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

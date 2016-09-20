@@ -1,0 +1,69 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop7162 {
+  stop-color: #105c9c;
+  stop-opacity: 1; }
+
+#stop7166 {
+  stop-color: #568cb9;
+  stop-opacity: 1; }
+
+#stop7164 {
+  stop-color: #cedeea;
+  stop-opacity: 1; }
+
+#stop7162-2 {
+  stop-color: #105c9c;
+  stop-opacity: 1; }
+
+#stop7166-4 {
+  stop-color: #568cb9;
+  stop-opacity: 1; }
+
+#stop7164-9 {
+  stop-color: #cedeea;
+  stop-opacity: 1; }
+
+#stop7162-2-7 {
+  stop-color: #105c9c;
+  stop-opacity: 1; }
+
+#stop7166-4-1 {
+  stop-color: #568cb9;
+  stop-opacity: 1; }
+
+#stop7164-9-7 {
+  stop-color: #cedeea;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#layer1-3 {
+  display: inline; }
+
+#rect6225-8 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//stckframe_obj.svg#linearGradient7184);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect6225-8-9 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//stckframe_obj.svg#linearGradient7221);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect6225 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//stckframe_obj.svg#linearGradient7001);
+  fill-opacity: 1;
+  stroke: none; }

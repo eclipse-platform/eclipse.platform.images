@@ -1,0 +1,260 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4847 {
+  stop-color: #afb8cd;
+  stop-opacity: 1; }
+
+#stop4849 {
+  stop-color: #8192b5;
+  stop-opacity: 1; }
+
+#stop4839 {
+  stop-color: #acbfd5;
+  stop-opacity: 1; }
+
+#stop4841 {
+  stop-color: #627297;
+  stop-opacity: 1; }
+
+#stop4786 {
+  stop-color: #b68e69;
+  stop-opacity: 1; }
+
+#stop4792 {
+  stop-color: #d5ae7d;
+  stop-opacity: 1; }
+
+#stop4788 {
+  stop-color: #c69863;
+  stop-opacity: 1; }
+
+#stop4769 {
+  stop-color: #f1c373;
+  stop-opacity: 1; }
+
+#stop4771 {
+  stop-color: #f6e3c9;
+  stop-opacity: 1; }
+
+#stop4863 {
+  stop-color: #91a5c7;
+  stop-opacity: 1; }
+
+#stop4865 {
+  stop-color: #637aa7;
+  stop-opacity: 1; }
+
+#stop4879 {
+  stop-color: #91a5c7;
+  stop-opacity: 1; }
+
+#stop4881 {
+  stop-color: #5e76a3;
+  stop-opacity: 1; }
+
+#stop4904 {
+  stop-color: #c7b571;
+  stop-opacity: 1; }
+
+#stop4906 {
+  stop-color: #9a9a8f;
+  stop-opacity: 1; }
+
+#stop4996-7 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop4998-4 {
+  stop-color: #dce7f7;
+  stop-opacity: 1; }
+
+#stop5149 {
+  stop-color: #91a5c7;
+  stop-opacity: 1; }
+
+#stop5151 {
+  stop-color: #637aa7;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect3997 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4774);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4790);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path4794 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4851);
+  fill-opacity: 1;
+  stroke: none; }
+
+#path4794-5 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4843);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1px;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans; }
+
+#layer1-3 {
+  display: inline; }
+
+#rect4001-3 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient5000-6);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4001 {
+  fill: none;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4908);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0; }
+
+#rect4001-1 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4867);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4001-1-7 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4869);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4001-1-7-4 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4871);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3997-8 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4774-3);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4790-5);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#path4794-9 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4851-7);
+  fill-opacity: 1;
+  stroke: none; }
+
+#path4794-5-4 {
+  color: #000000;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: medium;
+  line-height: normal;
+  font-family: Sans;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  text-decoration-line: none;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  baseline-shift: baseline;
+  text-anchor: start;
+  display: inline;
+  overflow: visible;
+  visibility: visible;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4843-2);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1px;
+  marker: none;
+  enable-background: accumulate; }
+
+#rect4001-3-6 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient5000-6-7);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4001-4 {
+  display: inline;
+  fill: none;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4908-9);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#rect4001-1-5 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4867-9);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4001-1-7-0 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4869-2);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4001-1-7-4-3 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ua.ui/icons/obj16//cheatsheet_taskgroup_obj.svg#linearGradient4871-8);
+  fill-opacity: 1;
+  stroke: none; }

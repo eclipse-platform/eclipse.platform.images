@@ -1,0 +1,118 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4941-4 {
+  stop-color: #d5f3ff;
+  stop-opacity: 1; }
+
+#stop4943-0 {
+  stop-color: #fcffff;
+  stop-opacity: 1; }
+
+#stop4941-8-7 {
+  stop-color: #d5f3ff;
+  stop-opacity: 1; }
+
+#stop4943-2-4 {
+  stop-color: #fcffff;
+  stop-opacity: 1; }
+
+#stop5105-5-4 {
+  stop-color: #c1ebca;
+  stop-opacity: 1; }
+
+#stop7550-07-0 {
+  stop-color: #b3dac7;
+  stop-opacity: 1; }
+
+#stop7548-6-9 {
+  stop-color: #9ec2c3;
+  stop-opacity: 1; }
+
+#stop5107-7-48 {
+  stop-color: #7a99bb;
+  stop-opacity: 1; }
+
+#stop6356 {
+  stop-color: #6994ad;
+  stop-opacity: 1; }
+
+#stop6358 {
+  stop-color: #095a98;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g8159 {
+  display: inline; }
+
+#g4106 {
+  display: inline; }
+
+#path4981-0 {
+  fill: none;
+  stroke: #324e6e;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4985-9 {
+  fill: none;
+  stroke: #324e6e;
+  stroke-width: 1px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-opacity: 1; }
+
+#path4985-5-4 {
+  fill: none;
+  stroke: #324e6e;
+  stroke-width: 1px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-opacity: 1;
+  display: inline; }
+
+#path4150-8 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//occ_read.svg#linearGradient4945-1);
+  fill-opacity: 1;
+  stroke: #324e6e;
+  stroke-width: 1.11897111;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path4150-4-8 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//occ_read.svg#linearGradient4178);
+  fill-opacity: 1;
+  stroke: #324e6e;
+  stroke-width: 1.11897111;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#layer1-7-1 {
+  display: inline; }
+
+#path4108-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//occ_read.svg#linearGradient5109-0-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4108-1-6 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//occ_read.svg#linearGradient6310);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

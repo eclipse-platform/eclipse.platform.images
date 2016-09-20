@@ -1,0 +1,88 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4179 {
+  stop-color: #5d7bae;
+  stop-opacity: 1; }
+
+#stop4181 {
+  stop-color: #7593c1;
+  stop-opacity: 1; }
+
+#stop4171 {
+  stop-color: #a77e1c;
+  stop-opacity: 1; }
+
+#stop4173 {
+  stop-color: #bb9826;
+  stop-opacity: 1; }
+
+#stop4163 {
+  stop-color: #679989;
+  stop-opacity: 1; }
+
+#stop4165 {
+  stop-color: #7eb89d;
+  stop-opacity: 1; }
+
+#stop4156 {
+  stop-color: #2c71af;
+  stop-opacity: 1; }
+
+#stop4158 {
+  stop-color: #e3ebf2;
+  stop-opacity: 1; }
+
+#stop4148 {
+  stop-color: #fef5da;
+  stop-opacity: 1; }
+
+#stop4150 {
+  stop-color: #f2c17b;
+  stop-opacity: 1; }
+
+#stop4140 {
+  stop-color: #e6e9a0;
+  stop-opacity: 1; }
+
+#stop4142 {
+  stop-color: #b0c994;
+  stop-opacity: 1; }
+
+#rect4186 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//category_obj.svg#linearGradient4144);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//category_obj.svg#linearGradient4167);
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4186-4 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//category_obj.svg#linearGradient4152);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//category_obj.svg#linearGradient4175);
+  stroke-width: 1.00650275;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4186-4-0 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//category_obj.svg#linearGradient4160);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//category_obj.svg#linearGradient4183);
+  stroke-width: 1.00866067;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

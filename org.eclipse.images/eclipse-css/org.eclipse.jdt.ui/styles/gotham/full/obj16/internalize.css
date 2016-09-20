@@ -1,0 +1,243 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop9356 {
+  stop-color: #1b639e;
+  stop-opacity: 1; }
+
+#stop9358 {
+  stop-color: #6f8db9;
+  stop-opacity: 1; }
+
+#stop8564 {
+  stop-color: #6994ad;
+  stop-opacity: 1; }
+
+#stop8566 {
+  stop-color: #005596;
+  stop-opacity: 1; }
+
+#stop4904-2 {
+  stop-color: #b28a30;
+  stop-opacity: 1; }
+
+#stop4906-2 {
+  stop-color: #7c703e;
+  stop-opacity: 1; }
+
+#stop4896-8 {
+  stop-color: #e0c88f;
+  stop-opacity: 1; }
+
+#stop4898-5 {
+  stop-color: #d5b269;
+  stop-opacity: 1; }
+
+#stop4996-1 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop4998-89 {
+  stop-color: #dce7f7;
+  stop-opacity: 1; }
+
+#stop5105-5-4 {
+  stop-color: #c1ebca;
+  stop-opacity: 1; }
+
+#stop7550-07-0 {
+  stop-color: #b3dac7;
+  stop-opacity: 1; }
+
+#stop7548-6-9 {
+  stop-color: #9ec2c3;
+  stop-opacity: 1; }
+
+#stop5107-7-48 {
+  stop-color: #7a99bb;
+  stop-opacity: 1; }
+
+#g9642 {
+  fill: #ffffff;
+  display: inline; }
+
+#rect9644 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect9646 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect9648 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect9650 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect9652 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#g9654 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#path9656 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  display: inline; }
+
+#path9658 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  display: inline; }
+
+#path9660 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#stop8564-0 {
+  stop-color: #6994ad;
+  stop-opacity: 1; }
+
+#stop8566-5 {
+  stop-color: #005596;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect4001-3 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//internalize.svg#linearGradient4084);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4884 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//internalize.svg#linearGradient4086);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4001 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//internalize.svg#linearGradient4088);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#layer1-7 {
+  display: inline; }
+
+#rect8568 {
+  fill: #a6b5d0;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect8570 {
+  fill: #a6b5d0;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect8572 {
+  fill: #a6b5d0;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect8574 {
+  fill: #a6b5d0;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect8584 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//internalize.svg#linearGradient9369);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect8582 {
+  fill: #f9fafc;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect8576 {
+  fill: #a6b5d0;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect8578 {
+  fill: #7c92b8;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect8580 {
+  fill: #5e76a3;
+  fill-opacity: 1;
+  stroke: none; }
+
+#path3078 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#g9478 {
+  opacity: 0.75000000000000000;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//internalize.svg#filter9501); }
+
+#g9371-3 {
+  display: inline;
+  fill: #ffffff;
+  stroke: #ffffff; }
+
+#path4108-1-64 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  display: inline; }
+
+#path4108-1-6-4 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  display: inline; }
+
+#path4108-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//internalize.svg#linearGradient9563);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4108-1-6 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//internalize.svg#linearGradient9565);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

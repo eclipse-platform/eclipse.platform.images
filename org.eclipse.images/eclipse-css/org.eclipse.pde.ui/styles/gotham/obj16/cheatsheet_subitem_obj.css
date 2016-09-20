@@ -1,0 +1,219 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4190 {
+  stop-color: #d1cde4;
+  stop-opacity: 1; }
+
+#stop4192 {
+  stop-color: #6155a0;
+  stop-opacity: 1; }
+
+#stop4183 {
+  stop-color: #d7d4e7;
+  stop-opacity: 1; }
+
+#stop4185 {
+  stop-color: #6155a0;
+  stop-opacity: 1; }
+
+#stop4309 {
+  stop-color: #17325d;
+  stop-opacity: 1; }
+
+#stop4312 {
+  stop-color: #b7d2e4;
+  stop-opacity: 1; }
+
+#stop4314 {
+  stop-color: #3e72a7;
+  stop-opacity: 1; }
+
+#stop4189 {
+  stop-color: #17325d;
+  stop-opacity: 1; }
+
+#stop4201 {
+  stop-color: #b7d2e4;
+  stop-opacity: 1; }
+
+#stop4191 {
+  stop-color: #3e72a7;
+  stop-opacity: 1; }
+
+#stop4180 {
+  stop-color: #7e713d;
+  stop-opacity: 1; }
+
+#stop4182 {
+  stop-color: #b28a30;
+  stop-opacity: 1; }
+
+#stop7586-6-3 {
+  stop-color: #f9cd5f;
+  stop-opacity: 1; }
+
+#stop7588-9-9 {
+  stop-color: #ffebb7;
+  stop-opacity: 1; }
+
+#stop7594-8-9 {
+  stop-color: #ad7212;
+  stop-opacity: 1; }
+
+#stop7596-5-6 {
+  stop-color: #875f1e;
+  stop-opacity: 1; }
+
+#stop4206 {
+  stop-color: #c8c3df;
+  stop-opacity: 1; }
+
+#stop4208 {
+  stop-color: #6155a0;
+  stop-opacity: 1; }
+
+#rect3368 {
+  opacity: 1;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient4184);
+  stroke-width: 1;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4307 {
+  fill: #b7d2e4;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #ffffff;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4198 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient4206);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-7 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient4206-1);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-7-2 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient4206-1-9);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-7-2-6 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient4206-1-9-5);
+  stroke-width: 0.96179312;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-7-2-6-7 {
+  fill: none;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient4206-1-9-5-1);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: bevel;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect3394 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient4210);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect3394-6 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient4210-5);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect3394-0 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient4210-6);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#g7604-6 {
+  display: inline; }
+
+#path7582-7 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient7608-9-7);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//cheatsheet_subitem_obj.svg#linearGradient7610-7-6);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path7602-2 {
+  opacity: 0.85714285;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }

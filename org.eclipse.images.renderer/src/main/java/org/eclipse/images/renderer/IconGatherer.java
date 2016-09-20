@@ -16,106 +16,119 @@ import java.net.URI;
 import java.util.List;
 
 /**
- * <p>Utility to find and organize icons for rendering.</p>
+ * <p>
+ * Utility to find and organize icons for rendering.
+ * </p>
  * 
  * @author tmccrary@l33tlabs.com
  *
  */
 public class IconGatherer {
 
-    /**
-     * <p>Searches the root resources directory for svg icons and adds them to a
-     * collection for later rasterization.</p>	
-     *
-     * @param icons
-     * @param extension
-     * @param rootDir
-     * @param iconDir
-     * @param outputBase
-     * @param generateDisabledDirs
-     */
-    public static void gatherIcons(List<IconEntry> icons, String extension, File rootDir, File iconDir, File outputBase, boolean generateDisabledDirs) {
-        File[] listFiles = iconDir.listFiles();
+	private IconGatherer() { }
+	
+	/**
+	 * <p>
+	 * Searches the root resources directory for svg icons and adds them to a
+	 * collection for later rasterization.
+	 * </p>
+	 *
+	 * @param icons
+	 * @param extension
+	 * @param rootDir
+	 * @param iconDir
+	 * @param outputBase
+	 * @param generateDisabledDirs
+	 */
+	public static void gatherIcons(List<IconEntry> icons, String extension, File rootDir, File iconDir, File outputBase,
+			boolean generateDisabledDirs) {
+		File[] listFiles = iconDir.listFiles();
 
-        for (File child : listFiles) {
-            if (child.isDirectory()) {
-            	if(child.getName().startsWith("d") && !("dgm".equals(child.getName())) ) {
-            		continue;
-            	}
-            	
-                gatherIcons(icons, extension, rootDir, child, outputBase, generateDisabledDirs);
-                continue;
-            }
+		for (File child : listFiles) {
+			if (child.isDirectory()) {
+				if (child.getName().startsWith("d") && !("dgm".equals(child.getName()))) {
+					continue;
+				}
 
-            if (!child.getName().endsWith(extension) || child.getName().contains("@1.5x")|| child.getName().contains("@2x")) {
-                continue;
-            }
+				gatherIcons(icons, extension, rootDir, child, outputBase, generateDisabledDirs);
+				continue;
+			}
 
-            // Compute a relative path for the output dir
-            URI rootUri = rootDir.toURI();
-            URI iconUri = iconDir.toURI();
+			if (!child.getName().endsWith(extension) || child.getName().contains("@1.5x")
+					|| child.getName().contains("@2x")) {
+				continue;
+			}
 
-            String relativePath = rootUri.relativize(iconUri).getPath();
-            File outputDir = new File(outputBase, relativePath);
-            File disabledOutputDir = null;
+			// Compute a relative path for the output dir
+			URI rootUri = rootDir.toURI();
+			URI iconUri = iconDir.toURI();
 
-            File parentFile = child.getParentFile();
+			String relativePath = rootUri.relativize(iconUri).getPath();
+			File outputDir = new File(outputBase, relativePath);
+			File disabledOutputDir = null;
 
-            /* Determine if/where to put a disabled version of the icon
-               Eclipse traditionally uses a prefix of d for disabled, e for
-               enabled in the folder name */
-            if (generateDisabledDirs && parentFile != null) {
-                String parentDirName = parentFile.getName();
-                if (parentDirName.startsWith("e")) {
-                    StringBuilder builder = new StringBuilder();
-                    builder.append("d");
-                    builder.append(parentDirName.substring(1, parentDirName.length()));
+			File parentFile = child.getParentFile();
 
-                    // Disabled variant folder name
-                    String disabledVariant = builder.toString();
+			/*
+			 * Determine if/where to put a disabled version of the icon Eclipse
+			 * traditionally uses a prefix of d for disabled, e for enabled in
+			 * the folder name
+			 */
+			if (generateDisabledDirs && parentFile != null) {
+				String parentDirName = parentFile.getName();
+				if (parentDirName.startsWith("e")) {
+					StringBuilder builder = new StringBuilder();
+					builder.append("d");
+					builder.append(parentDirName.substring(1, parentDirName.length()));
 
-                    // The parent's parent, to create the disabled directory in
-                    File setParent = parentFile.getParentFile();
+					// Disabled variant folder name
+					String disabledVariant = builder.toString();
 
-                    // The source directory's disabled folder
-                    File disabledSource = new File(setParent, disabledVariant);
+					// The parent's parent, to create the disabled directory in
+					File setParent = parentFile.getParentFile();
 
-                    // Compute a relative path, so we can create the output folder
-                    String path = rootUri.relativize(
-                              disabledSource.toURI()).getPath();
+					// The source directory's disabled folder
+					File disabledSource = new File(setParent, disabledVariant);
 
-                    // Create the output folder, so a disabled icon is generated
-                    disabledOutputDir = new File(outputBase, path);
-                    if(!disabledOutputDir.exists()) {
-                        disabledOutputDir.mkdirs();
-                    }
-                }
-            }
+					// Compute a relative path, so we can create the output
+					// folder
+					String path = rootUri.relativize(disabledSource.toURI()).getPath();
 
-            IconEntry icon = createIcon(child, outputDir, disabledOutputDir);
+					// Create the output folder, so a disabled icon is generated
+					disabledOutputDir = new File(outputBase, path);
+				}
+			}
 
-            icons.add(icon);
-        }
-    }
-    
-    /**
-     * <p>Creates an IconEntry, which contains information about rendering an icon such
-     * as the source file, where to render, what alternative types of output to
-     * generate, etc.</p>
-     *
-     * @param input the source of the icon file (SVG document)
-     * @param outputPath the path of the rasterized version to generate
-     * @param disabledPath the path of the disabled (desaturated) icon, if one is required
-     *
-     * @return an IconEntry describing the rendering operation
-     */
-    public static IconEntry createIcon(File input, File outputPath, File disabledPath) {
-        String name = input.getName();
-        String[] split = name.split("\\.(?=[^\\.]+$)");
+			IconEntry icon = createIcon(rootDir, child, outputDir, disabledOutputDir);
 
-        IconEntry def = new IconEntry(split[0], input, outputPath, disabledPath, new int[0]);
+			icons.add(icon);
+		}
+	}
 
-        return def;
-    }
+	/**
+	 * <p>
+	 * Creates an IconEntry, which contains information about rendering an icon
+	 * such as the source file, where to render, what alternative types of
+	 * output to generate, etc.
+	 * </p>
+	 *
+	 * @param the
+	 *            root directory of the icon (org.eclipse.ui, etc)
+	 * @param input
+	 *            the source of the icon file (SVG document)
+	 * @param outputPath
+	 *            the path of the rasterized version to generate
+	 * @param disabledPath
+	 *            the path of the disabled (desaturated) icon, if one is
+	 *            required
+	 *
+	 * @return an IconEntry describing the rendering operation
+	 */
+	public static IconEntry createIcon(File iconRoot, File input, File outputPath, File disabledPath) {
+		String name = input.getName();
+		String[] split = name.split("\\.(?=[^\\.]+$)");
+
+		return new IconEntry(split[0], iconRoot, input, outputPath, disabledPath, new int[0]);
+	}
 
 }

@@ -1,0 +1,110 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop3829 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop3835 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop3831 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop10800-5-2-1-8-20-6-4-9-8-2 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-3-2 {
+  stop-color: #418a4d;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-9-2 {
+  stop-color: #91c168;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g11331-3-1-1 {
+  display: inline; }
+
+#g13408-8 {
+  fill: #737986;
+  fill-opacity: 1;
+  stroke: #595e68;
+  stroke-opacity: 1; }
+
+#g3025 {
+  display: inline; }
+
+#g6124-3 {
+  display: inline; }
+
+#text6430 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13.58917427px;
+  line-height: 125%;
+  font-family: Sans;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#g6438 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13.58917427px;
+  line-height: 125%;
+  font-family: Sans;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  display: inline;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#path10796-2-6-2 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ds.ui/icons/obj16//class_obj.svg#linearGradient3929-5);
+  fill-opacity: 1;
+  stroke: #14733c;
+  stroke-width: 1.49227178;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#text3782 {
+  font-size: 15.56941891px;
+  font-family: Sans;
+  fill: #ffffff; }
+
+#path3817 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  font-size: 15.56941891px;
+  line-height: 125%;
+  font-family: Arial;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  display: inline;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }

@@ -1,0 +1,162 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop5083 {
+  stop-color: #ffe296;
+  stop-opacity: 1; }
+
+#stop5089 {
+  stop-color: #f8d880;
+  stop-opacity: 1; }
+
+#stop5085 {
+  stop-color: #fffcd3;
+  stop-opacity: 1; }
+
+#stop5093 {
+  stop-color: #c6852e;
+  stop-opacity: 1; }
+
+#stop5095 {
+  stop-color: #e1a555;
+  stop-opacity: 1; }
+
+#stop5927-1 {
+  stop-color: #9eacbc;
+  stop-opacity: 1; }
+
+#stop5929-5 {
+  stop-color: #667480;
+  stop-opacity: 1; }
+
+#stop5935-1 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop5937-7 {
+  stop-color: #abb6c2;
+  stop-opacity: 1; }
+
+#stop5994-8 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop6002-8 {
+  stop-color: #fdfbeb;
+  stop-opacity: 1; }
+
+#stop6000-2 {
+  stop-color: #f8eb99;
+  stop-opacity: 1; }
+
+#stop5996-45 {
+  stop-color: #ffe4b1;
+  stop-opacity: 1; }
+
+#stop5896-0 {
+  stop-color: #e9a328;
+  stop-opacity: 1; }
+
+#stop5898-9 {
+  stop-color: #f9c537;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#path3395 {
+  fill: #ffffff;
+  fill-rule: evenodd;
+  stroke: none;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  fill-opacity: 1; }
+
+#layer1-0 {
+  display: inline; }
+
+#path5108-6-7 {
+  display: inline;
+  fill: none;
+  stroke: #edaa2b;
+  stroke-width: 0.8263889;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//quickfix_warning_obj.svg#filter7038); }
+
+#path5108-3 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//quickfix_warning_obj.svg#radialGradient6262);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//quickfix_warning_obj.svg#linearGradient6264);
+  stroke-width: 1.32088518;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#rect5896-7-0 {
+  display: inline;
+  fill: #4a607a;
+  fill-opacity: 1;
+  stroke: #4a607a;
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#rect5896-73 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//quickfix_warning_obj.svg#linearGradient6266);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//quickfix_warning_obj.svg#linearGradient6268);
+  stroke-width: 1.32088518;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#layer1-5 {
+  display: inline; }
+
+#g8472 {
+  display: inline; }
+
+#path4292 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//quickfix_warning_obj.svg#linearGradient4198);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//quickfix_warning_obj.svg#linearGradient4200);
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4253 {
+  fill: #502800;
+  fill-opacity: 1;
+  stroke: none; }
+
+#path4253-7 {
+  fill: #502800;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

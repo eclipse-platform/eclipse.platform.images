@@ -1,0 +1,162 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop12864-3-6-2 {
+  stop-color: #2d493b;
+  stop-opacity: 1; }
+
+#stop12866-4-9-5 {
+  stop-color: #296c79;
+  stop-opacity: 1; }
+
+#stop12719-6-3-0-0 {
+  stop-color: #e4f1d8;
+  stop-opacity: 1; }
+
+#stop12721-9-4-5-0 {
+  stop-color: #8ebc7b;
+  stop-opacity: 1; }
+
+#stop12727-3-9-8-9 {
+  stop-color: #397b3b;
+  stop-opacity: 1; }
+
+#stop12729-4-1-8-3 {
+  stop-color: #397b3b;
+  stop-opacity: 0; }
+
+#layer1 {
+  display: inline; }
+
+#g12704-6 {
+  display: inline; }
+
+#path12688-7 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient12886-6-7-7);
+  stroke-width: 2;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path12690-3 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient12884-4-7-0);
+  stroke-width: 2;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path12692-9 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient12882-2-0-9);
+  stroke-width: 2;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path12694-8 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient12880-3-5-6);
+  stroke-width: 2;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path12696-5 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient12878-2-7-1);
+  stroke-width: 2;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path12698-4 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient12876-4-0-6);
+  stroke-width: 2.12329292;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path12700-8 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient12868-4-7-0);
+  stroke-width: 2;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path12702-2 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient12888-3-7-3);
+  stroke-width: 2;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path12648-2-2 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#radialGradient12821-7-6-3);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient12896-6-4-1);
+  stroke-width: 5.01941442;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path12648-9 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#radialGradient12723-8-2-4-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path12686-5 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient12731-1-9-5-9);
+  stroke-width: 1.59246969;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#path12648-1-6 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//ldebug_obj.svg#linearGradient4673);
+  stroke-width: 2.50558829;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }

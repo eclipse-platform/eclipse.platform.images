@@ -1,0 +1,259 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4654 {
+  stop-color: #98b4e2;
+  stop-opacity: 1; }
+
+#stop4660 {
+  stop-color: #adbed3;
+  stop-opacity: 1; }
+
+#stop4656 {
+  stop-color: #adbed3;
+  stop-opacity: 1; }
+
+#stop4640 {
+  stop-color: #fefefe;
+  stop-opacity: 1; }
+
+#stop4646 {
+  stop-color: #c5d6e9;
+  stop-opacity: 1; }
+
+#stop4648 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4650 {
+  stop-color: #d2ddea;
+  stop-opacity: 1; }
+
+#stop4642 {
+  stop-color: #cad9ea;
+  stop-opacity: 1; }
+
+#stop4577 {
+  stop-color: #fff900;
+  stop-opacity: 1; }
+
+#stop4579 {
+  stop-color: #000000;
+  stop-opacity: 0; }
+
+#stop4571 {
+  stop-color: #000000;
+  stop-opacity: 0; }
+
+#stop4573 {
+  stop-color: #ec9b00;
+  stop-opacity: 1; }
+
+#stop3805 {
+  stop-color: #8ea1bf;
+  stop-opacity: 1; }
+
+#stop3807 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop3797 {
+  stop-color: #5b779a;
+  stop-opacity: 1; }
+
+#stop3799 {
+  stop-color: #37649c;
+  stop-opacity: 1; }
+
+#stop3805-6 {
+  stop-color: #8ea1bf;
+  stop-opacity: 1; }
+
+#stop3807-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop3797-3 {
+  stop-color: #5b779a;
+  stop-opacity: 1; }
+
+#stop3799-8 {
+  stop-color: #37649c;
+  stop-opacity: 1; }
+
+#stop3805-6-8 {
+  stop-color: #8ea1bf;
+  stop-opacity: 1; }
+
+#stop3807-5-7 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop3797-3-9 {
+  stop-color: #5b779a;
+  stop-opacity: 1; }
+
+#stop3799-8-0 {
+  stop-color: #37649c;
+  stop-opacity: 1; }
+
+#stop3805-6-8-5 {
+  stop-color: #8ea1bf;
+  stop-opacity: 1; }
+
+#stop3807-5-7-1 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop3797-3-9-2 {
+  stop-color: #5b779a;
+  stop-opacity: 1; }
+
+#stop3799-8-0-6 {
+  stop-color: #37649c;
+  stop-opacity: 1; }
+
+#stop3805-6-5 {
+  stop-color: #8ea1bf;
+  stop-opacity: 1; }
+
+#stop3807-5-1 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop3797-3-92 {
+  stop-color: #5b779a;
+  stop-opacity: 1; }
+
+#stop3799-8-5 {
+  stop-color: #37649c;
+  stop-opacity: 1; }
+
+#stop3805-6-8-8 {
+  stop-color: #8ea1bf;
+  stop-opacity: 1; }
+
+#stop3807-5-7-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop3797-3-9-4 {
+  stop-color: #5b779a;
+  stop-opacity: 1; }
+
+#stop3799-8-0-0 {
+  stop-color: #37649c;
+  stop-opacity: 1; }
+
+#stop3805-3 {
+  stop-color: #8ea1bf;
+  stop-opacity: 1; }
+
+#stop3807-58 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop3797-9 {
+  stop-color: #5b779a;
+  stop-opacity: 1; }
+
+#stop3799-9 {
+  stop-color: #37649c;
+  stop-opacity: 1; }
+
+#stop3805-6-8-5-7 {
+  stop-color: #8ea1bf;
+  stop-opacity: 1; }
+
+#stop3807-5-7-1-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop3797-3-9-2-2 {
+  stop-color: #5b779a;
+  stop-opacity: 1; }
+
+#stop3799-8-0-6-9 {
+  stop-color: #37649c;
+  stop-opacity: 1; }
+
+#path3793-6-1-5 {
+  opacity: 0.76000001;
+  fill: url(../../../../eclipse-svg/org.eclipse.e4.tools.css.spy/icons//cssspy.svg#linearGradient4644);
+  fill-opacity: 1;
+  stroke: url(../../../../eclipse-svg/org.eclipse.e4.tools.css.spy/icons//cssspy.svg#linearGradient4658);
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#image4398 {
+  image-rendering: optimizeSpeed; }
+
+#path3793-6-1 {
+  opacity: 1;
+  fill: #fff900;
+  fill-opacity: 1;
+  stroke: #ec9b00;
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path3793-6-1-25 {
+  opacity: 1;
+  fill: #fcff89;
+  fill-opacity: 1;
+  stroke: #51970b;
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path3793-6-1-25-2 {
+  opacity: 1;
+  fill: #95ff66;
+  fill-opacity: 1;
+  stroke: #088300;
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path3793-6-1-25-2-9 {
+  opacity: 1;
+  fill: #a8f8ff;
+  fill-opacity: 1;
+  stroke: #0028d4;
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path3793-6-1-25-2-1 {
+  opacity: 1;
+  fill: #fcbdbc;
+  fill-opacity: 1;
+  stroke: #be1821;
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path3793-6-1-25-2-0 {
+  opacity: 1;
+  fill: #ffd000;
+  fill-opacity: 1;
+  stroke: #f88514;
+  stroke-width: 0.89999998;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

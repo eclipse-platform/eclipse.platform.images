@@ -1,0 +1,186 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop3843 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop3849 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop3845 {
+  stop-color: #c9d8f1;
+  stop-opacity: 1; }
+
+#stop3064 {
+  stop-color: #285088;
+  stop-opacity: 1; }
+
+#stop3066 {
+  stop-color: #2868b8;
+  stop-opacity: 1; }
+
+#stop3839 {
+  stop-color: #6f8db9;
+  stop-opacity: 1; }
+
+#stop3841 {
+  stop-color: #1b639e;
+  stop-opacity: 1; }
+
+#stop3831 {
+  stop-color: #8297bc;
+  stop-opacity: 1; }
+
+#stop3833 {
+  stop-color: #6c81ad;
+  stop-opacity: 1; }
+
+#stop3049 {
+  stop-color: #146d39;
+  stop-opacity: 1; }
+
+#stop3051 {
+  stop-color: #359b58;
+  stop-opacity: 1; }
+
+#stop23104 {
+  stop-color: #c9473e;
+  stop-opacity: 1; }
+
+#stop23118 {
+  stop-color: #f35863;
+  stop-opacity: 1; }
+
+#stop23106 {
+  stop-color: #f6928e;
+  stop-opacity: 1; }
+
+#stop5105-5-4 {
+  stop-color: #96b956;
+  stop-opacity: 1; }
+
+#stop7550-07-0 {
+  stop-color: #c6d560;
+  stop-opacity: 1; }
+
+#stop7548-6-9 {
+  stop-color: #cfdc63;
+  stop-opacity: 1; }
+
+#stop5107-7-48 {
+  stop-color: #abca52;
+  stop-opacity: 1; }
+
+#stop8564 {
+  stop-color: #6994ad;
+  stop-opacity: 1; }
+
+#stop8566 {
+  stop-color: #005596;
+  stop-opacity: 1; }
+
+#stop5105-5-4-4 {
+  stop-color: #96b956;
+  stop-opacity: 1; }
+
+#stop7550-07-0-0 {
+  stop-color: #c6d560;
+  stop-opacity: 1; }
+
+#stop7548-6-9-9 {
+  stop-color: #cfdc63;
+  stop-opacity: 1; }
+
+#stop5107-7-48-4 {
+  stop-color: #abca52;
+  stop-opacity: 1; }
+
+#stop3049-2 {
+  stop-color: #146d39;
+  stop-opacity: 1; }
+
+#stop3051-4 {
+  stop-color: #359b58;
+  stop-opacity: 1; }
+
+#stop3831-6 {
+  stop-color: #8297bc;
+  stop-opacity: 1; }
+
+#stop3833-1 {
+  stop-color: #6c81ad;
+  stop-opacity: 1; }
+
+#g3993 {
+  fill: #ffffff; }
+
+#rect3995 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3997 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3999 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4001 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#stop3843-4 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop3849-0 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop3845-9 {
+  stop-color: #c9d8f1;
+  stop-opacity: 1; }
+
+#stop3843-3 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop3849-5 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop3845-5 {
+  stop-color: #c9d8f1;
+  stop-opacity: 1; }
+
+#path3068-5 {
+  fill: none;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-opacity: 1; }
+
+#path3068 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//no_breakpoint.svg#radialGradient3847);
+  fill-opacity: 1;
+  stroke: #4f504f;
+  stroke-opacity: 1; }
+
+#path3836 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//no_breakpoint.svg#linearGradient3060);
+  fill-opacity: 1;
+  stroke: none; }

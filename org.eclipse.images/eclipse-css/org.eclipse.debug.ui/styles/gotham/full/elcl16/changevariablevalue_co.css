@@ -1,0 +1,73 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4819 {
+  stop-color: #7695b8;
+  stop-opacity: 1; }
+
+#stop4821 {
+  stop-color: #8daac8;
+  stop-opacity: 1; }
+
+#stop4807 {
+  stop-color: #4b82b6;
+  stop-opacity: 1; }
+
+#stop4815 {
+  stop-color: #9ab7d5;
+  stop-opacity: 1; }
+
+#stop4809 {
+  stop-color: #a2bcd8;
+  stop-opacity: 1; }
+
+#stop4799 {
+  stop-color: #6187b3;
+  stop-opacity: 1; }
+
+#stop4801 {
+  stop-color: #35679d;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#path4003 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//changevariablevalue_co.svg#radialGradient4813);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//changevariablevalue_co.svg#linearGradient4803);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path4005 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//changevariablevalue_co.svg#linearGradient4823);
+  fill-opacity: 1;
+  stroke: #095799;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#rect4009 {
+  fill: #095799;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4009-1 {
+  fill: #095799;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

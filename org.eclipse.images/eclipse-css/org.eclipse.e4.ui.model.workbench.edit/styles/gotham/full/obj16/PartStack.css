@@ -1,0 +1,75 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4937 {
+  stop-color: #687692;
+  stop-opacity: 1; }
+
+#stop4943 {
+  stop-color: #a79c68;
+  stop-opacity: 1; }
+
+#stop4939 {
+  stop-color: #645b2a;
+  stop-opacity: 1; }
+
+#stop4928 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4931 {
+  stop-color: #e8f8f8;
+  stop-opacity: 1; }
+
+#stop4912 {
+  stop-color: #613e0d;
+  stop-opacity: 1; }
+
+#stop4914 {
+  stop-color: #856b3c;
+  stop-opacity: 1; }
+
+#stop4996-5-4-8 {
+  stop-color: #b1e6f3;
+  stop-opacity: 1; }
+
+#stop4998-5-0-8 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#layer1 {
+  display: inline; }
+
+#rect4853-82-0-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//PartStack.svg#linearGradient4975-2-1-9);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  opacity: 0.25; }
+
+#path4914-9 {
+  fill: #f8eb89;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//PartStack.svg#linearGradient4917);
+  stroke-width: 1px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-opacity: 1;
+  display: inline; }
+
+#path4914 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//PartStack.svg#linearGradient4933);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//PartStack.svg#linearGradient4941);
+  stroke-width: 1px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-opacity: 1; }

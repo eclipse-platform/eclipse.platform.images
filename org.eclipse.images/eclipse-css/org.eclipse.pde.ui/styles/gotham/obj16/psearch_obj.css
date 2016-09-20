@@ -1,0 +1,348 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop5450 {
+  stop-color: #ad8e5f;
+  stop-opacity: 1; }
+
+#stop5452 {
+  stop-color: #8f6e4d;
+  stop-opacity: 1; }
+
+#stop5442 {
+  stop-color: #ad8e5f;
+  stop-opacity: 1; }
+
+#stop5444 {
+  stop-color: #8f6e4d;
+  stop-opacity: 1; }
+
+#stop5430 {
+  stop-color: #f0a53b;
+  stop-opacity: 1; }
+
+#stop5438 {
+  stop-color: #f2d58f;
+  stop-opacity: 1; }
+
+#stop5436 {
+  stop-color: #efb965;
+  stop-opacity: 1; }
+
+#stop5432 {
+  stop-color: #df9833;
+  stop-opacity: 1; }
+
+#stop5380 {
+  stop-color: #f4d684;
+  stop-opacity: 1; }
+
+#stop5382 {
+  stop-color: #fcf4c6;
+  stop-opacity: 1; }
+
+#stop5384 {
+  stop-color: #fbeebc;
+  stop-opacity: 1; }
+
+#stop5386 {
+  stop-color: #eeb960;
+  stop-opacity: 1; }
+
+#stop5353 {
+  stop-color: #e4a239;
+  stop-opacity: 1; }
+
+#stop5355 {
+  stop-color: #fada7d;
+  stop-opacity: 1; }
+
+#stop5333 {
+  stop-color: #fef48d;
+  stop-opacity: 1; }
+
+#stop5341 {
+  stop-color: #fffffe;
+  stop-opacity: 1; }
+
+#stop5339 {
+  stop-color: #fffffe;
+  stop-opacity: 1; }
+
+#stop5335 {
+  stop-color: #fef48d;
+  stop-opacity: 1; }
+
+#stop5208 {
+  stop-color: #bbb8bb;
+  stop-opacity: 1; }
+
+#stop5216 {
+  stop-color: #ccc8cb;
+  stop-opacity: 1; }
+
+#stop5214 {
+  stop-color: #bdb6bc;
+  stop-opacity: 1; }
+
+#stop5210 {
+  stop-color: #9b8c98;
+  stop-opacity: 1; }
+
+#stop5111 {
+  stop-color: #906f4e;
+  stop-opacity: 1; }
+
+#stop5113 {
+  stop-color: #dfbd7f;
+  stop-opacity: 1; }
+
+#stop4286 {
+  stop-color: #6588c1;
+  stop-opacity: 0; }
+
+#stop4288 {
+  stop-color: #becce3;
+  stop-opacity: 1; }
+
+#stop4290 {
+  stop-color: #809dcb;
+  stop-opacity: 0; }
+
+#stop10159-5 {
+  stop-color: #6588c1;
+  stop-opacity: 1; }
+
+#stop10165-9 {
+  stop-color: #becce3;
+  stop-opacity: 1; }
+
+#stop10161-55 {
+  stop-color: #809dcb;
+  stop-opacity: 1; }
+
+#stop10416-3 {
+  stop-color: #5078b9;
+  stop-opacity: 1; }
+
+#stop10422-8 {
+  stop-color: #6d8cbd;
+  stop-opacity: 1; }
+
+#stop10418-4 {
+  stop-color: #5f88c9;
+  stop-opacity: 1; }
+
+#stop10434-4 {
+  stop-color: #1f4d9a;
+  stop-opacity: 1; }
+
+#stop10436-2 {
+  stop-color: #4e6da1;
+  stop-opacity: 1; }
+
+#stop10438-9 {
+  stop-color: #567ebc;
+  stop-opacity: 1; }
+
+#stop10450-0 {
+  stop-color: #ecac18;
+  stop-opacity: 1; }
+
+#stop10458-2 {
+  stop-color: #ffe38d;
+  stop-opacity: 1; }
+
+#stop10456-96 {
+  stop-color: #fdf5d2;
+  stop-opacity: 1; }
+
+#stop10460-3 {
+  stop-color: #ffeba7;
+  stop-opacity: 1; }
+
+#stop10452-1 {
+  stop-color: #e5b630;
+  stop-opacity: 1; }
+
+#stop10750-5 {
+  stop-color: #ecac18;
+  stop-opacity: 1; }
+
+#stop10752-8 {
+  stop-color: #f1ce66;
+  stop-opacity: 1; }
+
+#stop10754-8 {
+  stop-color: #f6e5a6;
+  stop-opacity: 1; }
+
+#stop10756-4 {
+  stop-color: #f1cf6c;
+  stop-opacity: 1; }
+
+#stop10758-7 {
+  stop-color: #e5b630;
+  stop-opacity: 1; }
+
+#stop10450-3-5-6-7 {
+  stop-color: #cf9307;
+  stop-opacity: 1; }
+
+#stop10456-4-1-5-3 {
+  stop-color: #f7d87b;
+  stop-opacity: 1; }
+
+#stop10452-22-7-8-4 {
+  stop-color: #ebb313;
+  stop-opacity: 1; }
+
+#stop4370 {
+  stop-color: #fbdf89;
+  stop-opacity: 1; }
+
+#stop4376 {
+  stop-color: #f5ebc6;
+  stop-opacity: 1; }
+
+#stop4378 {
+  stop-color: #f3f4f0;
+  stop-opacity: 1; }
+
+#stop4372 {
+  stop-color: #f3f4f0;
+  stop-opacity: 1; }
+
+#stop4346 {
+  stop-color: #7e9cca;
+  stop-opacity: 1; }
+
+#stop4354 {
+  stop-color: #7e9cca;
+  stop-opacity: 1; }
+
+#stop4356 {
+  stop-color: #c0cde4;
+  stop-opacity: 1; }
+
+#stop4352 {
+  stop-color: #7e9cca;
+  stop-opacity: 1; }
+
+#stop4348 {
+  stop-color: #7e9cca;
+  stop-opacity: 1; }
+
+#stop4338 {
+  stop-color: #3461ab;
+  stop-opacity: 1; }
+
+#stop4340 {
+  stop-color: #5d88cb;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g8472 {
+  display: inline; }
+
+#rect4221-4 {
+  fill: none;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient5368);
+  stroke-width: 1.06988704;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4221 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient5370);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient5434);
+  stroke-opacity: 1; }
+
+#rect4221-7-1 {
+  fill: #ffffc9;
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient5454);
+  stroke-width: 1;
+  stroke-opacity: 1;
+  display: inline; }
+
+#rect4221-7-1-2 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient5372);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient5374);
+  stroke-width: 0.87995493;
+  stroke-opacity: 1;
+  display: inline; }
+
+#rect4221-7 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient5376);
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient5446);
+  stroke-width: 1.0003444;
+  stroke-linejoin: round;
+  stroke-miterlimit: 3;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g4246 {
+  display: inline; }
+
+#g4382 {
+  display: inline; }
+
+#path4366 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient4374);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #b08b21;
+  stroke-width: 3.58380508px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4326 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient4350);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//psearch_obj.svg#linearGradient4342);
+  stroke-width: 3.54304099px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#rect4358 {
+  opacity: 1;
+  fill: #547fc4;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1.79190254;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4380 {
+  opacity: 1;
+  fill: #b08b21;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1.79190254;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

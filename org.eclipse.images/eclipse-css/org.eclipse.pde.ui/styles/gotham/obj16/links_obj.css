@@ -1,0 +1,207 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4210 {
+  stop-color: #fdf2db;
+  stop-opacity: 1; }
+
+#stop4212 {
+  stop-color: #ffda91;
+  stop-opacity: 1; }
+
+#stop4214 {
+  stop-color: #ffda91;
+  stop-opacity: 1; }
+
+#stop4216 {
+  stop-color: #cda254;
+  stop-opacity: 1; }
+
+#stop4160 {
+  stop-color: #fdf2db;
+  stop-opacity: 1; }
+
+#stop4166 {
+  stop-color: #ffda91;
+  stop-opacity: 1; }
+
+#stop4168 {
+  stop-color: #ffda91;
+  stop-opacity: 1; }
+
+#stop4162 {
+  stop-color: #cda254;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g4295-8 {
+  display: inline; }
+
+#g4295 {
+  display: inline; }
+
+#path4198-5 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//links_obj.svg#linearGradient4206-5);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.80000001;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-5-8 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//links_obj.svg#linearGradient4206-5-6);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.80000001;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4156-5 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//links_obj.svg#linearGradient4164-2);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.80000001;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4156-5-2 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//links_obj.svg#linearGradient4164-2-9);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.80000001;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4412-6 {
+  display: inline;
+  fill: none;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.5;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4412 {
+  fill: none;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.5;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none; }
+
+#g4434-7 {
+  display: inline; }
+
+#g4295-1 {
+  display: inline; }
+
+#path4198-5-4 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//links_obj.svg#linearGradient4206-5-67);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.80000001;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4198-5-8-8 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//links_obj.svg#linearGradient4542);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.80000001;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4156-5-1 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//links_obj.svg#linearGradient4544);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.80000001;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4156-5-2-5 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//links_obj.svg#linearGradient4546);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.80000001;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4412-6-7 {
+  display: inline;
+  fill: none;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.5;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4412-7 {
+  fill: none;
+  fill-rule: evenodd;
+  stroke: #957016;
+  stroke-width: 0.5;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

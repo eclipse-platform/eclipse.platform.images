@@ -1,0 +1,107 @@
+/*
+ * Stock.scss provides the original Eclipse icon styles.
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** Stock styles and values */
+#stop4191 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4197 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4199 {
+  stop-color: #fff2de;
+  stop-opacity: 1; }
+
+#stop4193 {
+  stop-color: #ffd38b;
+  stop-opacity: 1; }
+
+#stop5994 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop6002 {
+  stop-color: #fdfbeb;
+  stop-opacity: 1; }
+
+#stop6000 {
+  stop-color: #f8eb99;
+  stop-opacity: 1; }
+
+#stop5996 {
+  stop-color: #ffe4b1;
+  stop-opacity: 1; }
+
+#stop5927 {
+  stop-color: #9eacbc;
+  stop-opacity: 1; }
+
+#stop5929 {
+  stop-color: #667480;
+  stop-opacity: 1; }
+
+#filter6048 {
+  color-interpolation-filters: sRGB; }
+
+#layer1 {
+  display: inline; }
+
+#path5108-6 {
+  display: inline;
+  fill: none;
+  stroke: #edaa2b;
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1;
+  filter: url(../../../../../../../../../eclipse-svg/org.eclipse.jface.text/src/org/eclipse/jface/contentassist/images//content_assist_cue.svg#filter6048); }
+
+#path4187 {
+  fill: url(../../../../../../../../../eclipse-svg/org.eclipse.jface.text/src/org/eclipse/jface/contentassist/images//content_assist_cue.svg#linearGradient4195);
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: #d97511;
+  stroke-width: 2.02746677px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#rect5896-7 {
+  display: inline;
+  fill: #4a607a;
+  fill-opacity: 1;
+  stroke: #4a607a;
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#rect5896 {
+  fill: url(../../../../../../../../../eclipse-svg/org.eclipse.jface.text/src/org/eclipse/jface/contentassist/images//content_assist_cue.svg#linearGradient4167);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 2.02746677;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#image4238 {
+  image-rendering: optimizeSpeed; }

@@ -1,0 +1,55 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4923 {
+  stop-color: #85a2cd;
+  stop-opacity: 1; }
+
+#stop4925 {
+  stop-color: #d3dce9;
+  stop-opacity: 1; }
+
+#stop4915 {
+  stop-color: #4e6b9b;
+  stop-opacity: 1; }
+
+#stop4917 {
+  stop-color: #6783b1;
+  stop-opacity: 1; }
+
+#stop4791 {
+  stop-color: #4e8fbd;
+  stop-opacity: 1; }
+
+#stop4793 {
+  stop-color: #30495a;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#path3986 {
+  fill: url(../../../../eclipse-svg/org.eclipse.e4.tools.bundle.spy/icons//state_uninstalled.svg#linearGradient3924);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4143-2 {
+  display: inline;
+  fill: url(../../../../eclipse-svg/org.eclipse.e4.tools.bundle.spy/icons//state_uninstalled.svg#linearGradient4927-4);
+  fill-opacity: 1;
+  stroke: url(../../../../eclipse-svg/org.eclipse.e4.tools.bundle.spy/icons//state_uninstalled.svg#linearGradient4919-2);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

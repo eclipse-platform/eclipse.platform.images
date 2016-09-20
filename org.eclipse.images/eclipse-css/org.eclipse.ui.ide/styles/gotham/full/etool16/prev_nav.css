@@ -1,0 +1,368 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4974-71 {
+  stop-color: #c7e3e7;
+  stop-opacity: 1; }
+
+#stop4976-5 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4974-6-9-4 {
+  stop-color: #daedef;
+  stop-opacity: 1; }
+
+#stop4976-2-4-6 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop6801-4-0-8 {
+  stop-color: #c89840;
+  stop-opacity: 1; }
+
+#stop6803-5-7-9 {
+  stop-color: #798da2;
+  stop-opacity: 1; }
+
+#stop4974-7-4 {
+  stop-color: #85c2cb;
+  stop-opacity: 1; }
+
+#stop4976-1-3 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4974-7-3-0 {
+  stop-color: #85c2cb;
+  stop-opacity: 1; }
+
+#stop4976-1-9-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4743 {
+  stop-color: #ba7f0d;
+  stop-opacity: 1; }
+
+#stop4745 {
+  stop-color: #a2660b;
+  stop-opacity: 1; }
+
+#stop4751 {
+  stop-color: #ffffee;
+  stop-opacity: 1; }
+
+#stop4753 {
+  stop-color: #ffecad;
+  stop-opacity: 1; }
+
+#stop4974-71-3 {
+  stop-color: #c7e3e7;
+  stop-opacity: 1; }
+
+#stop4976-5-3 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4974-6-9-4-5 {
+  stop-color: #daedef;
+  stop-opacity: 1; }
+
+#stop4976-2-4-6-7 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop6801-4-0-8-6 {
+  stop-color: #c89840;
+  stop-opacity: 1; }
+
+#stop6803-5-7-9-3 {
+  stop-color: #798da2;
+  stop-opacity: 1; }
+
+#stop4974-71-9 {
+  stop-color: #c7e3e7;
+  stop-opacity: 1; }
+
+#stop4976-5-1 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4974-6-9-4-3 {
+  stop-color: #daedef;
+  stop-opacity: 1; }
+
+#stop4976-2-4-6-9 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4974-7-4-2 {
+  stop-color: #85c2cb;
+  stop-opacity: 1; }
+
+#stop4976-1-3-6 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4128 {
+  stop-color: #85c2cb;
+  stop-opacity: 1; }
+
+#stop4130 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4974-7-3-0-6 {
+  stop-color: #85c2cb;
+  stop-opacity: 1; }
+
+#stop4976-1-9-5-7 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4139 {
+  stop-color: #85c2cb;
+  stop-opacity: 1; }
+
+#stop4141 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4751-7 {
+  stop-color: #ffffee;
+  stop-opacity: 1; }
+
+#stop4753-0 {
+  stop-color: #fbdd83;
+  stop-opacity: 1; }
+
+#stop4743-6 {
+  stop-color: #ba7f0d;
+  stop-opacity: 1; }
+
+#stop4745-0 {
+  stop-color: #a2660b;
+  stop-opacity: 1; }
+
+#stop4083 {
+  stop-color: #286296;
+  stop-opacity: 1; }
+
+#stop4085 {
+  stop-color: #778cb4;
+  stop-opacity: 1; }
+
+#stop4974-7-4-9 {
+  stop-color: #85c2cb;
+  stop-opacity: 1; }
+
+#stop4976-1-3-7 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#layer1 {
+  display: inline; }
+
+#g5253-5 {
+  display: inline; }
+
+#g5542-3 {
+  display: inline; }
+
+#g5253-5-2 {
+  display: inline; }
+
+#g4087-6 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient5572-4);
+  fill-opacity: 1; }
+
+#rect6795-7 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient5568-9);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient5570-2);
+  stroke-width: 0.63910681;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#g4087-6-8 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient5572-0);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect6795-7-4 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient4040);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 0.63910681;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect6891-5-7-4 {
+  color: #000000;
+  fill: #c4b79f;
+  fill-opacity: 1;
+  stroke: #c4b79f;
+  stroke-width: 0.52866435;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect6891-5-7-3-0 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient5205-1);
+  fill-opacity: 1;
+  stroke: #c4b79f;
+  stroke-width: 0.76810956;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect6891-5-7-3-9-6 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient5199-4);
+  fill-opacity: 1;
+  stroke: #c4b79f;
+  stroke-width: 0.76810956;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect6891-5-7-31-2 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient5177-9);
+  fill-opacity: 1;
+  stroke: #c4b79f;
+  stroke-width: 0.69427586;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect6891-5-7-3-9-8-3 {
+  color: #000000;
+  display: inline;
+  overflow: visible;
+  visibility: visible;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient5172-8);
+  fill-opacity: 1;
+  stroke: #c4b79f;
+  stroke-width: 0.76810956;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1;
+  marker: none;
+  enable-background: accumulate; }
+
+#layer1-0 {
+  display: inline; }
+
+#rect3968 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient5232-4);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient5234-1);
+  stroke-width: 1.53600001;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#rect6999 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient4087);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect6891-5-7-4-9 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.ide/icons/full/etool16//prev_nav.svg#linearGradient3858);
+  fill-opacity: 1;
+  stroke: #c4b79f;
+  stroke-width: 0.69427586;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect6891-5-7-4-8 {
+  color: #000000;
+  fill: #c4b79f;
+  fill-opacity: 1;
+  stroke: #c4b79f;
+  stroke-width: 0.52866435;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }

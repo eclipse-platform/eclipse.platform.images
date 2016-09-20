@@ -1,0 +1,466 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop7277 {
+  stop-color: #663e32;
+  stop-opacity: 1; }
+
+#stop7279 {
+  stop-color: #8c5d46;
+  stop-opacity: 1; }
+
+#stop7281 {
+  stop-color: #663e32;
+  stop-opacity: 1; }
+
+#stop7283 {
+  stop-color: #663e32;
+  stop-opacity: 1; }
+
+#stop7285 {
+  stop-color: #663e32;
+  stop-opacity: 1; }
+
+#stop7287 {
+  stop-color: #8c5d46;
+  stop-opacity: 1; }
+
+#stop7289 {
+  stop-color: #663e32;
+  stop-opacity: 1; }
+
+#stop3975 {
+  stop-color: #f8d078;
+  stop-opacity: 1; }
+
+#stop3977 {
+  stop-color: #f8f0c8;
+  stop-opacity: 1; }
+
+#stop3969 {
+  stop-color: #c48a4e;
+  stop-opacity: 1; }
+
+#stop3971 {
+  stop-color: #ad6c24;
+  stop-opacity: 1; }
+
+#stop3957 {
+  stop-color: #c38536;
+  stop-opacity: 1; }
+
+#stop3959 {
+  stop-color: #f2dc91;
+  stop-opacity: 1; }
+
+#stop3961 {
+  stop-color: #fbdc8b;
+  stop-opacity: 1; }
+
+#stop3963 {
+  stop-color: #e6bd7a;
+  stop-opacity: 1; }
+
+#stop3965 {
+  stop-color: #ba772f;
+  stop-opacity: 1; }
+
+#stop3951 {
+  stop-color: #9e6627;
+  stop-opacity: 1; }
+
+#stop3953 {
+  stop-color: #c38536;
+  stop-opacity: 1; }
+
+#stop11150-7-8-3-8-7 {
+  stop-color: #faf6ba;
+  stop-opacity: 1; }
+
+#stop11152-8-8-6-3-2 {
+  stop-color: #a97d5e;
+  stop-opacity: 1; }
+
+#stop11150-9-6-9-5 {
+  stop-color: #faf6ba;
+  stop-opacity: 1; }
+
+#stop11152-6-7-6-3 {
+  stop-color: #a97d5e;
+  stop-opacity: 1; }
+
+#stop11150-7-5-9-3 {
+  stop-color: #faf6ba;
+  stop-opacity: 1; }
+
+#stop11152-8-4-35-5 {
+  stop-color: #a97d5e;
+  stop-opacity: 1; }
+
+#stop11150-4-72-3 {
+  stop-color: #faf6ba;
+  stop-opacity: 1; }
+
+#stop11152-9-0-7 {
+  stop-color: #a97d5e;
+  stop-opacity: 1; }
+
+#stop7277-4 {
+  stop-color: #663e32;
+  stop-opacity: 1; }
+
+#stop7279-1 {
+  stop-color: #8c5d46;
+  stop-opacity: 1; }
+
+#stop7281-8 {
+  stop-color: #663e32;
+  stop-opacity: 1; }
+
+#stop7283-1 {
+  stop-color: #663e32;
+  stop-opacity: 1; }
+
+#stop7285-6 {
+  stop-color: #663e32;
+  stop-opacity: 1; }
+
+#stop7287-7 {
+  stop-color: #8c5d46;
+  stop-opacity: 1; }
+
+#stop7289-7 {
+  stop-color: #663e32;
+  stop-opacity: 1; }
+
+#stop7542-8-7-5-3 {
+  stop-color: #ffffff;
+  stop-opacity: 0.502; }
+
+#stop7544-8-2-0-4 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop7546-1-7-9-2 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop7548-98-9-2-6 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop7542-4-4-3-3-3 {
+  stop-color: #ffffff;
+  stop-opacity: 0.502; }
+
+#stop7544-5-3-8-5-2 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop7546-2-9-1-2-9 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop7548-9-2-0-9-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop7274-6-0-1-7-4-3 {
+  stop-color: #8f6c10;
+  stop-opacity: 1; }
+
+#stop7276-66-6-3-9-1-4 {
+  stop-color: #c9a645;
+  stop-opacity: 1; }
+
+#g14104 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#rect14106 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path14108 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path14110 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.02792978;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#stop5070-8-0-4-9 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop5072-3-6-1-7 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4530-0-5-0-5-8-4 {
+  stop-color: #e0c576;
+  stop-opacity: 1; }
+
+#stop4532-7-9-3-3-6-1 {
+  stop-color: #9e7916;
+  stop-opacity: 1; }
+
+#stop6283-0-2-2-1-2-0-1-6-0 {
+  stop-color: #f7f9fb;
+  stop-opacity: 1; }
+
+#stop6285-5-0-9-7-6-9-9-1-9 {
+  stop-color: #ffd680;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g13862 {
+  display: inline; }
+
+#rect13693-3 {
+  fill: #fdf7eb;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient3939);
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect13693 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient4933);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient4935);
+  stroke-width: 3.02792978;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path13797 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient3945);
+  stroke-width: 3.02792978;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#g14097 {
+  opacity: 0.5; }
+
+#g8461 {
+  display: inline; }
+
+#g7590-1-0 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#rect6501-1-6-8 {
+  opacity: 0.84999999999999998;
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 5.85503386999999975;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#filter8410-6-5); }
+
+#g6258 {
+  display: inline; }
+
+#layer1-9 {
+  display: inline; }
+
+#g11331-3 {
+  display: inline; }
+
+#g11260-4 {
+  display: inline; }
+
+#rect10961-8 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#radialGradient14880);
+  fill-opacity: 1;
+  stroke: #8c5d46;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-9-0 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#radialGradient14882);
+  fill-opacity: 1;
+  stroke: #8c5d46;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-3-9 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#radialGradient14884);
+  fill-opacity: 1;
+  stroke: #8c5d46;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-9-6-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#radialGradient14886);
+  fill-opacity: 1;
+  stroke: #8c5d46;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path11108-6 {
+  fill: #713e1e;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient14888);
+  stroke-width: 3.58380508;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path11108-6-5 {
+  fill: #713e1e;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient14890);
+  stroke-width: 3.58380508;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g6432 {
+  display: inline; }
+
+#path5581-1-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient6323-7-1-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path5581-1-1-8 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient5084-3-3-2-6);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path5581-1-1-7 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient5086-8-0-8-5);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path5581-1-1-6 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient5082-1-0-8-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path5581-1-1-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient5078-8-2-1-4);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path5581-1-1-89 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient5076-5-2-9-8);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path5581-1-1-2 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient3500-5);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path5581-1-1-79 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient5088-1-4-8-6);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g4514 {
+  display: inline; }
+
+#rect3910 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#radialGradient3091-1-9-6-4-6);
+  fill-opacity: 1;
+  stroke: #a27d18;
+  stroke-width: 1.03243756;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#path5581-5-5 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/etool16//newpackfolder_wiz.svg#linearGradient3093-5-2-7-0-9);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

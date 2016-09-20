@@ -1,0 +1,258 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop5257 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop5259 {
+  stop-color: #dee9f7;
+  stop-opacity: 1; }
+
+#stop5107 {
+  stop-color: #bfb688;
+  stop-opacity: 1; }
+
+#stop5109 {
+  stop-color: #8693ae;
+  stop-opacity: 1; }
+
+#stop5243-0 {
+  stop-color: #879cc0;
+  stop-opacity: 1; }
+
+#stop5245-9 {
+  stop-color: #677da9;
+  stop-opacity: 1; }
+
+#stop11681-94 {
+  stop-color: #ffffff;
+  stop-opacity: 0.72146118; }
+
+#stop11683-0 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop5243-0-2 {
+  stop-color: #879cc0;
+  stop-opacity: 1; }
+
+#stop5245-9-4 {
+  stop-color: #677da9;
+  stop-opacity: 1; }
+
+#stop5243-0-2-7 {
+  stop-color: #879cc0;
+  stop-opacity: 1; }
+
+#stop5245-9-4-1 {
+  stop-color: #677da9;
+  stop-opacity: 1; }
+
+#stop5180 {
+  stop-color: #000000;
+  stop-opacity: 1; }
+
+#stop5182 {
+  stop-color: #000000;
+  stop-opacity: 0; }
+
+#stop5249 {
+  stop-color: #eef4fa;
+  stop-opacity: 1; }
+
+#stop5251 {
+  stop-color: #bddff4;
+  stop-opacity: 1; }
+
+#stop5353 {
+  stop-color: #296fc4;
+  stop-opacity: 1; }
+
+#stop5355 {
+  stop-color: #2b578f;
+  stop-opacity: 1; }
+
+#stop5243 {
+  stop-color: #879cc0;
+  stop-opacity: 1; }
+
+#stop5245 {
+  stop-color: #677da9;
+  stop-opacity: 1; }
+
+#stop4740 {
+  stop-color: #8cc861;
+  stop-opacity: 1; }
+
+#stop4746 {
+  stop-color: #4aa766;
+  stop-opacity: 1; }
+
+#stop4742 {
+  stop-color: #c2dd97;
+  stop-opacity: 1; }
+
+#stop4743 {
+  stop-color: #30825a;
+  stop-opacity: 1; }
+
+#stop4745 {
+  stop-color: #106643;
+  stop-opacity: 1; }
+
+#rect4172-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient5282);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient5284);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#g8421 {
+  display: inline; }
+
+#rect4942 {
+  fill: none;
+  stroke: none;
+  display: inline; }
+
+#rect4942-1 {
+  fill: none;
+  stroke: none;
+  display: inline; }
+
+#rect4942-1-7 {
+  fill: none;
+  stroke: none;
+  display: inline; }
+
+#rect4942-1-7-4-0-9-4-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient4250);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path5171-8 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient5201);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1.06988704;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4942-1-7-4-0-9-4-4-5 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient4284);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4942-1-7-4-0-9-4-4-5-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient4318);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path5171 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  opacity: 0.75;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient5184);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1.06988704;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4172 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient5253);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient5357);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect4942-1-7-4-0-9-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient5224);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#layer1-2 {
+  display: inline; }
+
+#rect3968 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient4744);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//HandledMenuItem.svg#linearGradient4747);
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }

@@ -1,0 +1,369 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop10800-5-2-1-8-20-6-4-9 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4 {
+  stop-color: #4a9c57;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2 {
+  stop-color: #b5da96;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-20-4-0-2-1 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-2-2-7-0 {
+  stop-color: #418a4d;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-6-8-5-5 {
+  stop-color: #a4c589;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-20-4-5-3-1-1 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-2-0-2-1-2 {
+  stop-color: #418a4d;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-6-4-2-3-4 {
+  stop-color: #a4c589;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-20-6-4-9-0 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-5 {
+  stop-color: #4a9c57;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-1 {
+  stop-color: #a4c589;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-20-6-4-9-8 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-4 {
+  stop-color: #4a9c57;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-3 {
+  stop-color: #a4c589;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-20-6-4-9-8-8 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-4-8 {
+  stop-color: #4a9c57;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-3-6 {
+  stop-color: #a4c589;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-20-6-4-9-4 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-2 {
+  stop-color: #4a9c57;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-33 {
+  stop-color: #b5da96;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-20-6-4-9-4-1 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-2-2 {
+  stop-color: #4a9c57;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-33-6 {
+  stop-color: #b5da96;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g11331-3-1-1 {
+  display: inline; }
+
+#path10927-5-7-4-4 {
+  fill: #366c9a;
+  fill-opacity: 1;
+  display: inline; }
+
+#g13408-8 {
+  fill: #737986;
+  fill-opacity: 1;
+  stroke: #595e68;
+  stroke-opacity: 1; }
+
+#path9518-1-56 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #737986;
+  fill-opacity: 1;
+  stroke: #595e68;
+  stroke-width: 1.49197865;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#path9518-1-1-0 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #737986;
+  fill-opacity: 1;
+  stroke: #595e68;
+  stroke-width: 1.49197865;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#path9518-1-1-7-3 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #737986;
+  fill-opacity: 1;
+  stroke: #595e68;
+  stroke-width: 1.49197865;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#g13408-7-8 {
+  fill: #737986;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path9518-1-5-2 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #737986;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1.49197865;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#path9518-1-1-9-2 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #737986;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1.49197865;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#path9518-1-1-7-6-2 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #737986;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1.49197865;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#path10796-2-6-2 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//hierch_persp.svg#linearGradient13468-0-8);
+  fill-opacity: 1;
+  stroke: #268048;
+  stroke-width: 4.55839108999999976;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path10796-2-6-2-8 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//hierch_persp.svg#linearGradient3946);
+  fill-opacity: 1;
+  stroke: #268048;
+  stroke-width: 4.55839109;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path10796-2-6-2-8-3 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/eview16//hierch_persp.svg#linearGradient3983);
+  fill-opacity: 1;
+  stroke: #268048;
+  stroke-width: 4.55839109;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }

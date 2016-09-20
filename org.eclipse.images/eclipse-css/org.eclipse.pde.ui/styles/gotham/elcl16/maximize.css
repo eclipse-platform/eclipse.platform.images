@@ -1,0 +1,63 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#layer1 {
+  display: inline; }
+
+#layer1-6 {
+  display: inline;
+  fill: #6f7684;
+  fill-opacity: 1; }
+
+#g4908 {
+  fill: #6f7684;
+  fill-opacity: 1; }
+
+#g4948 {
+  display: inline;
+  fill: #6f7684;
+  fill-opacity: 1; }
+
+#g4156 {
+  fill: #6f7684;
+  fill-opacity: 1; }
+
+#path4951-1 {
+  color: #000000;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: medium;
+  line-height: normal;
+  font-family: Sans;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  text-decoration-line: none;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  baseline-shift: baseline;
+  text-anchor: start;
+  display: inline;
+  overflow: visible;
+  visibility: visible;
+  fill: #6f7684;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1.25;
+  marker: none;
+  enable-background: accumulate; }

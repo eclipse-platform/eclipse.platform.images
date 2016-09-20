@@ -1,0 +1,126 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop8294 {
+  stop-color: #71baff;
+  stop-opacity: 1; }
+
+#stop8296 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4084-8 {
+  stop-color: #4476aa;
+  stop-opacity: 1; }
+
+#stop4864-7 {
+  stop-color: #5a9ccc;
+  stop-opacity: 1; }
+
+#stop4086-2 {
+  stop-color: #4476aa;
+  stop-opacity: 1; }
+
+#stop8294-9 {
+  stop-color: #71baff;
+  stop-opacity: 1; }
+
+#stop8296-8 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop8294-0 {
+  stop-color: #71baff;
+  stop-opacity: 1; }
+
+#stop8296-3 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect7504 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/eview16//outline_co.svg#linearGradient8298);
+  fill-opacity: 1;
+  stroke: #1469ab;
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect7504-6 {
+  display: inline;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/eview16//outline_co.svg#linearGradient8315);
+  fill-opacity: 1;
+  stroke: #1469ab;
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path8334 {
+  fill: none;
+  stroke: #10558a;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path8334-0 {
+  display: inline;
+  fill: none;
+  stroke: #c1e8ff;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#g8372-7 {
+  display: inline; }
+
+#path8334-4 {
+  fill: none;
+  stroke: #10558a;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path8334-0-2 {
+  display: inline;
+  fill: none;
+  stroke: #c1e8ff;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#rect7504-2 {
+  display: inline;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/eview16//outline_co.svg#linearGradient8415);
+  fill-opacity: 1;
+  stroke: #1469ab;
+  stroke-width: 1.00809228;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#g8372-7-1 {
+  display: inline; }
+
+#path8334-4-7 {
+  fill: none;
+  stroke: #10558a;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }

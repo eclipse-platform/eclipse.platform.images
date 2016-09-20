@@ -1,0 +1,77 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4227 {
+  stop-color: #ffcd69;
+  stop-opacity: 1; }
+
+#stop4233 {
+  stop-color: #ffbb31;
+  stop-opacity: 1; }
+
+#stop4235 {
+  stop-color: #ffdf98;
+  stop-opacity: 1; }
+
+#stop4229 {
+  stop-color: #ffeec1;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect4168 {
+  display: inline;
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//alert_obj.svg#linearGradient4231);
+  fill-opacity: 1;
+  stroke: #ca8325;
+  stroke-width: 1.00000805;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4168-1 {
+  display: inline;
+  opacity: 1;
+  fill: none;
+  fill-opacity: 1;
+  stroke: #fff3d4;
+  stroke-width: 1.00001621;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 0.80110496; }
+
+#rect4239 {
+  display: inline;
+  opacity: 1;
+  fill: #7b5113;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 0.57458562; }
+
+#rect4239-1 {
+  display: inline;
+  opacity: 1;
+  fill: #7b5113;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 0.57458562; }

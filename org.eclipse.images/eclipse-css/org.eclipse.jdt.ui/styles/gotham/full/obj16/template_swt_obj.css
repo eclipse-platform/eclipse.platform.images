@@ -1,0 +1,187 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4974 {
+  stop-color: #c7e3e7;
+  stop-opacity: 1; }
+
+#stop4976 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4896 {
+  stop-color: #7e707a;
+  stop-opacity: 1; }
+
+#stop4898 {
+  stop-color: #8a5e8d;
+  stop-opacity: 1; }
+
+#stop4974-6-9 {
+  stop-color: #daedef;
+  stop-opacity: 1; }
+
+#stop4976-2-4 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop6801-4-0 {
+  stop-color: #a6bacf;
+  stop-opacity: 1; }
+
+#stop6803-5-7 {
+  stop-color: #798da2;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g4087 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//template_swt_obj.svg#linearGradient4978);
+  fill-opacity: 1; }
+
+#rect6795 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//template_swt_obj.svg#linearGradient5417);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//template_swt_obj.svg#linearGradient5419);
+  stroke-width: 0.63910681;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect6891 {
+  opacity: 0.77310947;
+  color: #000000;
+  fill: #fef17a;
+  fill-opacity: 1;
+  stroke: #c89840;
+  stroke-width: 1.42056966;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect4892 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//template_swt_obj.svg#linearGradient4900);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#text4100-4 {
+  font-size: 7.90239143px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: #000000;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2.06034756;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline;
+  font-family: Sans; }
+
+#path4873-7 {
+  font-variant: normal;
+  font-stretch: normal;
+  stroke: #ffffff;
+  stroke-width: 2.06034756;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  font-family: Liberation Mono;
+  inkscape-font-specification: Liberation Mono; }
+
+#path4875-6 {
+  font-variant: normal;
+  font-stretch: normal;
+  stroke: #ffffff;
+  stroke-width: 2.06034756;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  font-family: Liberation Mono;
+  inkscape-font-specification: Liberation Mono; }
+
+#path4877-5 {
+  font-variant: normal;
+  font-stretch: normal;
+  stroke: #ffffff;
+  stroke-width: 2.06034756;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  font-family: Liberation Mono;
+  inkscape-font-specification: Liberation Mono; }
+
+#rect3011 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#text4100 {
+  font-size: 7.90239143px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: #000000;
+  fill-opacity: 1;
+  stroke: none;
+  font-family: Sans; }
+
+#path4873 {
+  font-variant: normal;
+  font-stretch: normal;
+  stroke: none;
+  font-family: Liberation Mono;
+  inkscape-font-specification: Liberation Mono; }
+
+#path4875 {
+  font-variant: normal;
+  font-stretch: normal;
+  stroke: none;
+  font-family: Liberation Mono;
+  inkscape-font-specification: Liberation Mono; }
+
+#path4877 {
+  font-variant: normal;
+  font-stretch: normal;
+  stroke: none;
+  font-family: Liberation Mono;
+  inkscape-font-specification: Liberation Mono; }

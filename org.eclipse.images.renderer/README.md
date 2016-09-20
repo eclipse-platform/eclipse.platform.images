@@ -15,11 +15,6 @@ After the renderer plugin is installed, change into the root of the images proje
 
 cd org.eclipse.images
 
-** Work around bug 493994 in Apache Batik [3]: **
-Apache Batik produces bad PNGs for some SVGs created by Inkscape.
-The workaround is to run the Ant script /org.eclipse.images/build.xml.
-This may modify some SVG files. You should commit these changes.
-
 Finally, execute the icon render mojo with:
 
 mvn org.eclipse.images:org.eclipse.images.renderer:render-icons
@@ -33,6 +28,27 @@ eclipse.svg.createFragments - a boolean that specifies whether to create separat
 eclipse.svg.renderthreads   - an integer that specifies how many threads to use simultaneously while rendering
 eclipse.svg.sourcedirectory - a string that specifies the directory name where the SVGs are taken from (defaults to "eclipse-svg")
 eclipse.svg.targetdirectory - a string that specifies the directory name where the PNGs are written to (defaults to "eclipse-png")
+
+SASS/CSS Stylesheet Rendering (Experimental)
+
+Icons can be rendered using an alternate stylesheet theme, which are located in eclipse-css. Rendering with stylesheets
+requires the open source SASS stylesheet preprocessor to be installed on your system and available on your system path.
+
+To enable stylesheet rendering, simply specify the eclipse.svg.stylesheet property when invoking the render-icons mojo.
+If no stylesheet theme is specified, the inline styles from the SVG document are used.
+
+The original icon theme is available as the "stock" theme, located in eclipse-css/styles.
+
+Stylesheet options:
+eclipse.svg.stylesheet - the name of a style theme in the eclipse-css/styles folder to use when rendering icons
+eclipse.svg.stylesheet.regenerate - if true, all SASS stylesheets will be processed into CSS, replacing the current CSS files
+
+New themes can be created by using the Create CSS Theme mojo:
+
+mvn org.eclipse.images:org.eclipse.images.renderer:create-css-theme -Declipse.svg.newThemeName=myThemeName
+
+This will create a copy of the "stock" theme, which is the original set of Eclipse styles for the icons renamed with
+"myThemeName." The resulting SASS styles are available in each icon root for tweaking and modification.
 
 Once the icon sets have been rendered, you can create galleries for evaluation and feedback with the gallery mojo:
 

@@ -1,0 +1,185 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop13828-0-6 {
+  stop-color: #d8e1ed;
+  stop-opacity: 1; }
+
+#stop13830-2-6 {
+  stop-color: #f8f9fa;
+  stop-opacity: 1; }
+
+#stop13852-4-9 {
+  stop-color: #807e66;
+  stop-opacity: 1; }
+
+#stop13854-7-9 {
+  stop-color: #ccab63;
+  stop-opacity: 1; }
+
+#stop13858-8-7 {
+  stop-color: #807e66;
+  stop-opacity: 1; }
+
+#stop13860-4-7 {
+  stop-color: #ccab63;
+  stop-opacity: 1; }
+
+#stop13719-9-6 {
+  stop-color: #c48a4e;
+  stop-opacity: 1; }
+
+#stop13721-8-2 {
+  stop-color: #b85f1b;
+  stop-opacity: 1; }
+
+#stop13741-3-4 {
+  stop-color: #ffca57;
+  stop-opacity: 1; }
+
+#stop13743-3-6 {
+  stop-color: #fffec5;
+  stop-opacity: 1; }
+
+#stop13735-7-6 {
+  stop-color: #73451c;
+  stop-opacity: 1; }
+
+#stop13737-8-8 {
+  stop-color: #ba772f;
+  stop-opacity: 1; }
+
+#stop13801-4-8 {
+  stop-color: #b9772f;
+  stop-opacity: 1; }
+
+#stop13809-4-5 {
+  stop-color: #f2dc91;
+  stop-opacity: 1; }
+
+#stop13807-7-9 {
+  stop-color: #fbdc8b;
+  stop-opacity: 1; }
+
+#stop13811-8-3 {
+  stop-color: #e6bd7a;
+  stop-opacity: 1; }
+
+#stop13803-6-3 {
+  stop-color: #ba772f;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g13862 {
+  display: inline; }
+
+#rect13616 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//workset.svg#linearGradient13832-8-7);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//workset.svg#linearGradient13840-9-0);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0; }
+
+#rect13616-6 {
+  fill: #dbbe7e;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//workset.svg#linearGradient13848-8-3);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path13637 {
+  fill: none;
+  stroke: #547bba;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path13637-8 {
+  fill: none;
+  stroke: #547bba;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#path13637-8-4 {
+  fill: none;
+  stroke: #547bba;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#path13637-8-4-5 {
+  fill: none;
+  stroke: #547bba;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect13693-3 {
+  fill: #fdf7eb;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//workset.svg#linearGradient13818-7-4);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect13693 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//workset.svg#linearGradient13820-2-2);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//workset.svg#linearGradient13822-2-6);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0; }
+
+#path13797 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/obj16//workset.svg#linearGradient13824-1-1);
+  stroke-width: 2;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }

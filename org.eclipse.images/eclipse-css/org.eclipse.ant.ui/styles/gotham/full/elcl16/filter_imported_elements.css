@@ -1,0 +1,156 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop5240 {
+  stop-color: #6d83ac;
+  stop-opacity: 1; }
+
+#stop5242 {
+  stop-color: #aeb9ce;
+  stop-opacity: 1; }
+
+#stop5150-6-3 {
+  stop-color: #05507d;
+  stop-opacity: 1; }
+
+#stop5152-5-4 {
+  stop-color: #6b8fa5;
+  stop-opacity: 1; }
+
+#stop5240-9 {
+  stop-color: #6d83ac;
+  stop-opacity: 1; }
+
+#stop5242-5 {
+  stop-color: #aeb9ce;
+  stop-opacity: 1; }
+
+#stop5240-9-6 {
+  stop-color: #6d83ac;
+  stop-opacity: 1; }
+
+#stop5242-5-0 {
+  stop-color: #aeb9ce;
+  stop-opacity: 1; }
+
+#stop5240-9-6-9 {
+  stop-color: #6d83ac;
+  stop-opacity: 1; }
+
+#stop5242-5-0-3 {
+  stop-color: #aeb9ce;
+  stop-opacity: 1; }
+
+#stop5240-9-6-9-8 {
+  stop-color: #6d83ac;
+  stop-opacity: 1; }
+
+#stop5242-5-0-3-1 {
+  stop-color: #aeb9ce;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect5226 {
+  opacity: 1;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ant.ui/icons/full/elcl16//filter_imported_elements.svg#linearGradient5244);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1.10000001999999997;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect5226-0 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ant.ui/icons/full/elcl16//filter_imported_elements.svg#linearGradient5261);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1.10000002;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect5226-0-1 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ant.ui/icons/full/elcl16//filter_imported_elements.svg#linearGradient5295);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1.10000002;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect5226-0-1-8 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ant.ui/icons/full/elcl16//filter_imported_elements.svg#linearGradient5329);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1.10000002;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect5226-0-1-8-9 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ant.ui/icons/full/elcl16//filter_imported_elements.svg#linearGradient5363);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1.10000002;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#path5146 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ant.ui/icons/full/elcl16//filter_imported_elements.svg#linearGradient5205);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g5142 {
+  fill: #6b8fa5;
+  fill-opacity: 1; }
+
+#path5122 {
+  fill: #6b8fa5;
+  fill-opacity: 1;
+  stroke: #000f6f;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path5122-7 {
+  fill: #6b8fa5;
+  fill-opacity: 1;
+  stroke: #6b7ae2;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  display: inline; }

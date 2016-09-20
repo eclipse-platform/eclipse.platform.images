@@ -1,0 +1,91 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop3798 {
+  stop-color: #14733c;
+  stop-opacity: 0; }
+
+#stop3800 {
+  stop-color: #14733c;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-20-6-4-9-8-2 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-3-2 {
+  stop-color: #418a4d;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-9-2 {
+  stop-color: #a4c589;
+  stop-opacity: 1; }
+
+#stop10800-5-2-1-8-20-6-4-9-8-2-4 {
+  stop-color: #4f9e55;
+  stop-opacity: 1; }
+
+#stop10806-6-8-5-3-9-24-8-4-3-2-0 {
+  stop-color: #418a4d;
+  stop-opacity: 1; }
+
+#stop10802-1-5-3-0-4-8-4-2-9-2-9 {
+  stop-color: #a4c589;
+  stop-opacity: 1; }
+
+#path3351 {
+  opacity: 1;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-opacity: 1; }
+
+#path3350 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: none;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4163-4-0 {
+  fill: none;
+  fill-rule: evenodd;
+  stroke: #ffffff;
+  stroke-width: 1.01002824;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4168-7 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  fill-rule: evenodd;
+  stroke: none;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4168 {
+  fill: none;
+  fill-rule: evenodd;
+  stroke: #894c1f;
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

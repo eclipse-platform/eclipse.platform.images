@@ -1,0 +1,215 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop7493 {
+  stop-color: #5b6c89;
+  stop-opacity: 1; }
+
+#stop7495 {
+  stop-color: #a0b0cc;
+  stop-opacity: 1; }
+
+#stop7256 {
+  stop-color: #5b6c89;
+  stop-opacity: 1; }
+
+#stop7258 {
+  stop-color: #95a3ba;
+  stop-opacity: 1; }
+
+#stop7256-5 {
+  stop-color: #5b6c89;
+  stop-opacity: 1; }
+
+#stop7258-7 {
+  stop-color: #95a3ba;
+  stop-opacity: 1; }
+
+#stop7256-0 {
+  stop-color: #5b6c89;
+  stop-opacity: 1; }
+
+#stop7258-0 {
+  stop-color: #95a3ba;
+  stop-opacity: 1; }
+
+#stop7256-5-4 {
+  stop-color: #5b6c89;
+  stop-opacity: 1; }
+
+#stop7258-7-4 {
+  stop-color: #95a3ba;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect7499 {
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7415-2 {
+  opacity: 0.3487395;
+  color: #000000;
+  fill: #5b6c89;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7415 {
+  opacity: 0.3487395;
+  color: #000000;
+  fill: #5b6c89;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7244-4-4 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//prop_ps.svg#linearGradient7362);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7244-4 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//prop_ps.svg#linearGradient7277);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7489 {
+  opacity: 0.67558528;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//prop_ps.svg#linearGradient7497);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7244 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//prop_ps.svg#linearGradient7260);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7244-7 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/elcl16//prop_ps.svg#linearGradient7328);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7244-4-4-8 {
+  color: #000000;
+  fill: #5b6c89;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7415-2-4 {
+  opacity: 0.3487395;
+  color: #000000;
+  fill: #5b6c89;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7415-2-4-3 {
+  opacity: 0.3487395;
+  color: #000000;
+  fill: #5b6c89;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect7415-2-4-3-9 {
+  opacity: 0.3487395;
+  color: #000000;
+  fill: #5b6c89;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.5;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }

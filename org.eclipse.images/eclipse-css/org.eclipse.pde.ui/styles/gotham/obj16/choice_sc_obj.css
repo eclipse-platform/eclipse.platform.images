@@ -1,0 +1,86 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4205 {
+  stop-color: #5c7aaa;
+  stop-opacity: 1; }
+
+#stop4207 {
+  stop-color: #aebdd5;
+  stop-opacity: 1; }
+
+#stop4159 {
+  stop-color: #81737c;
+  stop-opacity: 1; }
+
+#stop4161 {
+  stop-color: #a79aa4;
+  stop-opacity: 1; }
+
+#stop4192 {
+  stop-color: #346692;
+  stop-opacity: 1; }
+
+#stop4194 {
+  stop-color: #4395c1;
+  stop-opacity: 1; }
+
+#g4191 {
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//choice_sc_obj.svg#linearGradient4209);
+  stroke-opacity: 1; }
+
+#path4187 {
+  fill: none;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//choice_sc_obj.svg#linearGradient4211);
+  stroke-width: 1.0157845px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#path4189 {
+  fill: none;
+  fill-rule: evenodd;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//choice_sc_obj.svg#linearGradient4213);
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#rect4160 {
+  opacity: 1;
+  fill: #e7e1c4;
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//choice_sc_obj.svg#linearGradient4196);
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4160-0 {
+  opacity: 1;
+  fill: #89bedb;
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//choice_sc_obj.svg#linearGradient4196-4);
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4160-1 {
+  opacity: 1;
+  fill: #e7e1c4;
+  fill-opacity: 1;
+  stroke: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//choice_sc_obj.svg#linearGradient4196-5);
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

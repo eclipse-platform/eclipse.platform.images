@@ -1,0 +1,75 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#layer1 {
+  display: inline; }
+
+#path6578-1 {
+  color: #000000;
+  fill: #88aeca;
+  fill-opacity: 1;
+  stroke: #3d6e94;
+  stroke-width: 1.39648581;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#path6578-2-7 {
+  color: #000000;
+  fill: none;
+  stroke: #3d6e94;
+  stroke-width: 2.57762098;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#path6578-2-0-4 {
+  color: #000000;
+  fill: #3d6e94;
+  fill-opacity: 1;
+  stroke: #3d6e94;
+  stroke-width: 2.03037214;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#path4934-6 {
+  fill: none;
+  stroke: #ffffff;
+  stroke-width: 1.33808279px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  display: inline; }
+
+#path4934 {
+  fill: #3977b0;
+  fill-opacity: 1;
+  stroke: #1e64a3;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }

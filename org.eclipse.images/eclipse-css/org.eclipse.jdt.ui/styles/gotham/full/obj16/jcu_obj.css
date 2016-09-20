@@ -1,0 +1,65 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4904-2 {
+  stop-color: #b28a30;
+  stop-opacity: 1; }
+
+#stop4906-2 {
+  stop-color: #7c703e;
+  stop-opacity: 1; }
+
+#stop4896-8 {
+  stop-color: #e0c88f;
+  stop-opacity: 1; }
+
+#stop4898-5 {
+  stop-color: #d5b269;
+  stop-opacity: 1; }
+
+#stop4996-1 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop4998-89 {
+  stop-color: #dce7f7;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect4001-3 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//jcu_obj.svg#linearGradient4101);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4884 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//jcu_obj.svg#linearGradient4900-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4001 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//jcu_obj.svg#linearGradient4908-2);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path10927-5-7-4-4 {
+  display: inline;
+  fill: #366c9a;
+  fill-opacity: 1; }

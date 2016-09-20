@@ -1,0 +1,123 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4885 {
+  stop-color: #ebf9ff;
+  stop-opacity: 1; }
+
+#stop4887 {
+  stop-color: #fcffff;
+  stop-opacity: 1; }
+
+#stop4912-8 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8 {
+  stop-color: #c3e9ff;
+  stop-opacity: 1; }
+
+#stop4996-5 {
+  stop-color: #c3e9ff;
+  stop-opacity: 1; }
+
+#stop4998-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#layer1 {
+  display: inline; }
+
+#rect3997-9-1 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #8b96ab;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect3997-9-1-1 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//ok_st_obj.svg#linearGradient4889);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4853-82-7 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//ok_st_obj.svg#linearGradient5062);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0 {
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/obj16//ok_st_obj.svg#linearGradient4975-2);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4065 {
+  fill: none;
+  stroke: #334e6f;
+  stroke-width: 1.5;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none; }

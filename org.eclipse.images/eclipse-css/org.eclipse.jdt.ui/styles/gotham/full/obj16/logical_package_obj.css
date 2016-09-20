@@ -1,0 +1,482 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4859 {
+  stop-color: #713e1e;
+  stop-opacity: 1; }
+
+#stop4873 {
+  stop-color: #925321;
+  stop-opacity: 1; }
+
+#stop4871 {
+  stop-color: #945829;
+  stop-opacity: 1; }
+
+#stop4867 {
+  stop-color: #703b18;
+  stop-opacity: 1; }
+
+#stop4865 {
+  stop-color: #945829;
+  stop-opacity: 1; }
+
+#stop4869 {
+  stop-color: #925321;
+  stop-opacity: 1; }
+
+#stop4861 {
+  stop-color: #713e1e;
+  stop-opacity: 1; }
+
+#stop11150-4-72-3 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-9-0-7 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop11150-7-5-9-3 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-8-4-35-5 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop11150-9-6-9-5 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-6-7-6-3 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop11150-7-8-3-8-7 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-8-8-6-3-2 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop11150-4-72-3-9 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-9-0-7-3 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop11150-7-5-9-3-8 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-8-4-35-5-4 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop11150-9-6-9-5-6 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-6-7-6-3-3 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop11150-7-8-3-8-7-0 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-8-8-6-3-2-5 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop4859-2 {
+  stop-color: #713e1e;
+  stop-opacity: 1; }
+
+#stop4873-0 {
+  stop-color: #925321;
+  stop-opacity: 1; }
+
+#stop4871-6 {
+  stop-color: #945829;
+  stop-opacity: 1; }
+
+#stop4867-9 {
+  stop-color: #703b18;
+  stop-opacity: 1; }
+
+#stop4865-7 {
+  stop-color: #945829;
+  stop-opacity: 1; }
+
+#stop4869-8 {
+  stop-color: #925321;
+  stop-opacity: 1; }
+
+#stop4861-8 {
+  stop-color: #713e1e;
+  stop-opacity: 1; }
+
+#stop4859-2-9 {
+  stop-color: #713e1e;
+  stop-opacity: 1; }
+
+#stop4873-0-0 {
+  stop-color: #925321;
+  stop-opacity: 1; }
+
+#stop4871-6-9 {
+  stop-color: #945829;
+  stop-opacity: 1; }
+
+#stop4867-9-8 {
+  stop-color: #703b18;
+  stop-opacity: 1; }
+
+#stop4865-7-8 {
+  stop-color: #945829;
+  stop-opacity: 1; }
+
+#stop4869-8-0 {
+  stop-color: #925321;
+  stop-opacity: 1; }
+
+#stop4861-8-7 {
+  stop-color: #713e1e;
+  stop-opacity: 1; }
+
+#g5276 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  display: inline; }
+
+#rect5278 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect5280 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path5282 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path5284 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path5286 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.58380508;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path5288 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.58380508;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#stop11150-4-72-3-9-5 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-9-0-7-3-4 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop11150-7-5-9-3-8-1 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-8-4-35-5-4-9 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop11150-9-6-9-5-6-2 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-6-7-6-3-3-3 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop11150-7-8-3-8-7-0-2 {
+  stop-color: #faefba;
+  stop-opacity: 1; }
+
+#stop11152-8-8-6-3-2-5-9 {
+  stop-color: #9e6542;
+  stop-opacity: 1; }
+
+#stop4859-23 {
+  stop-color: #713e1e;
+  stop-opacity: 1; }
+
+#stop4873-9 {
+  stop-color: #925321;
+  stop-opacity: 1; }
+
+#stop4871-8 {
+  stop-color: #945829;
+  stop-opacity: 1; }
+
+#stop4867-8 {
+  stop-color: #703b18;
+  stop-opacity: 1; }
+
+#stop4865-8 {
+  stop-color: #945829;
+  stop-opacity: 1; }
+
+#stop4869-3 {
+  stop-color: #925321;
+  stop-opacity: 1; }
+
+#stop4861-7 {
+  stop-color: #713e1e;
+  stop-opacity: 1; }
+
+#stop4859-2-3 {
+  stop-color: #713e1e;
+  stop-opacity: 1; }
+
+#stop4873-0-7 {
+  stop-color: #925321;
+  stop-opacity: 1; }
+
+#stop4871-6-8 {
+  stop-color: #945829;
+  stop-opacity: 1; }
+
+#stop4867-9-6 {
+  stop-color: #703b18;
+  stop-opacity: 1; }
+
+#stop4865-7-7 {
+  stop-color: #945829;
+  stop-opacity: 1; }
+
+#stop4869-8-3 {
+  stop-color: #925321;
+  stop-opacity: 1; }
+
+#stop4861-8-3 {
+  stop-color: #713e1e;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g11260-4-2-7 {
+  display: inline; }
+
+#rect10961-8-3-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#radialGradient11268-5-5-1-7-1);
+  fill-opacity: 1;
+  stroke: #c37e3b;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-9-0-4-6 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#radialGradient11270-4-5-7-4-8);
+  fill-opacity: 1;
+  stroke: #c37e3b;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-3-9-1-7 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#radialGradient4769-3-6);
+  fill-opacity: 1;
+  stroke: #a45d2b;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-9-6-4-1-0 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#radialGradient4771-2-6);
+  fill-opacity: 1;
+  stroke: #a45d2b;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path11108-6-7-7 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#linearGradient4863-2);
+  stroke-width: 3.58380508;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path11108-6-7-5-9 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#linearGradient3127);
+  stroke-width: 3.58380508;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g11260-4-2 {
+  display: inline; }
+
+#rect10961-8-3 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#radialGradient11268-5-5-1-7);
+  fill-opacity: 1;
+  stroke: #c37e3b;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-9-0-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#radialGradient11270-4-5-7-4);
+  fill-opacity: 1;
+  stroke: #c37e3b;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-3-9-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#radialGradient4769-3);
+  fill-opacity: 1;
+  stroke: #a45d2b;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect10961-9-6-4-1 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#radialGradient4771-2);
+  fill-opacity: 1;
+  stroke: #a45d2b;
+  stroke-width: 3.58380508;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#path11108-6-7 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#linearGradient4863);
+  stroke-width: 3.58380508;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#path11108-6-7-5 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//logical_package_obj.svg#linearGradient4895);
+  stroke-width: 3.58380508;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g11331-3 {
+  display: inline; }

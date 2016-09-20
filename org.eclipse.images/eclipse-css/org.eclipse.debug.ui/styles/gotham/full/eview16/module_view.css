@@ -1,0 +1,103 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4920-9 {
+  stop-color: #d48a4b;
+  stop-opacity: 1; }
+
+#stop4922-9 {
+  stop-color: #b1623a;
+  stop-opacity: 1; }
+
+#stop4909-5 {
+  stop-color: #b86c44;
+  stop-opacity: 1; }
+
+#stop4911-0 {
+  stop-color: #8f4017;
+  stop-opacity: 1; }
+
+#stop4930-9 {
+  stop-color: #4dac81;
+  stop-opacity: 1; }
+
+#stop4932-8 {
+  stop-color: #058048;
+  stop-opacity: 1; }
+
+#stop4940-4 {
+  stop-color: #8bc7d7;
+  stop-opacity: 1; }
+
+#stop4942-8 {
+  stop-color: #17477c;
+  stop-opacity: 1; }
+
+#stop4963-0 {
+  stop-color: #df9a39;
+  stop-opacity: 1; }
+
+#stop4965-3 {
+  stop-color: #b55829;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g4969 {
+  display: inline; }
+
+#rect4897 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/eview16//module_view.svg#linearGradient4975-9);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/eview16//module_view.svg#linearGradient4977-3);
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4926 {
+  fill: #78b87c;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/eview16//module_view.svg#linearGradient4979-8);
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path4949 {
+  fill: #f0c028;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/eview16//module_view.svg#linearGradient5020);
+  stroke-width: 0.80000001;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none; }
+
+#rect4159 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.debug.ui/icons/full/eview16//module_view.svg#linearGradient9955);
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 0.83589131;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4161 {
+  fill: #0595d3;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 0.83589131;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }

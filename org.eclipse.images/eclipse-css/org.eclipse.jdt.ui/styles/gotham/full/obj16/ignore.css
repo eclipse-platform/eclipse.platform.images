@@ -1,0 +1,471 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4024 {
+  stop-color: #2c6ca4;
+  stop-opacity: 1; }
+
+#stop4026 {
+  stop-color: #6f8db9;
+  stop-opacity: 1; }
+
+#stop3839 {
+  stop-color: #6f8db9;
+  stop-opacity: 1; }
+
+#stop3841 {
+  stop-color: #1b639e;
+  stop-opacity: 1; }
+
+#stop3831 {
+  stop-color: #8297bc;
+  stop-opacity: 1; }
+
+#stop3833 {
+  stop-color: #6c81ad;
+  stop-opacity: 1; }
+
+#stop3049 {
+  stop-color: #146d39;
+  stop-opacity: 1; }
+
+#stop3051 {
+  stop-color: #359b58;
+  stop-opacity: 1; }
+
+#stop23104 {
+  stop-color: #c9473e;
+  stop-opacity: 1; }
+
+#stop23118 {
+  stop-color: #f35863;
+  stop-opacity: 1; }
+
+#stop23106 {
+  stop-color: #f6928e;
+  stop-opacity: 1; }
+
+#stop5105-5-4 {
+  stop-color: #96b956;
+  stop-opacity: 1; }
+
+#stop7550-07-0 {
+  stop-color: #c6d560;
+  stop-opacity: 1; }
+
+#stop7548-6-9 {
+  stop-color: #cfdc63;
+  stop-opacity: 1; }
+
+#stop5107-7-48 {
+  stop-color: #abca52;
+  stop-opacity: 1; }
+
+#stop8564 {
+  stop-color: #6994ad;
+  stop-opacity: 1; }
+
+#stop8566 {
+  stop-color: #005596;
+  stop-opacity: 1; }
+
+#stop5105-5-4-4 {
+  stop-color: #96b956;
+  stop-opacity: 1; }
+
+#stop7550-07-0-0 {
+  stop-color: #c6d560;
+  stop-opacity: 1; }
+
+#stop7548-6-9-9 {
+  stop-color: #cfdc63;
+  stop-opacity: 1; }
+
+#stop5107-7-48-4 {
+  stop-color: #abca52;
+  stop-opacity: 1; }
+
+#stop3049-2 {
+  stop-color: #146d39;
+  stop-opacity: 1; }
+
+#stop3051-4 {
+  stop-color: #359b58;
+  stop-opacity: 1; }
+
+#stop3831-6 {
+  stop-color: #8297bc;
+  stop-opacity: 1; }
+
+#stop3833-1 {
+  stop-color: #6c81ad;
+  stop-opacity: 1; }
+
+#g3993 {
+  fill: #ffffff; }
+
+#rect3995 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3997 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3999 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4001 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#stop4904-2 {
+  stop-color: #b28a30;
+  stop-opacity: 1; }
+
+#stop4906-2 {
+  stop-color: #7a6e3f;
+  stop-opacity: 1; }
+
+#stop4896-8 {
+  stop-color: #e0c88f;
+  stop-opacity: 1; }
+
+#stop4898-5 {
+  stop-color: #d5b269;
+  stop-opacity: 1; }
+
+#stop4996-1 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop4998-89 {
+  stop-color: #dce7f7;
+  stop-opacity: 1; }
+
+#stop4996-5-4 {
+  stop-color: #c3e9ff;
+  stop-opacity: 1; }
+
+#stop4998-5-0 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4912-8-8 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8-8 {
+  stop-color: #c3e9ff;
+  stop-opacity: 1; }
+
+#stop4885-5 {
+  stop-color: #ebf9ff;
+  stop-opacity: 1; }
+
+#stop4887-5 {
+  stop-color: #fcffff;
+  stop-opacity: 1; }
+
+#stop4996-1-6 {
+  stop-color: #f9fafc;
+  stop-opacity: 1; }
+
+#stop4998-89-8 {
+  stop-color: #dce7f7;
+  stop-opacity: 1; }
+
+#stop4896-8-7 {
+  stop-color: #e0c88f;
+  stop-opacity: 1; }
+
+#stop4898-5-7 {
+  stop-color: #d5b269;
+  stop-opacity: 1; }
+
+#stop4904-2-6 {
+  stop-color: #b28a30;
+  stop-opacity: 1; }
+
+#stop4906-2-0 {
+  stop-color: #7a6e3f;
+  stop-opacity: 1; }
+
+#stop4024-4 {
+  stop-color: #2c6ca4;
+  stop-opacity: 1; }
+
+#stop4026-6 {
+  stop-color: #6f8db9;
+  stop-opacity: 1; }
+
+#path4230 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4001-3 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//ignore.svg#linearGradient3143);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4884 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//ignore.svg#linearGradient3145);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4001-17 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//ignore.svg#linearGradient3147);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect4001-1 {
+  fill: #a6b5d0;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4001-1-7 {
+  fill: #a6b5d0;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4001-1-7-4 {
+  fill: #a6b5d0;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4001-1-7-4-0 {
+  fill: #a6b5d0;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4001-1-7-4-0-9 {
+  fill: #a6b5d0;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect3244 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//ignore.svg#linearGradient4037);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3242 {
+  fill: #f9fafc;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3236 {
+  fill: #91a5c7;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3238 {
+  fill: #7c92b8;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect3240 {
+  fill: #5e76a3;
+  fill-opacity: 1;
+  stroke: none; }
+
+#path4208 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  opacity: 1;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//ignore.svg#filter4220); }
+
+#path4203 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #000000;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans;
+  opacity: 0.5;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//ignore.svg#filter4224); }
+
+#rect3997-9-1 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #8b96ab;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect3997-9-1-1 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//ignore.svg#linearGradient3208);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4853-82-7 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//ignore.svg#linearGradient3210);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/obj16//ignore.svg#linearGradient3212);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4079 {
+  fill: #334e6f;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

@@ -1,0 +1,121 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4847 {
+  stop-color: #a79c68;
+  stop-opacity: 1; }
+
+#stop4849 {
+  stop-color: #6d798f;
+  stop-opacity: 1; }
+
+#stop4996-5-4 {
+  stop-color: #b4d5cd;
+  stop-opacity: 1; }
+
+#stop4998-5-0 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4912-8-8 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8-8 {
+  stop-color: #b4d5cd;
+  stop-opacity: 1; }
+
+#stop4885-5 {
+  stop-color: #e7eff9;
+  stop-opacity: 1; }
+
+#stop4887-5 {
+  stop-color: #f8f9fd;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect3997-9-1 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//ToolControl.svg#linearGradient4852);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect3997-9-1-1 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//ToolControl.svg#linearGradient4889-2);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 1;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4853-82-7 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//ToolControl.svg#linearGradient5062-9);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/obj16//ToolControl.svg#linearGradient4975-2-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }

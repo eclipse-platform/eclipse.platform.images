@@ -1,0 +1,231 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop6210 {
+  stop-color: #41217e;
+  stop-opacity: 1; }
+
+#stop6212 {
+  stop-color: #000000;
+  stop-opacity: 1; }
+
+#stop4812 {
+  stop-color: #886b2d;
+  stop-opacity: 1; }
+
+#stop4814 {
+  stop-color: #bc9617;
+  stop-opacity: 1; }
+
+#stop4912-8 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4996-5 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4998-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop9337-0 {
+  stop-color: #f3f0bc;
+  stop-opacity: 1; }
+
+#stop9366-9 {
+  stop-color: #eba023;
+  stop-opacity: 1; }
+
+#stop9370-5 {
+  stop-color: #c3a867;
+  stop-opacity: 1; }
+
+#stop9372-0 {
+  stop-color: #866f36;
+  stop-opacity: 1; }
+
+#stop4879-1-3-9-9-2 {
+  stop-color: #91a5c7;
+  stop-opacity: 1; }
+
+#stop4881-4-4-6-5-0 {
+  stop-color: #5e76a3;
+  stop-opacity: 1; }
+
+#stop4863-1-0-5-5-0 {
+  stop-color: #91a5c7;
+  stop-opacity: 1; }
+
+#stop4865-52-3-4-4-9 {
+  stop-color: #637aa7;
+  stop-opacity: 1; }
+
+#stop5149-5-8-0-9-8 {
+  stop-color: #91a5c7;
+  stop-opacity: 1; }
+
+#stop5151-5-4-6-0-0 {
+  stop-color: #637aa7;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#rect3997-9 {
+  display: inline;
+  fill: #f4fcff;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#linearGradient6101);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  stroke-opacity: 1; }
+
+#rect4853-82-7 {
+  display: inline;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#linearGradient6103);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4853-82-0 {
+  display: inline;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#linearGradient6105);
+  fill-opacity: 1;
+  stroke: none; }
+
+#g9376 {
+  display: inline; }
+
+#path9345-4 {
+  display: inline;
+  fill: #f4006e;
+  fill-opacity: 1;
+  stroke: #f4006e;
+  stroke-width: 0.48878345;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path9314 {
+  display: inline;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#radialGradient9405);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#linearGradient9407);
+  stroke-width: 0.54673964;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#text4892 {
+  font-size: 13.07725716px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: #000000;
+  fill-opacity: 1;
+  stroke: none;
+  font-family: Sans; }
+
+#g6172 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#filter6204); }
+
+#path4897-4 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  font-size: 13.07725716px;
+  line-height: 125%;
+  font-family: 'URW Bookman L';
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  display: inline;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#path4897-6-1 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  font-size: 13.07725716px;
+  line-height: 125%;
+  font-family: 'URW Bookman L';
+  inkscape-font-specification: 'URW Bookman L Bold';
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  display: inline;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#g9242-2 {
+  display: inline;
+  opacity: 0.60493828; }
+
+#rect4001-1-3 {
+  display: inline;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#linearGradient9203-3-2);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4001-1-7-6-8 {
+  display: inline;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#linearGradient4869-17-7-2-5-0);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect4001-1-7-4-3 {
+  display: inline;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#linearGradient4146);
+  fill-opacity: 1;
+  stroke: none; }
+
+#path4897 {
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  font-family: 'URW Bookman L';
+  inkscape-font-specification: 'URW Bookman L Bold';
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#linearGradient6214);
+  fill-opacity: 1;
+  stroke: none; }
+
+#path4897-6 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  font-size: 13.07725716px;
+  line-height: 125%;
+  font-family: 'URW Bookman L';
+  inkscape-font-specification: 'URW Bookman L Bold';
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  display: inline;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/obj16//signed_unkn_tbl.svg#linearGradient6222);
+  fill-opacity: 1;
+  stroke: none; }

@@ -1,0 +1,91 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4156 {
+  stop-color: #2c71af;
+  stop-opacity: 1; }
+
+#stop4158 {
+  stop-color: #e3ebf2;
+  stop-opacity: 1; }
+
+#stop4148 {
+  stop-color: #fef5da;
+  stop-opacity: 1; }
+
+#stop4150 {
+  stop-color: #f2c17b;
+  stop-opacity: 1; }
+
+#stop4140 {
+  stop-color: #e6e9a0;
+  stop-opacity: 1; }
+
+#stop4142 {
+  stop-color: #a48e00;
+  stop-opacity: 1; }
+
+#stop6283-0-2-2-1 {
+  stop-color: #f7f9fb;
+  stop-opacity: 1; }
+
+#stop6285-5-0-9-7 {
+  stop-color: #ffd680;
+  stop-opacity: 1; }
+
+#rect4186 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/etool16//newcatdef_wiz.svg#linearGradient4144);
+  fill-opacity: 1;
+  stroke: #6bc379;
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4186-4 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/etool16//newcatdef_wiz.svg#linearGradient4152);
+  fill-opacity: 1;
+  stroke: #bb9826;
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4186-4-0 {
+  opacity: 1;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/etool16//newcatdef_wiz.svg#linearGradient4160);
+  fill-opacity: 1;
+  stroke: #7593c1;
+  stroke-width: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#g4293 {
+  display: inline; }
+
+#rect3910 {
+  display: inline;
+  fill: #a27d18;
+  fill-opacity: 1;
+  stroke: #a27d18;
+  stroke-width: 1.03243756;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#path5581-5-5 {
+  display: inline;
+  fill: url(../../../../../eclipse-svg/org.eclipse.pde.ui/icons/etool16//newcatdef_wiz.svg#linearGradient3093-5-2-7-0-9);
+  fill-opacity: 1;
+  stroke: none; }

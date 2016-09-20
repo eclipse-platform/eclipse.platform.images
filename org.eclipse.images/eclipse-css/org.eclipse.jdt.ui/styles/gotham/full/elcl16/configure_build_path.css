@@ -1,0 +1,880 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop5975 {
+  stop-color: #ffffc7;
+  stop-opacity: 1; }
+
+#stop5977 {
+  stop-color: #fff1a8;
+  stop-opacity: 1; }
+
+#stop5979 {
+  stop-color: #ffd379;
+  stop-opacity: 1; }
+
+#stop5993 {
+  stop-color: #9c6a3e;
+  stop-opacity: 1; }
+
+#stop5995 {
+  stop-color: #c48d4f;
+  stop-opacity: 1; }
+
+#stop4873-4-5 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4875-0-4 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4873-4-1-4 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4875-0-5-9 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#g8883 {
+  fill: #ffffff;
+  display: inline; }
+
+#path8885 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 0.72602755;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g8887 {
+  fill: #ffffff;
+  display: inline; }
+
+#g8889 {
+  fill: #ffffff;
+  display: inline; }
+
+#path8891 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g8893 {
+  fill: #ffffff; }
+
+#rect8895 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path8897 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path8899 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g8901 {
+  fill: #ffffff;
+  display: inline; }
+
+#path8903 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g8905 {
+  fill: #ffffff; }
+
+#rect8907 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path8909 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path8911 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path8913 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path8915 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path8917 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#stop5967 {
+  stop-color: #ffffc7;
+  stop-opacity: 1; }
+
+#stop5969 {
+  stop-color: #fff1a8;
+  stop-opacity: 1; }
+
+#stop5971 {
+  stop-color: #ffd379;
+  stop-opacity: 1; }
+
+#stop5983 {
+  stop-color: #9c6a3e;
+  stop-opacity: 1; }
+
+#stop5985 {
+  stop-color: #c48d4f;
+  stop-opacity: 1; }
+
+#stop4873-4 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4875-0 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4873-4-1 {
+  stop-color: #ffffff;
+  stop-opacity: 1; }
+
+#stop4875-0-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#g27344 {
+  fill: #ffffff;
+  display: inline; }
+
+#path27346 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 0.72602755;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g27348 {
+  fill: #ffffff;
+  display: inline; }
+
+#g27350 {
+  fill: #ffffff;
+  display: inline; }
+
+#path27352 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g27354 {
+  fill: #ffffff; }
+
+#rect27356 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27358 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27360 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g27362 {
+  fill: #ffffff;
+  display: inline; }
+
+#path27364 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g27366 {
+  fill: #ffffff; }
+
+#rect27368 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27370 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27372 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27374 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27376 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27378 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g27380 {
+  fill: #ffffff;
+  display: inline; }
+
+#path27382 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 0.72602755;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g27384 {
+  fill: #ffffff;
+  display: inline; }
+
+#g27386 {
+  fill: #ffffff;
+  display: inline; }
+
+#path27388 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g27390 {
+  fill: #ffffff; }
+
+#rect27392 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27394 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27396 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g27398 {
+  fill: #ffffff;
+  display: inline; }
+
+#path27400 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g27402 {
+  fill: #ffffff; }
+
+#rect27404 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27406 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27408 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27410 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27412 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path27414 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g8391 {
+  display: inline; }
+
+#path4887-8-4-7-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient5926);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient5989);
+  stroke-width: 0.72602755;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#layer1-8-0 {
+  display: inline; }
+
+#g5029-8-3 {
+  display: inline; }
+
+#rect4035-17-2-0 {
+  fill: #5c7aaa;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-5 {
+  fill: #91a5c7;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-1-5-0 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient4877-1-4);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-4-5-1-7 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient4879-9-7);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g5029-8-7-6 {
+  display: inline; }
+
+#rect4035-17-2-6-7 {
+  fill: #5c7aaa;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-4-3 {
+  fill: #91a5c7;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-1-5-2-6 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient4877-1-7-2);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-4-5-1-3-4 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient4879-9-2-9);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-2-4 {
+  fill: #5c7aaa;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-2-2-19 {
+  fill: #5c7aaa;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-2-2-1-5 {
+  fill: #5c7aaa;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g8762 {
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g8919 {
+  opacity: 0.75;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#filter8947); }
+
+#path4887-8-4-7-9 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#layer1-8-04 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g5029-8-4 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.35782695;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4035-17-2-9 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.35782695;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g4094-4-8 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 5.99996614;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none; }
+
+#rect4035-1-1-5-53 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 5.99996614;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4035-1-7-1-5-23 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 5.99996614;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4035-1-7-4-5-1-0 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 5.99996614;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g5029-8-7-1 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 3.35782695;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4035-17-2-6-71 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 3.35782695;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g4094-4-1-9 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 5.99996614;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none; }
+
+#rect4035-1-1-5-4-8 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 5.99996614;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4035-1-7-1-5-2-8 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 5.99996614;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4035-1-7-4-5-1-3-3 {
+  opacity: 0.5;
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 5.99996614;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4035-1-1-5-2-29 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4035-1-1-5-2-2-3 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect4035-1-1-5-2-2-1-3 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g26946 {
+  display: inline; }
+
+#path4887-8-4-7 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient5897);
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient5987);
+  stroke-width: 0.72602755;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#layer1-8 {
+  display: inline; }
+
+#g5029-8 {
+  display: inline; }
+
+#rect4035-17-2 {
+  fill: #5c7aaa;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5 {
+  fill: #91a5c7;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-1-5 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient4877-1);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-4-5-1 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient4879-9);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g5029-8-7 {
+  display: inline; }
+
+#rect4035-17-2-6 {
+  fill: #5c7aaa;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-4 {
+  fill: #91a5c7;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-1-5-2 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient4877-1-7);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-7-4-5-1-3 {
+  opacity: 0.5;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#linearGradient4879-9-2);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-2 {
+  fill: #5c7aaa;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-2-2 {
+  fill: #5c7aaa;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4035-1-1-5-2-2-1 {
+  fill: #5c7aaa;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#g27333 {
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//configure_build_path.svg#filter27416); }
+
+#layer1-4-6 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 2.42094517;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  display: inline; }
+
+#g17594-6 {
+  fill: #ffffff;
+  stroke: #ffffff;
+  stroke-width: 2.00652146;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none; }
+
+#path6139-4 {
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #ffffff;
+  stroke-width: 2.00652146;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#path6139-5-0 {
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #ffffff;
+  stroke-width: 2.00652146;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect9436-7 {
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #ffffff;
+  stroke-width: 2.00652146;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#layer1-4 {
+  display: inline; }
+
+#path6139 {
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #4d607b;
+  stroke-width: 0.82881737;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#path6139-5 {
+  color: #000000;
+  fill: #4e8fbd;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #4d607b;
+  stroke-width: 0.59773082;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect9436 {
+  color: #000000;
+  fill: #4d607b;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #384e6e;
+  stroke-width: 0.5;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }

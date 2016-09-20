@@ -1,0 +1,124 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop4816 {
+  stop-color: #f4d323;
+  stop-opacity: 1; }
+
+#stop4818 {
+  stop-color: #fff6ac;
+  stop-opacity: 1; }
+
+#stop4810 {
+  stop-color: #bed345;
+  stop-opacity: 1; }
+
+#stop4812 {
+  stop-color: #f5f6a1;
+  stop-opacity: 1; }
+
+#stop4734 {
+  stop-color: #b3ced8;
+  stop-opacity: 1; }
+
+#stop4736 {
+  stop-color: #e1e6e8;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#g11331-3-1-1 {
+  display: inline; }
+
+#g13408-8 {
+  fill: #737986;
+  fill-opacity: 1;
+  stroke: #595e68;
+  stroke-opacity: 1; }
+
+#g4803 {
+  display: inline; }
+
+#rect4722 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//category_menu.svg#linearGradient4738);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #5d7bae;
+  stroke-width: 3.58380508;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect4722-7 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//category_menu.svg#linearGradient4755);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #bb9826;
+  stroke-width: 3.58380508;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#rect4722-7-2 {
+  color: #000000;
+  fill: url(../../../../../../eclipse-svg/org.eclipse.jdt.ui/icons/full/elcl16//category_menu.svg#linearGradient4789);
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: #7eb89d;
+  stroke-width: 3.58380508;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate; }
+
+#path4917 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#text4820 {
+  font-size: 39.59736252px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 125%;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  fill: #3a78ad;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  font-family: Sans; }
+
+#path4920 {
+  font-style: italic;
+  font-variant: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  fill: #3a78ad;
+  font-family: Nimbus Sans L;
+  inkscape-font-specification: Nimbus Sans L Bold Italic; }

@@ -1,0 +1,392 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop18857 {
+  stop-color: #a4b1c7;
+  stop-opacity: 1; }
+
+#stop18859 {
+  stop-color: #e1e9f8;
+  stop-opacity: 0; }
+
+#stop18861 {
+  stop-color: #e7eefa;
+  stop-opacity: 0; }
+
+#stop18810 {
+  stop-color: #a4b1c7;
+  stop-opacity: 1; }
+
+#stop18816 {
+  stop-color: #e1e9f8;
+  stop-opacity: 1; }
+
+#stop18812 {
+  stop-color: #e7eefa;
+  stop-opacity: 1; }
+
+#stop18545 {
+  stop-color: #a79c68;
+  stop-opacity: 1; }
+
+#stop18555 {
+  stop-color: #687692;
+  stop-opacity: 1; }
+
+#stop18553 {
+  stop-color: #8c99a6;
+  stop-opacity: 1; }
+
+#stop18551 {
+  stop-color: #7b8da7;
+  stop-opacity: 1; }
+
+#stop18547 {
+  stop-color: #5e78a8;
+  stop-opacity: 1; }
+
+#stop4864 {
+  stop-color: #937323;
+  stop-opacity: 1; }
+
+#stop4866 {
+  stop-color: #79601d;
+  stop-opacity: 1; }
+
+#stop4888 {
+  stop-color: #dec26f;
+  stop-opacity: 1; }
+
+#stop4890 {
+  stop-color: #fce69e;
+  stop-opacity: 1; }
+
+#stop5158 {
+  stop-color: #fdf3cb;
+  stop-opacity: 1; }
+
+#stop5166 {
+  stop-color: #fdf3cb;
+  stop-opacity: 1; }
+
+#stop5164 {
+  stop-color: #a77e1c;
+  stop-opacity: 0.502; }
+
+#stop5160 {
+  stop-color: #a77e1c;
+  stop-opacity: 0.5; }
+
+#stop4880 {
+  stop-color: #925218;
+  stop-opacity: 1; }
+
+#stop4882 {
+  stop-color: #c1aa38;
+  stop-opacity: 1; }
+
+#stop4996-5 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4998-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4912-8 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4912-8-3 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8-5 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4996-5-4 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4998-5-4 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4912-8-3-4 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8-5-4 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4996-5-4-2 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4998-5-4-4 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4912-8-3-4-5 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#stop4914-8-5-4-3 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4996-5-4-2-4 {
+  stop-color: #d1eeff;
+  stop-opacity: 1; }
+
+#stop4998-5-4-4-0 {
+  stop-color: #ffffff;
+  stop-opacity: 0; }
+
+#rect8610 {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: none; }
+
+#layer1 {
+  display: inline; }
+
+#layer1-6 {
+  display: inline; }
+
+#rect3997-9 {
+  fill: #f4fcff;
+  fill-opacity: 1;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient4079);
+  stroke-width: 1;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  stroke-dashoffset: 0;
+  display: inline; }
+
+#rect4853-82-7 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient4077);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient4075);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect18033 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient18549);
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect18033-4 {
+  fill: #687692;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect18033-4-9 {
+  fill: #7b8ca7;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-7-3 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient18638);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0-3 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient4075-7);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect3997-9-5 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient18814);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-7-3-4 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient18687);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0-3-2 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient4075-7-5);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-7-3-4-2 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient18736);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4853-82-0-3-2-3 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient4075-7-5-2);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect3997-9-5-5 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient18834);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect18863 {
+  fill: #4b6ea2;
+  fill-opacity: 1;
+  stroke: none; }
+
+#rect18863-7 {
+  fill: #4b6ea2;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path8589 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: #ffffff;
+  fill-opacity: 1;
+  fill-rule: nonzero;
+  stroke: none;
+  stroke-width: 0.60714811;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#filter9392);
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4838-1 {
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  text-indent: 0;
+  text-align: start;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  direction: ltr;
+  block-progression: tb;
+  writing-mode: lr-tb;
+  text-anchor: start;
+  baseline-shift: baseline;
+  color: #000000;
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient8465);
+  stroke-width: 2.47056686;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  marker: none;
+  visibility: visible;
+  display: inline;
+  overflow: visible;
+  enable-background: accumulate;
+  font-family: Sans;
+  inkscape-font-specification: Sans; }
+
+#rect4838 {
+  fill: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient8469);
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4838-4 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient8471);
+  stroke-width: 0.87896538;
+  stroke-opacity: 1;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#filter5152); }
+
+#rect4894 {
+  opacity: 0.25;
+  fill: #a77e1c;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4894-7 {
+  opacity: 0.25;
+  fill: #a77e1c;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4894-7-4 {
+  opacity: 0.25;
+  fill: #a77e1c;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#path4066 {
+  fill: #785b13;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4836 {
+  fill: #785b13;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect4838-12 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui.console/icons/full/elcl16//lock_co.svg#linearGradient8473);
+  stroke-width: 1.64704454;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }

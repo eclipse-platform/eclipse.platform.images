@@ -1,0 +1,178 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#stop7274-6-0-1-7-4-3 {
+  stop-color: #264280;
+  stop-opacity: 1; }
+
+#stop7276-66-6-3-9-1-2 {
+  stop-color: #3e69cc;
+  stop-opacity: 1; }
+
+#stop7274-6-0-1-7-4-3-3 {
+  stop-color: #804826;
+  stop-opacity: 1; }
+
+#stop7276-66-6-3-9-1-2-4 {
+  stop-color: #cc733e;
+  stop-opacity: 1; }
+
+#stop7274-6-0-1-7-4-3-3-2 {
+  stop-color: #682680;
+  stop-opacity: 1; }
+
+#stop7276-66-6-3-9-1-2-4-8 {
+  stop-color: #a63ecc;
+  stop-opacity: 1; }
+
+#layer1 {
+  display: inline; }
+
+#layer1-8 {
+  display: inline; }
+
+#g7590-7 {
+  display: inline; }
+
+#g7827-7 {
+  display: inline; }
+
+#rect6501-7-1 {
+  fill: #d733fe;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect7280-61-6 {
+  fill: #618ae6;
+  fill-opacity: 1;
+  stroke: none;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7474-3-2-7-1); }
+
+#rect7280-8-7-8 {
+  fill: #567acc;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7486-6-6-5-4); }
+
+#rect7280-5-3-5 {
+  fill: #4b6bb3;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7478-9-8-2-9); }
+
+#rect7280-6-0-7 {
+  fill: #4663a6;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7482-8-1-5-8); }
+
+#rect6501-1-6-8 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#linearGradient5352);
+  stroke-width: 0.56622314;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect6501-7-1-1 {
+  fill: #fff7e;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect7280-61-6-3 {
+  fill: #e67a39;
+  fill-opacity: 1;
+  stroke: none;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7474-3-2-7-1-9); }
+
+#rect7280-8-7-8-8 {
+  fill: #cc6c33;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7486-6-6-5-4-7); }
+
+#rect7280-5-3-5-7 {
+  fill: #b35f2c;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7478-9-8-2-9-5); }
+
+#rect7280-6-0-7-4 {
+  fill: #a65829;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7482-8-1-5-8-3); }
+
+#rect6501-1-6-8-2 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#linearGradient5344);
+  stroke-width: 0.44757253;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }
+
+#rect6501-7-1-1-0 {
+  fill: #9c89fe;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline; }
+
+#rect7280-61-6-3-2 {
+  fill: #ba3ee6;
+  fill-opacity: 1;
+  stroke: none;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7474-3-2-7-1-9-7); }
+
+#rect7280-8-7-8-8-4 {
+  fill: #a537cc;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7486-6-6-5-4-7-9); }
+
+#rect7280-5-3-5-7-8 {
+  fill: #9030b3;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7478-9-8-2-9-5-1); }
+
+#rect7280-6-0-7-4-6 {
+  fill: #862da6;
+  fill-opacity: 1;
+  stroke: none;
+  display: inline;
+  filter: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#filter7482-8-1-5-8-3-8); }
+
+#rect6501-1-6-8-2-5 {
+  fill: none;
+  stroke: url(../../../../../../eclipse-svg/org.eclipse.e4.ui.model.workbench.edit/icons/full/ctool16//CreateModelComponent_children_Editor.svg#linearGradient5336);
+  stroke-width: 0.55309612;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 4;
+  stroke-opacity: 1;
+  stroke-dasharray: none;
+  display: inline; }

@@ -1,0 +1,136 @@
+/*
+ * gotham.scss test theme for experimenting with icon themes
+ */
+/** Cross theme styles */
+/*
+ * Global.scss provides styles and configuration
+ * all themes.
+ *
+ */
+/** Global styles and values */
+/** styles and values */
+#layer1 {
+  display: inline; }
+
+#g4299 {
+  display: inline; }
+
+#path4156-1 {
+  display: inline;
+  fill: none;
+  fill-rule: evenodd;
+  stroke: #d8e3ee;
+  stroke-width: 0.5;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none; }
+
+#path4156 {
+  fill: none;
+  fill-rule: evenodd;
+  stroke: #0c4b80;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#g4177-2 {
+  display: inline; }
+
+#path4156-1-7 {
+  display: inline;
+  fill: none;
+  fill-rule: evenodd;
+  stroke: #dfe8f2;
+  stroke-width: 0.5;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none; }
+
+#path4156-3 {
+  fill: none;
+  fill-rule: evenodd;
+  stroke: #0c4b80;
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  stroke-linejoin: miter;
+  stroke-opacity: 1; }
+
+#rect4204 {
+  opacity: 1;
+  fill: #b4c9df;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4204-9 {
+  display: inline;
+  opacity: 1;
+  fill: #0f4d82;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#g4221-2 {
+  display: inline; }
+
+#rect4204-2 {
+  opacity: 1;
+  fill: #b4c9df;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4204-9-6 {
+  display: inline;
+  opacity: 1;
+  fill: #0f4d82;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#g4221-2-3 {
+  display: inline; }
+
+#rect4204-2-5 {
+  opacity: 1;
+  fill: #b4c9df;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
+
+#rect4204-9-6-7 {
+  display: inline;
+  opacity: 1;
+  fill: #0f4d82;
+  fill-opacity: 1;
+  stroke: none;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  stroke-miterlimit: 4;
+  stroke-dasharray: none;
+  stroke-opacity: 1; }
