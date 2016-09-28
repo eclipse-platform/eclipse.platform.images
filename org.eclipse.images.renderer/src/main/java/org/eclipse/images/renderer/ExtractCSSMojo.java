@@ -87,7 +87,7 @@ public class ExtractCSSMojo extends AbstractMojo {
 			String child = dirName;
 			File outputBase = new File(outputDir, child);
 
-			IconGatherer.gatherIcons(icons, "svg", file, file, outputBase, true);
+			IconGatherer.gatherIcons(icons, "svg", file, file, outputBase, true, FolderState.include);
 		}
 
 		ForkJoinPool forkJoinPool = new ForkJoinPool(4);

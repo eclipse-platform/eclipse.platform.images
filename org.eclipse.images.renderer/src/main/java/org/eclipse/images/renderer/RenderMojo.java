@@ -623,7 +623,7 @@ public class RenderMojo extends AbstractMojo {
 				createFragmentFiles(outputBase, dirName);
 			}
 
-			IconGatherer.gatherIcons(icons, "svg", file, file, outputBase, true);
+			IconGatherer.gatherIcons(icons, "svg", file, file, outputBase, true, FolderState.include);
 		}
 
 		log.info("Working directory: " + outputDir.getAbsolutePath());

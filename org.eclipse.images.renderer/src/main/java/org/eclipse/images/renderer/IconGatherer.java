@@ -41,7 +41,7 @@ public class IconGatherer {
 	 * @param generateDisabledDirs
 	 */
 	public static void gatherIcons(List<IconEntry> icons, String extension, File rootDir, File iconDir, File outputBase,
-			boolean generateDisabledDirs) {
+			boolean generateDisabledDirs, FolderState wizardBannerState) {
 		File[] listFiles = iconDir.listFiles();
 
 		for (File child : listFiles) {
@@ -49,8 +49,17 @@ public class IconGatherer {
 				if (child.getName().startsWith("d") && !("dgm".equals(child.getName()))) {
 					continue;
 				}
+				if (wizardBannerState == FolderState.exclude) {
+					if ("wizban".equals(child.getName())) {
+						continue;
+					}
+				}
 
-				gatherIcons(icons, extension, rootDir, child, outputBase, generateDisabledDirs);
+				gatherIcons(icons, extension, rootDir, child, outputBase, generateDisabledDirs, wizardBannerState);
+				continue;
+			}
+
+			if (!child.getName().endsWith(extension)) {
 				continue;
 			}
 
@@ -68,6 +77,9 @@ public class IconGatherer {
 			File disabledOutputDir = null;
 
 			File parentFile = child.getParentFile();
+			if (wizardBannerState == FolderState.only && !"wizban".equals(parentFile.getName())) {
+				continue;
+			}
 
 			/*
 			 * Determine if/where to put a disabled version of the icon Eclipse
