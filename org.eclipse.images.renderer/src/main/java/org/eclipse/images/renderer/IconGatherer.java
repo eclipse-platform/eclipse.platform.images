@@ -13,6 +13,7 @@ package org.eclipse.images.renderer;
 
 import java.io.File;
 import java.net.URI;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -42,20 +43,32 @@ public class IconGatherer {
 	 */
 	public static void gatherIcons(List<IconEntry> icons, String extension, File rootDir, File iconDir, File outputBase,
 			boolean generateDisabledDirs, FolderState wizardBannerState) {
-		File[] listFiles = iconDir.listFiles();
 
+		List<File> listFiles = Arrays.asList(iconDir.listFiles());
+
+		String filter = System.getProperty("eclipse.svg.filter");
+		String targetIcon = System.getProperty("eclipse.svg.targetIcon");
+		
+		
 		for (File child : listFiles) {
+			if(filter != null && !child.getAbsolutePath().contains(filter)) {
+				continue;
+			}
+			
 			if (child.isDirectory()) {
 				if (child.getName().startsWith("d") && !("dgm".equals(child.getName()))) {
 					continue;
 				}
-				if (wizardBannerState == FolderState.exclude) {
-					if ("wizban".equals(child.getName())) {
-						continue;
-					}
+				
+				if (wizardBannerState == FolderState.exclude && "wizban".equals(child.getName())) {
+					continue;
 				}
 
 				gatherIcons(icons, extension, rootDir, child, outputBase, generateDisabledDirs, wizardBannerState);
+				continue;
+			}
+
+			if (targetIcon != null && !child.getName().contains(targetIcon)) {
 				continue;
 			}
 

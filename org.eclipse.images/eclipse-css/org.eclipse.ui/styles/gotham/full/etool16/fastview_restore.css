@@ -9,13 +9,10 @@
  */
 /** Global styles and values */
 /** styles and values */
-#layer1 {
-  display: inline; }
-
-#g4948 {
-  display: inline; }
-
-#path4951-1 {
+/** Global Styles */
+/** Navigation Elements (Back, Forward, Stop, etc)*/
+/** UI Trim (Popup menu buttons, close buttons, etc)*/
+#topwindow {
   font-size: medium;
   font-style: normal;
   font-variant: normal;
@@ -34,7 +31,7 @@
   text-anchor: start;
   baseline-shift: baseline;
   color: #000000;
-  fill: #706860;
+  fill: #bcb0b8;
   fill-opacity: 1;
   fill-rule: nonzero;
   stroke: none;
@@ -47,7 +44,7 @@
   font-family: Sans;
   inkscape-font-specification: Sans; }
 
-#path4951 {
+#bottomwindow {
   font-size: medium;
   font-style: normal;
   font-variant: normal;
@@ -66,7 +63,7 @@
   text-anchor: start;
   baseline-shift: baseline;
   color: #000000;
-  fill: #706860;
+  fill: #bcb0b8;
   fill-opacity: 1;
   fill-rule: nonzero;
   stroke: none;

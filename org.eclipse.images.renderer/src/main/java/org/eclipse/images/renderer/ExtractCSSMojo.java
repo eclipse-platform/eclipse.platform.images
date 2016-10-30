@@ -13,8 +13,9 @@ package org.eclipse.images.renderer;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileWriter;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.StringWriter;
 import java.io.Writer;
 import java.net.URI;
 import java.util.ArrayList;
@@ -26,6 +27,7 @@ import java.util.stream.Stream;
 
 import org.apache.batik.dom.svg.SAXSVGDocumentFactory;
 import org.apache.batik.util.XMLResourceDescriptor;
+import org.apache.commons.io.IOUtils;
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugin.MojoFailureException;
@@ -98,8 +100,7 @@ public class ExtractCSSMojo extends AbstractMojo {
 				return null;
 			}).get();
 		} catch (Exception e) {
-			e.printStackTrace();
-			log.error("Error while rendering icons.", e);
+			log.error("Error while rendering icons: " + e.getMessage(), e);
 		}
 	}
 
@@ -133,13 +134,13 @@ public class ExtractCSSMojo extends AbstractMojo {
 		File newOutput = new File(css);
 
 		icon.outputPath = newOutput;
-		
-		try (FileWriter stream = new FileWriter(icon.outputPath)){
-			if (icon.outputPath != null && !icon.outputPath.exists()) {
-				File parent = icon.outputPath.getParentFile();
-				parent.mkdirs();
-			}
 
+		if (icon.outputPath != null && !icon.outputPath.exists()) {
+			File parent = icon.outputPath.getParentFile();
+			parent.mkdirs();
+		}
+		 
+		try (StringWriter stream = new StringWriter()) {
 			// Create the document to rasterize
 			SVGDocument svgDocument = generateSVGDocument(icon);
 
@@ -171,10 +172,11 @@ public class ExtractCSSMojo extends AbstractMojo {
 
 			writeStyles(cssUrlPath, documentElement, stream);
 
-
 			log.info("Creating css for: " + css);
+			
+			IOUtils.write(stream.toString(), new FileOutputStream(newOutput));
 		} catch (Exception e) {
-			log.error(e);
+			log.error("Error creating CSS: " + e.getMessage(), e);
 		}
 	}
 
@@ -221,6 +223,8 @@ public class ExtractCSSMojo extends AbstractMojo {
 					writer.write("#" + idAttr.getValue() + " {\n");
 					writer.write(formatStyles(fixedStyle, urlPath) + "\n");
 					writer.write("}\n\n");
+					
+					log.debug("Writing: " + "#" + idAttr.getValue() + " {\n");
 				}
 			}
 
@@ -244,7 +248,12 @@ public class ExtractCSSMojo extends AbstractMojo {
 		Stream<String> rawEntries = Arrays.stream(styles.trim().split(";"));
 
 		return rawEntries.map(style -> createStyleEntry(style, urlPath))
-				.filter(style -> style != null && !"".equals(style)).collect(Collectors.joining("\n"));
+						.filter(this::isValidStyle)
+						.collect(Collectors.joining("\n"));
+	}
+
+	private boolean isValidStyle(String style) {
+		return style != null && !"".equals(style);
 	}
 
 	/**

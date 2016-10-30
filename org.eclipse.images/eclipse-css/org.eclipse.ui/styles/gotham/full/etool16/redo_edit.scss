@@ -1,42 +1,10 @@
 @import "gotham";
 
-#stop7586-4-4-4 {
-	stop-color: #ffffff;
-	stop-opacity: 1;
-}
-
-#stop7588-5-0-3 {
-	stop-color: #ffd25d;
-	stop-opacity: 1;
-}
-
-#stop7594-6-9-5 {
-	stop-color: #ad7212;
-	stop-opacity: 1;
-}
-
-#stop7596-9-2-1 {
-	stop-color: #a17124;
-	stop-opacity: 1;
-}
-
-#layer1 {
+/* dafuq is up with this stroke width rendering differently than undo??? */
+#redo-arrow {
 	display: inline;
-}
-
-#g7604-8 {
-	display: inline;
-}
-
-#path7582-2 {
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//redo_edit.svg#radialGradient3787);
+	fill: $gotham-background-accent-yellow;
 	fill-opacity: 1;
-	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//redo_edit.svg#linearGradient7610-5-3-4);
-	stroke-width: 0.62010396;
-	stroke-linecap: butt;
-	stroke-linejoin: round;
-	stroke-miterlimit: 4;
-	stroke-dasharray: none;
-	stroke-opacity: 1;
+	stroke: $gotham-background-accent-yellow-bright;
+	stroke-width: 0.75;
 }
-

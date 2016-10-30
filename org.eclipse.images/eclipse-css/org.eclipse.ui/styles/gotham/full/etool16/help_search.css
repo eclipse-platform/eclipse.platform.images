@@ -9,362 +9,99 @@
  */
 /** Global styles and values */
 /** styles and values */
-#stop5111 {
-  stop-color: #906f4e;
-  stop-opacity: 1; }
-
-#stop5113 {
-  stop-color: #dfbd7f;
-  stop-opacity: 1; }
-
-#stop5208 {
-  stop-color: #bbb8bb;
-  stop-opacity: 1; }
-
-#stop5216 {
-  stop-color: #ccc8cb;
-  stop-opacity: 1; }
-
-#stop5214 {
-  stop-color: #bdb6bc;
-  stop-opacity: 1; }
-
-#stop5210 {
-  stop-color: #9b8c98;
-  stop-opacity: 1; }
-
-#stop5333 {
-  stop-color: #fef48d;
-  stop-opacity: 1; }
-
-#stop5341 {
-  stop-color: #fffffe;
-  stop-opacity: 1; }
-
-#stop5339 {
-  stop-color: #fffffe;
-  stop-opacity: 1; }
-
-#stop5335 {
-  stop-color: #fef48d;
-  stop-opacity: 1; }
-
-#stop5353 {
-  stop-color: #e4a239;
-  stop-opacity: 1; }
-
-#stop5355 {
-  stop-color: #fada7d;
-  stop-opacity: 1; }
-
-#stop5380 {
-  stop-color: #f4d684;
-  stop-opacity: 1; }
-
-#stop5382 {
-  stop-color: #fcf4c6;
-  stop-opacity: 1; }
-
-#stop5384 {
-  stop-color: #fbeebc;
-  stop-opacity: 1; }
-
-#stop5386 {
-  stop-color: #eeb960;
-  stop-opacity: 1; }
-
-#stop5430 {
-  stop-color: #f0a53b;
-  stop-opacity: 1; }
-
-#stop5438 {
-  stop-color: #f2d58f;
-  stop-opacity: 1; }
-
-#stop5436 {
-  stop-color: #efb965;
-  stop-opacity: 1; }
-
-#stop5432 {
-  stop-color: #df9833;
-  stop-opacity: 1; }
-
-#stop5442 {
-  stop-color: #ad8e5f;
-  stop-opacity: 1; }
-
-#stop5444 {
-  stop-color: #8f6e4d;
-  stop-opacity: 1; }
-
-#stop5450 {
-  stop-color: #ad8e5f;
-  stop-opacity: 1; }
-
-#stop5452 {
-  stop-color: #8f6e4d;
-  stop-opacity: 1; }
-
-#g8822 {
-  fill: #ffffff;
-  stroke: #ffffff;
-  display: inline; }
-
-#g8824 {
-  fill: #ffffff;
-  stroke: #ffffff;
-  display: inline; }
-
-#g8826 {
-  fill: #ffffff;
-  stroke: #ffffff; }
-
-#g8828 {
-  fill: #ffffff;
-  stroke: #ffffff; }
-
-#path8830 {
-  fill: #ffffff;
-  stroke: #ffffff;
-  stroke-width: 1.06988704;
+/** Global Styles */
+/** Navigation Elements (Back, Forward, Stop, etc)*/
+/** UI Trim (Popup menu buttons, close buttons, etc)*/
+#end {
+  display: inline;
+  fill: #f8ef2c;
+  stroke: #f8ef2c;
+  stroke-width: 1;
   stroke-miterlimit: 4;
-  stroke-opacity: 1;
   stroke-dasharray: none;
-  display: inline; }
+  stroke-opacity: 1;
+  fill-opacity: 1; }
 
-#path8832 {
-  fill: #ffffff;
+#handle {
+  fill: #776870;
   fill-opacity: 1;
-  stroke: #ffffff;
+  stroke: #776870;
+  stroke-width: 1;
   stroke-opacity: 1; }
 
-#path8834 {
-  font-size: medium;
+#switch {
+  color: #000000;
   font-style: normal;
   font-variant: normal;
   font-weight: normal;
   font-stretch: normal;
+  font-size: medium;
+  line-height: normal;
+  font-family: Sans;
+  inkscape-font-specification: Sans;
   text-indent: 0;
   text-align: start;
   text-decoration: none;
-  line-height: normal;
+  text-decoration-line: none;
   letter-spacing: normal;
   word-spacing: normal;
   text-transform: none;
   direction: ltr;
   block-progression: tb;
   writing-mode: lr-tb;
-  text-anchor: start;
   baseline-shift: baseline;
-  color: #000000;
-  fill: #ffffff;
-  fill-opacity: 1;
-  stroke: #ffffff;
-  stroke-width: 1px;
-  marker: none;
-  visibility: visible;
+  text-anchor: start;
   display: inline;
   overflow: visible;
-  enable-background: accumulate;
-  font-family: Sans;
-  inkscape-font-specification: Sans; }
-
-#path8836 {
-  fill: #ffffff;
+  visibility: visible;
+  fill: #cdd3d9;
   fill-opacity: 1;
-  stroke: #ffffff;
-  stroke-width: 1;
-  stroke-opacity: 1;
-  display: inline; }
+  stroke: none;
+  stroke-width: 1px;
+  marker: none;
+  enable-background: accumulate; }
 
-#path8838 {
-  fill: #ffffff;
+#beam {
+  display: inline;
+  fill: #f8ef2c;
   fill-opacity: 1;
-  stroke: #ffffff;
-  stroke-width: 0.87995493;
-  stroke-opacity: 1;
-  display: inline; }
-
-#path8840 {
-  fill: #ffffff;
-  fill-opacity: 1;
-  stroke: #ffffff;
-  stroke-width: 1.0003444;
-  stroke-linejoin: round;
-  stroke-miterlimit: 3;
-  stroke-opacity: 1;
-  stroke-dasharray: none;
-  display: inline; }
-
-#layer1 {
-  display: inline; }
-
-#g8472 {
-  display: inline; }
-
-#layer1-2 {
-  opacity: 1;
-  display: inline; }
-
-#g8472-4 {
-  display: inline; }
-
-#rect4221-4 {
-  fill: none;
-  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//help_search.svg#linearGradient5368);
-  stroke-width: 1.06988704000000000;
-  stroke-miterlimit: 4;
-  stroke-opacity: 1;
-  stroke-dasharray: none;
-  display: inline; }
-
-#rect4221 {
-  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//help_search.svg#linearGradient5370);
-  fill-opacity: 1;
-  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//help_search.svg#linearGradient5434);
+  stroke: #9c983f;
+  stroke-width: 0.8224746;
   stroke-opacity: 1; }
 
-#path5028 {
-  font-size: medium;
-  font-style: normal;
-  font-variant: normal;
-  font-weight: normal;
-  font-stretch: normal;
-  text-indent: 0;
-  text-align: start;
-  text-decoration: none;
-  line-height: normal;
-  letter-spacing: normal;
-  word-spacing: normal;
-  text-transform: none;
-  direction: ltr;
-  block-progression: tb;
-  writing-mode: lr-tb;
-  text-anchor: start;
-  baseline-shift: baseline;
-  color: #000000;
-  fill: #496da1;
-  fill-opacity: 1;
-  stroke: none;
-  stroke-width: 1px;
-  marker: none;
-  visibility: visible;
+#portal {
   display: inline;
-  overflow: visible;
-  enable-background: accumulate;
-  font-family: Sans;
-  inkscape-font-specification: Sans; }
-
-#rect4221-7-1 {
-  fill: #ffffc9;
+  fill: #cdd3d9;
   fill-opacity: 1;
-  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//help_search.svg#linearGradient5454);
-  stroke-width: 1;
-  stroke-opacity: 1;
-  display: inline; }
-
-#rect4221-7-1-2 {
-  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//help_search.svg#linearGradient5372);
-  fill-opacity: 1;
-  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//help_search.svg#linearGradient5374);
-  stroke-width: 0.87995493000000002;
-  stroke-opacity: 1;
-  display: inline; }
-
-#rect4221-7 {
-  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//help_search.svg#linearGradient5376);
-  fill-opacity: 1;
-  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//help_search.svg#linearGradient5446);
-  stroke-width: 1.00034439999999990;
+  stroke: #cdd3d9;
+  stroke-width: 0.935;
   stroke-linejoin: round;
   stroke-miterlimit: 3;
-  stroke-opacity: 1;
   stroke-dasharray: none;
-  display: inline; }
+  stroke-opacity: 1; }
 
-#g8812 {
-  fill: #ffffff; }
-
-#layer1-7-3 {
+#circle {
   display: inline;
-  fill: #ffffff;
-  stroke: #ffffff;
-  stroke-width: 3.80917423999999990;
-  stroke-miterlimit: 4;
-  stroke-dasharray: none;
-  opacity: 0.75000000000000000;
-  filter: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//help_search.svg#filter8846); }
-
-#g8159-0 {
-  display: inline;
-  fill: #ffffff;
-  stroke: #ffffff;
-  stroke-width: 3.35031509000000010;
-  stroke-miterlimit: 4;
-  stroke-dasharray: none; }
-
-#path10796-2-6-0-0 {
-  fill: #ffffff;
+  fill: #491adc;
   fill-opacity: 1;
-  stroke: #ffffff;
-  stroke-width: 5.37765275000000020;
+  stroke: #4a11ff;
+  stroke-width: 0.558;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-miterlimit: 4;
-  stroke-opacity: 1;
   stroke-dasharray: none;
   stroke-dashoffset: 0;
-  display: inline; }
+  stroke-opacity: 1; }
 
-#path8117-8 {
-  fill: #ffffff;
-  fill-opacity: 1;
-  stroke: #ffffff;
-  display: inline;
-  stroke-width: 3.35031509000000010;
-  stroke-miterlimit: 4;
-  stroke-dasharray: none; }
-
-#layer1-7 {
-  display: inline; }
-
-#g8159 {
-  display: inline; }
-
-#path10796-2-6-0 {
-  fill: #f6fcff;
-  fill-opacity: 1;
-  stroke: #4f627e;
-  stroke-width: 1.5;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  stroke-miterlimit: 4;
-  stroke-opacity: 1;
-  stroke-dasharray: none;
-  stroke-dashoffset: 0;
-  display: inline; }
-
-#path8117 {
-  fill: #ffffff;
-  fill-opacity: 1;
-  stroke: none;
-  display: inline; }
-
-#text5240 {
-  font-size: 40px;
+#question {
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
+  font-size: 12px;
   line-height: 125%;
+  font-family: Sans;
+  inkscape-font-specification: 'Sans Bold';
   letter-spacing: 0px;
   word-spacing: 0px;
-  fill: #64768f;
+  fill: #cdd3d9;
   fill-opacity: 1;
-  stroke: none;
-  font-family: Sans; }
-
-#path5245 {
-  font-size: 12px;
-  font-weight: bold;
-  fill: #64768f;
-  fill-opacity: 1;
-  inkscape-font-specification: Sans Bold; }
+  stroke: none; }

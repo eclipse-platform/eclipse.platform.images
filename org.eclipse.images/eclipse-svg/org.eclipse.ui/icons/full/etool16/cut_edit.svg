@@ -14,38 +14,38 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="cut_edit.svg">
   <defs
      id="defs4">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4793">
+       id="lefthandle-stroke-3">
       <stop
          style="stop-color:#7395b8;stop-opacity:1;"
          offset="0"
-         id="stop4795" />
+         id="lefthandle-stroke-stop0" />
       <stop
          style="stop-color:#125f9c;stop-opacity:1"
          offset="1"
-         id="stop4797" />
+         id="lefthandle-stroke-stop1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4793-4">
+       id="righthandle-stroke-6">
       <stop
          style="stop-color:#7395b8;stop-opacity:1;"
          offset="0"
-         id="stop4795-0" />
+         id="righthandle-stroke-stop0" />
       <stop
          style="stop-color:#125f9c;stop-opacity:1"
          offset="1"
-         id="stop4797-9" />
+         id="righthandle-stroke-stop1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4793"
-       id="linearGradient4864"
+       xlink:href="#lefthandle-stroke-3"
+       id="lefthandle-stroke"
        gradientUnits="userSpaceOnUse"
        x1="-17.093752"
        y1="9.625"
@@ -53,13 +53,14 @@
        y2="12.4375" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4793-4"
-       id="linearGradient4866"
+       xlink:href="#righthandle-stroke-6"
+       id="righthandle-stroke"
        gradientUnits="userSpaceOnUse"
        x1="-17.093752"
        y1="9.625"
        x2="-13.312501"
-       y2="12.4375" />
+       y2="12.4375"
+       gradientTransform="translate(27.726339,1036.5644)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -69,15 +70,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.999999"
-     inkscape:cx="5.3953181"
-     inkscape:cy="8.3945447"
+     inkscape:cx="3.7583705"
+     inkscape:cy="7.871566"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4857"
      showgrid="true"
-     inkscape:window-width="1241"
-     inkscape:window-height="814"
-     inkscape:window-x="200"
-     inkscape:window-y="572"
+     inkscape:window-width="1208"
+     inkscape:window-height="830"
+     inkscape:window-x="689"
+     inkscape:window-y="437"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -109,44 +110,57 @@
        transform="matrix(0.75134134,0.65047808,-0.62287103,0.78464248,652.4173,219.65493)">
       <path
          inkscape:connector-curvature="0"
-         id="path4835"
+         id="leftblade"
          d="m 6.312499,1045.9559 2.125,-3 2.500001,-5.875 c 0,0 0.71875,1.4063 0.5,2.0313 -0.21875,0.625 -2.531251,6.0312 -2.531251,6.0312 l -2,1.9688 z"
-         style="fill:#79879d;fill-opacity:1;stroke:#4d607b;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#79879d;fill-opacity:1;stroke:#4d607b;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <title
+           id="title3215">leftblade</title>
+      </path>
       <path
          inkscape:connector-curvature="0"
-         id="path4835-8"
-         d="m 11.478929,1045.9559 -2.125,-3 -2.500001,-5.875 c 0,0 -0.71875,1.4063 -0.5,2.0313 0.21875,0.625 2.531251,6.0312 2.531251,6.0312 l 2,1.9688 z"
-         style="fill:#79879d;fill-opacity:1;stroke:#4d607b;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+         id="rightblade"
+         d="m 11.317555,1045.6254 -1.963626,-2.6695 -2.500001,-5.875 c 0,0 -0.71875,1.4063 -0.5,2.0313 0.21875,0.625 2.531251,6.0312 2.531251,6.0312 l 1.838626,1.6383 z"
+         style="display:inline;fill:#79879d;fill-opacity:1;stroke:#4d607b;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cccsccc">
+        <title
+           id="title3213">rightblade</title>
+      </path>
       <path
          transform="matrix(1.3529412,0,0,1.3529412,24.013328,1033.8898)"
-         d="m -10.906251,7.0937495 c 0,0.1467007 -0.118924,0.265625 -0.265625,0.265625 -0.146701,0 -0.265625,-0.1189243 -0.265625,-0.265625 0,-0.1467006 0.118924,-0.265625 0.265625,-0.265625 0.146701,0 0.265625,0.1189244 0.265625,0.265625 z"
+         d="m -10.906251,7.0937495 a 0.265625,0.265625 0 0 1 -0.265625,0.265625 0.265625,0.265625 0 0 1 -0.265625,-0.265625 0.265625,0.265625 0 0 1 0.265625,-0.265625 0.265625,0.265625 0 0 1 0.265625,0.265625 z"
          sodipodi:ry="0.265625"
          sodipodi:rx="0.265625"
          sodipodi:cy="7.0937495"
          sodipodi:cx="-11.171876"
-         id="path4855"
+         id="pin"
          style="fill:#4d607b;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
+         sodipodi:type="arc">
+        <title
+           id="title3211">pin</title>
+      </path>
       <path
          transform="translate(20,1036.706)"
-         d="m -13.187501,10.875 c 0,1.208123 -0.909422,2.1875 -2.03125,2.1875 -1.121828,0 -2.03125,-0.979377 -2.03125,-2.1875 0,-1.2081229 0.909422,-2.1875 2.03125,-2.1875 1.121828,0 2.03125,0.9793771 2.03125,2.1875 z"
+         d="m -13.187501,10.875 a 2.03125,2.1875 0 0 1 -2.03125,2.1875 2.03125,2.1875 0 0 1 -2.03125,-2.1875 2.03125,2.1875 0 0 1 2.03125,-2.1875 2.03125,2.1875 0 0 1 2.03125,2.1875 z"
          sodipodi:ry="2.1875"
          sodipodi:rx="2.03125"
          sodipodi:cy="10.875"
          sodipodi:cx="-15.218751"
-         id="path4023"
-         style="fill:none;stroke:url(#linearGradient4864);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         sodipodi:type="arc" />
-      <path
-         transform="translate(27.84375,1036.706)"
-         d="m -13.187501,10.875 c 0,1.208123 -0.909422,2.1875 -2.03125,2.1875 -1.121828,0 -2.03125,-0.979377 -2.03125,-2.1875 0,-1.2081229 0.909422,-2.1875 2.03125,-2.1875 1.121828,0 2.03125,0.9793771 2.03125,2.1875 z"
-         sodipodi:ry="2.1875"
-         sodipodi:rx="2.03125"
-         sodipodi:cy="10.875"
-         sodipodi:cx="-15.218751"
-         id="path4023-4"
-         style="fill:none;stroke:url(#linearGradient4866);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-         sodipodi:type="arc" />
+         id="lefthandle"
+         style="fill:none;stroke:url(#lefthandle-stroke);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc">
+        <title
+           id="title3207">lefthandle</title>
+      </path>
+      <ellipse
+         id="righthandle"
+         style="display:inline;fill:none;stroke:url(#righthandle-stroke);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="12.507588"
+         cy="1047.4393"
+         rx="2.03125"
+         ry="2.1875">
+        <title
+           id="title3209">righthandle</title>
+      </ellipse>
     </g>
   </g>
 </svg>

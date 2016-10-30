@@ -1,22 +1,32 @@
 @import "stock";
 
-#stop7586-4-4-4 {
+#arrow-bg-stop0 {
 	stop-color: #ffffff;
 	stop-opacity: 1;
 }
 
-#stop7588-5-0-3 {
+#arrow-bg-stop1 {
 	stop-color: #ffd25d;
 	stop-opacity: 1;
 }
 
-#stop7594-6-9-5 {
+#arrow-stroke-stop0 {
 	stop-color: #ad7212;
 	stop-opacity: 1;
 }
 
-#stop7596-9-2-1 {
+#arrow-stroke-stop1 {
 	stop-color: #a17124;
+	stop-opacity: 1;
+}
+
+#arrow-stroke-stop0-3 {
+	stop-color: #ad7212;
+	stop-opacity: 1;
+}
+
+#arrow-stroke-stop1-5 {
+	stop-color: #996c22;
 	stop-opacity: 1;
 }
 
@@ -28,10 +38,11 @@
 	display: inline;
 }
 
-#path7582-2 {
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//redo_edit.svg#radialGradient3787);
+#redo-arrow {
+	display: inline;
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//redo_edit.svg#arrow-bg-3);
 	fill-opacity: 1;
-	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//redo_edit.svg#linearGradient7610-5-3-4);
+	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//redo_edit.svg#arrow-stroke-5);
 	stroke-width: 0.62010396;
 	stroke-linecap: butt;
 	stroke-linejoin: round;

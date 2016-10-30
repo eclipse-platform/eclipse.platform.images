@@ -1,14 +1,6 @@
 @import "gotham";
 
-#layer1 {
-	display: inline;
-}
-
-#g4948 {
-	display: inline;
-}
-
-#path4951-1 {
+#topwindow {
 	font-size: medium;
 	font-style: normal;
 	font-variant: normal;
@@ -27,7 +19,7 @@
 	text-anchor: start;
 	baseline-shift: baseline;
 	color: #000000;
-	fill: #706860;
+	fill: $gotham-background-light;
 	fill-opacity: 1;
 	fill-rule: nonzero;
 	stroke: none;
@@ -41,7 +33,7 @@
 	inkscape-font-specification: Sans;
 }
 
-#path4951 {
+#bottomwindow {
 	font-size: medium;
 	font-style: normal;
 	font-variant: normal;
@@ -60,7 +52,7 @@
 	text-anchor: start;
 	baseline-shift: baseline;
 	color: #000000;
-	fill: #706860;
+	fill: $gotham-background-light;
 	fill-opacity: 1;
 	fill-rule: nonzero;
 	stroke: none;

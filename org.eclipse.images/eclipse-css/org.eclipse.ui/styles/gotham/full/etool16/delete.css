@@ -9,30 +9,14 @@
  */
 /** Global styles and values */
 /** styles and values */
-#stop4854 {
-  stop-color: #df2c33;
-  stop-opacity: 1; }
-
-#stop4856 {
-  stop-color: #f5817d;
-  stop-opacity: 1; }
-
-#stop4846 {
-  stop-color: #c51325;
-  stop-opacity: 1; }
-
-#stop4848 {
-  stop-color: #ca5d49;
-  stop-opacity: 1; }
-
-#layer1 {
-  display: inline; }
-
-#rect4043 {
-  fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//delete.svg#linearGradient4858);
+/** Global Styles */
+/** Navigation Elements (Back, Forward, Stop, etc)*/
+/** UI Trim (Popup menu buttons, close buttons, etc)*/
+#x {
+  fill: #9c3f3f;
   fill-opacity: 1;
-  stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//delete.svg#linearGradient4850);
-  stroke-width: 0.98060334;
+  stroke: #f12424;
+  stroke-width: 1;
   stroke-linecap: round;
   stroke-linejoin: miter;
   stroke-miterlimit: 4;

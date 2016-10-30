@@ -1,21 +1,21 @@
 @import "stock";
 
-#stop4854 {
+#x-bg-stop0 {
 	stop-color: #df2c33;
 	stop-opacity: 1;
 }
 
-#stop4856 {
+#x-bg-stop1 {
 	stop-color: #f5817d;
 	stop-opacity: 1;
 }
 
-#stop4846 {
+#x-stroke-stop0 {
 	stop-color: #c51325;
 	stop-opacity: 1;
 }
 
-#stop4848 {
+#x-stroke-stop1 {
 	stop-color: #ca5d49;
 	stop-opacity: 1;
 }
@@ -24,10 +24,10 @@
 	display: inline;
 }
 
-#rect4043 {
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//delete_edit.svg#linearGradient4858);
+#x {
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//delete_edit.svg#x-bg);
 	fill-opacity: 1;
-	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//delete_edit.svg#linearGradient4850);
+	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//delete_edit.svg#x-stroke);
 	stroke-width: 0.98060334;
 	stroke-linecap: round;
 	stroke-linejoin: miter;

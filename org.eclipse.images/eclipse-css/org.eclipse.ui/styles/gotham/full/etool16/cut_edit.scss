@@ -1,33 +1,9 @@
 @import "gotham";
 
-#stop4795 {
-	stop-color: #7395b8;
-	stop-opacity: 1;
-}
-
-#stop4797 {
-	stop-color: #125f9c;
-	stop-opacity: 1;
-}
-
-#stop4795-0 {
-	stop-color: #7395b8;
-	stop-opacity: 1;
-}
-
-#stop4797-9 {
-	stop-color: #125f9c;
-	stop-opacity: 1;
-}
-
-#layer1 {
-	display: inline;
-}
-
-#path4835 {
-	fill: #79879d;
+#leftblade {
+	fill: $gotham-background-very-light;
 	fill-opacity: 1;
-	stroke: #4d607b;
+	stroke: $gotham-background-very-light;
 	stroke-width: 0.5;
 	stroke-linecap: butt;
 	stroke-linejoin: miter;
@@ -36,28 +12,27 @@
 	stroke-dasharray: none;
 }
 
-#path4835-8 {
-	fill: #79879d;
+#rightblade {
+	fill: $gotham-background-very-light;
 	fill-opacity: 1;
-	stroke: #4d607b;
+	stroke: $gotham-background-very-light;
 	stroke-width: 0.5;
 	stroke-linecap: butt;
 	stroke-linejoin: miter;
 	stroke-miterlimit: 4;
 	stroke-opacity: 1;
 	stroke-dasharray: none;
-	display: inline;
 }
 
-#path4855 {
-	fill: #4d607b;
+#pin {
+	fill: $gotham-background-accent-red-bright;
 	fill-opacity: 1;
 	stroke: none;
 }
 
-#path4023 {
+#lefthandle {
 	fill: none;
-	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//cut_edit.svg#linearGradient4864);
+	stroke: $gotham-background-accent-blue-bright;
 	stroke-width: 1;
 	stroke-linecap: round;
 	stroke-linejoin: round;
@@ -67,9 +42,9 @@
 	stroke-dashoffset: 0;
 }
 
-#path4023-4 {
+#righthandle {
 	fill: none;
-	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//cut_edit.svg#linearGradient4866);
+	stroke: $gotham-background-accent-blue-bright;
 	stroke-width: 1;
 	stroke-linecap: round;
 	stroke-linejoin: round;

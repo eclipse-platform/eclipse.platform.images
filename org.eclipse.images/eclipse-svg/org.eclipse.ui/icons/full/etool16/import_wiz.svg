@@ -19,7 +19,7 @@
   <defs
      id="defs4">
     <linearGradient
-       id="linearGradient4921">
+       id="receiver-bg-6">
       <stop
          style="stop-color:#85a2cd;stop-opacity:1;"
          offset="0"
@@ -30,7 +30,7 @@
          id="stop4925" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4913">
+       id="receiver-stroke-7">
       <stop
          style="stop-color:#4e6b9b;stop-opacity:1"
          offset="0"
@@ -42,7 +42,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4913"
+       xlink:href="#receiver-stroke-7"
        id="linearGradient4919"
        x1="1.860189"
        y1="1051.5892"
@@ -52,7 +52,7 @@
        gradientTransform="matrix(1.0224167,0,0,1.0224167,-17.402778,-24.047507)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4921"
+       xlink:href="#receiver-bg-6"
        id="linearGradient4927"
        x1="1.860189"
        y1="1051.5892"
@@ -61,7 +61,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0224167,0,0,1.0224167,-17.402778,-24.047507)" />
     <linearGradient
-       id="linearGradient4789">
+       id="arrow-bg-3">
       <stop
          style="stop-color:#4e8fbd;stop-opacity:1;"
          offset="0"
@@ -79,7 +79,7 @@
        gradientTransform="matrix(0.72295781,-0.72295781,0.72295781,0.72295781,-747.11893,286.63871)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3924"
-       xlink:href="#linearGradient4789"
+       xlink:href="#arrow-bg-3"
        inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
@@ -89,16 +89,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="64"
-     inkscape:cx="3.8401431"
-     inkscape:cy="8.4256951"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-4.4004976"
+     inkscape:cy="10.211107"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="receiver"
      showgrid="true"
      inkscape:window-width="1652"
      inkscape:window-height="1174"
-     inkscape:window-x="827"
-     inkscape:window-y="130"
+     inkscape:window-x="530"
+     inkscape:window-y="179"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -141,8 +141,10 @@
      style="display:inline"
      transform="translate(0,-1036.3622)">
     <g
-       id="g4908"
+       id="receiver"
        transform="translate(17.6875,0)">
+      <title
+         id="title3214">receiver</title>
       <path
          style="fill:url(#linearGradient4927);fill-opacity:1;stroke:url(#linearGradient4919);stroke-width:0.71569169;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m -17.306927,1043.9175 0,7.0931 7.124966,0 7.1249674,0 0,-7.0931 -3.0033491,0 0,2.013 0.9265651,0 0,3.0672 -5.0481834,0 -5.048182,0 0,-3.0672 0.926565,0 0,-2.013 z"
@@ -153,7 +155,10 @@
     <path
        style="fill:url(#linearGradient3924);fill-opacity:1;stroke:none;display:inline"
        d="m 1.7208163,1039.5526 0.6549857,-0.6549 6.2783105,6.2782 1.3099712,-1.3099 0.3354433,3.4985 -3.4985427,-0.3034 1.2300951,-1.2302 z"
-       id="path3986"
-       inkscape:connector-curvature="0" />
+       id="arrow"
+       inkscape:connector-curvature="0">
+      <title
+         id="title3212">arrow</title>
+    </path>
   </g>
 </svg>

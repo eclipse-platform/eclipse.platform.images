@@ -1,97 +1,97 @@
 @import "stock";
 
-#stop6341 {
-	stop-color: #e4cf9d;
-	stop-opacity: 1;
-}
-
-#stop6343 {
-	stop-color: #dce9f2;
-	stop-opacity: 1;
-}
-
-#stop6345 {
-	stop-color: #fefdfa;
-	stop-opacity: 1;
-}
-
-#stop6086-7 {
+#dot1-bg-stop0 {
 	stop-color: #83adf0;
 	stop-opacity: 1;
 }
 
-#stop6088-9 {
+#dot1-bg-stop1 {
 	stop-color: #224377;
 	stop-opacity: 1;
 }
 
-#stop6086-6-7 {
+#dot2-bg-stop0 {
 	stop-color: #83adf0;
 	stop-opacity: 1;
 }
 
-#stop6088-8-69 {
+#dot2-bg-stop1 {
 	stop-color: #224377;
 	stop-opacity: 1;
 }
 
-#stop6086-6-0-3 {
+#dot3-bg-stop0 {
 	stop-color: #83adf0;
 	stop-opacity: 1;
 }
 
-#stop6088-8-6-2 {
+#dot3-bg-stop1 {
 	stop-color: #224377;
 	stop-opacity: 1;
 }
 
-#stop4895-5 {
+#base-bg-stop0 {
 	stop-color: #b7c9e3;
 	stop-opacity: 1;
 }
 
-#stop4897-6 {
+#base-bg-stop1 {
 	stop-color: #f3f5f6;
 	stop-opacity: 1;
 }
 
-#stop4740-6 {
+#base-stroke-stop0 {
 	stop-color: #8a9b9e;
 	stop-opacity: 1;
 }
 
-#stop4742-6 {
+#base-stroke-stop1 {
 	stop-color: #5b7aaa;
 	stop-opacity: 1;
 }
 
-#stop4989-3 {
+#label-fill-stop0 {
 	stop-color: #e4cf9d;
 	stop-opacity: 1;
 }
 
-#stop4997-4 {
-	stop-color: #b5cef2;
+#label-fill-stop1 {
+	stop-color: #dce9f2;
 	stop-opacity: 1;
 }
 
-#stop4995-1 {
-	stop-color: #97b2d9;
+#label-fill-stop2 {
+	stop-color: #fefdfa;
 	stop-opacity: 1;
 }
 
-#stop4991-5 {
-	stop-color: #f8f8fc;
+#label-stroke-stop0 {
+	stop-color: #8a9b9e;
 	stop-opacity: 1;
 }
 
-#stop4782-4-1 {
+#label-stroke-stop1 {
 	stop-color: #b1bdbf;
 	stop-opacity: 1;
 }
 
-#stop4784-9-6 {
-	stop-color: #8a9b9e;
+#io-slider-fill-stop0 {
+	stop-color: #e4cf9d;
+	stop-opacity: 1;
+}
+
+#io-slider-fill-stop1 {
+	stop-color: #b5cef2;
+	stop-opacity: 1;
+}
+
+#io-slider-fill-stop2 {
+	stop-color: #97b2d9;
+	stop-opacity: 1;
+}
+
+#io-slider-fill-stop3 {
+	stop-color: #f8f8fc;
 	stop-opacity: 1;
 }
 
@@ -99,95 +99,14 @@
 	display: inline;
 }
 
-#layer1-8 {
-	display: inline;
-}
-
-#rect3968 {
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#linearGradient4899-4);
-	fill-opacity: 1;
-	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#linearGradient4744-6);
-	stroke-opacity: 1;
-}
-
-#rect3968-9-6-8 {
-	font-size: medium;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: normal;
-	font-stretch: normal;
-	text-indent: 0;
-	text-align: start;
-	text-decoration: none;
-	line-height: normal;
-	letter-spacing: normal;
-	word-spacing: normal;
-	text-transform: none;
-	direction: ltr;
-	block-progression: tb;
-	writing-mode: lr-tb;
-	text-anchor: start;
-	baseline-shift: baseline;
-	color: #000000;
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#linearGradient4993-5);
-	fill-opacity: 1;
-	stroke: none;
-	stroke-width: 1;
-	marker: none;
-	visibility: visible;
-	display: inline;
-	overflow: visible;
-	enable-background: accumulate;
-	font-family: Sans;
-	inkscape-font-specification: Sans;
-}
-
-#rect3968-9-6 {
-	font-size: medium;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: normal;
-	font-stretch: normal;
-	text-indent: 0;
-	text-align: start;
-	text-decoration: none;
-	line-height: normal;
-	letter-spacing: normal;
-	word-spacing: normal;
-	text-transform: none;
-	direction: ltr;
-	block-progression: tb;
-	writing-mode: lr-tb;
-	text-anchor: start;
-	baseline-shift: baseline;
-	color: #000000;
-	fill: #5b7aaa;
-	fill-opacity: 1;
-	stroke: none;
-	stroke-width: 1;
-	marker: none;
-	visibility: visible;
-	display: inline;
-	overflow: visible;
-	enable-background: accumulate;
-	font-family: Sans;
-	inkscape-font-specification: Sans;
-}
-
-#rect4963 {
-	fill: #5b7aaa;
-	fill-opacity: 1;
-	stroke: none;
-}
-
 #g6052 {
 	display: inline;
 }
 
-#rect6074 {
+#dot1 {
 	opacity: 0.97330592;
 	color: #000000;
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#linearGradient6090-6);
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#dot1-bg);
 	fill-opacity: 1;
 	fill-rule: nonzero;
 	stroke: none;
@@ -199,10 +118,10 @@
 	enable-background: accumulate;
 }
 
-#rect6074-6 {
+#dot2 {
 	opacity: 0.97330592;
 	color: #000000;
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#linearGradient6141-0);
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#dot2-bg);
 	fill-opacity: 1;
 	fill-rule: nonzero;
 	stroke: none;
@@ -214,10 +133,10 @@
 	enable-background: accumulate;
 }
 
-#rect6074-6-4 {
+#dot3 {
 	opacity: 0.97330592;
 	color: #000000;
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#linearGradient6175-7);
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#dot3-bg);
 	fill-opacity: 1;
 	fill-rule: nonzero;
 	stroke: none;
@@ -229,58 +148,55 @@
 	enable-background: accumulate;
 }
 
-#rect3968-9-1 {
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#linearGradient6304);
-	fill-opacity: 1;
-	stroke: none;
+#disk-base {
 	display: inline;
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#base-fill-inst);
+	fill-opacity: 1;
+	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#base-stroke-inst);
+	stroke-opacity: 1;
 }
 
-#rect3968-9 {
-	font-size: medium;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: normal;
-	font-stretch: normal;
-	text-indent: 0;
-	text-align: start;
-	text-decoration: none;
-	line-height: normal;
-	letter-spacing: normal;
-	word-spacing: normal;
-	text-transform: none;
-	direction: ltr;
-	block-progression: tb;
-	writing-mode: lr-tb;
-	text-anchor: start;
-	baseline-shift: baseline;
-	color: #000000;
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#linearGradient4858-1-2);
-	fill-opacity: 1;
-	stroke: none;
-	stroke-width: 1;
-	marker: none;
-	visibility: visible;
+#io-slider {
 	display: inline;
-	overflow: visible;
-	enable-background: accumulate;
-	font-family: Sans;
-	inkscape-font-specification: Sans;
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#io-slider-fill-inst);
+	fill-opacity: 1;
+	stroke: #5b7aaa;
+	stroke-opacity: 1;
 }
 
-#rect4963-5 {
-	opacity: 0.35;
-	fill: #9baaac;
+#io-slider-slot {
+	display: inline;
+	fill: #5b7aaa;
 	fill-opacity: 1;
 	stroke: none;
-	display: inline;
 }
 
-#rect4963-5-7 {
+#label-base {
+	display: inline;
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#label-fill-inst);
+	fill-opacity: 1;
+	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//saveas_edit.svg#label-stroke-inst);
+	stroke-opacity: 1;
+}
+
+#label-lines {
+	display: inline;
 	opacity: 0.35;
 	fill: #a6b4b6;
 	fill-opacity: 1;
 	stroke: none;
-	display: inline;
+}
+
+#rect3423 {
+	opacity: 1;
+	fill: #000000;
+	fill-opacity: 1;
+	stroke: none;
+	stroke-width: 1;
+	stroke-linejoin: miter;
+	stroke-miterlimit: 4;
+	stroke-dasharray: none;
+	stroke-dashoffset: 0;
+	stroke-opacity: 1;
 }
 

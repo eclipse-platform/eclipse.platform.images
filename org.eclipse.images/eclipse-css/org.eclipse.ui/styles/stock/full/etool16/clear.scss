@@ -1,41 +1,41 @@
 @import "stock";
 
-#stop4928 {
+#divider-stroke-stop0 {
 	stop-color: #ac9575;
 	stop-opacity: 1;
 }
 
-#stop4931 {
+#divider-stroke-stop1 {
 	stop-color: #f4efe9;
 	stop-opacity: 1;
 }
 
-#stop4902 {
+#eraser-stroke-stop0 {
 	stop-color: #9a8d73;
 	stop-opacity: 1;
 }
 
-#stop4904 {
+#eraser-stroke-stop1 {
 	stop-color: #c0b194;
 	stop-opacity: 1;
 }
 
-#stop4822 {
+#lightarea-bg-stop0 {
 	stop-color: #f5ede6;
 	stop-opacity: 1;
 }
 
-#stop4824 {
+#lightarea-bg-stop1 {
 	stop-color: #ffffff;
 	stop-opacity: 1;
 }
 
-#stop4814 {
+#darkarea-bg-stop0 {
 	stop-color: #ccbba3;
 	stop-opacity: 1;
 }
 
-#stop4816 {
+#darkarea-bg-stop1 {
 	stop-color: #f2ebe4;
 	stop-opacity: 1;
 }
@@ -44,7 +44,7 @@
 	display: inline;
 }
 
-#path4002 {
+#line {
 	fill: none;
 	stroke: #9a8d73;
 	stroke-width: 1px;
@@ -53,23 +53,23 @@
 	stroke-opacity: 1;
 }
 
-#path4004-1 {
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear.svg#linearGradient4826);
+#lightarea {
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear.svg#lightarea-bg);
 	fill-opacity: 1;
 	stroke: none;
 	display: inline;
 }
 
-#path4004-1-7 {
-	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear.svg#linearGradient4818);
+#darkarea {
+	fill: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear.svg#darkarea-bg);
 	fill-opacity: 1;
 	stroke: none;
 	display: inline;
 }
 
-#path4002-1 {
+#divider {
 	fill: none;
-	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear.svg#linearGradient4933);
+	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear.svg#divider-stroke);
 	stroke-width: 1px;
 	stroke-linecap: butt;
 	stroke-linejoin: miter;
@@ -77,13 +77,13 @@
 	display: inline;
 }
 
-#path4004-1-5 {
+#eraser {
+	display: inline;
 	fill: none;
-	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear.svg#linearGradient4906);
-	stroke-width: 1px;
+	stroke: url(../../../../../../eclipse-svg/org.eclipse.ui/icons/full/etool16//clear.svg#eraser-stroke);
+	stroke-width: 0.99504387px;
 	stroke-linecap: round;
 	stroke-linejoin: round;
 	stroke-opacity: 1;
-	display: inline;
 }
 
