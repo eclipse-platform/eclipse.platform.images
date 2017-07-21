@@ -8,7 +8,12 @@ org.eclipse.images.renderer plug-in usage
 
 Install the org.eclipse.images.renderer plug-in:
 
-cd org.eclipse.images.renderer
+Go to the project root i.e. eclipse.platform.images:
+
+cd eclipse.platform.images
+
+and run:
+
 mvn clean install
 
 After the renderer plugin is installed, change into the root of the images project:
