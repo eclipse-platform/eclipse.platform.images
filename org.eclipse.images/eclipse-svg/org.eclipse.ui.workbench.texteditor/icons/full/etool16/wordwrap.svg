@@ -14,7 +14,7 @@
    width="16"
    height="16"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="wordwrap.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,16 +25,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1194"
-     inkscape:window-height="794"
+     inkscape:window-width="1885"
+     inkscape:window-height="1025"
      id="namedview71"
      showgrid="true"
      inkscape:zoom="14.75"
      inkscape:cx="-0.74621846"
      inkscape:cy="2.172076"
-     inkscape:window-x="711"
-     inkscape:window-y="593"
-     inkscape:window-maximized="0"
+     inkscape:window-x="35"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -335,10 +335,6 @@
      transform="translate(0,-1036.3622)"
      id="layer1"
      style="display:inline">
-    <path
-       d="m 1.4972825,1036.9037 7.0096685,0 3.062057,3.0066 0,9.9546 -10.0717255,0 z"
-       id="rect4001-3"
-       style="fill:url(#linearGradient5000);fill-opacity:1;stroke:none;display:inline" />
     <path
        d="m 1.4972825,1036.9037 7.0096685,0 3.014118,3.0066 0,9.9546 -10.0237865,0 z"
        id="rect4001"

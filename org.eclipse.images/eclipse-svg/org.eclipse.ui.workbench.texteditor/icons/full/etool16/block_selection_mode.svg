@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="block_selection_mode.svg">
   <defs
      id="defs4">
@@ -54,18 +54,6 @@
          style="stop-color:#9a9990;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       id="linearGradient15990"
-       inkscape:collect="always">
-      <stop
-         id="stop15992"
-         offset="0"
-         style="stop-color:#f9fafc;stop-opacity:1" />
-      <stop
-         id="stop15994"
-         offset="1"
-         style="stop-color:#e0eaf8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient9610"
        id="linearGradient9568"
@@ -75,16 +63,6 @@
        y1="1035.9741"
        x2="8.0137892"
        y2="1051.0103" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient15990"
-       id="linearGradient9571"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0850786,0,0,1,13.244555,8.008525)"
-       x1="-3.1651151"
-       y1="1030.4418"
-       x2="-3.1651151"
-       y2="1041.0583" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient10593"
@@ -166,8 +144,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.999999"
-     inkscape:cx="5.3224034"
-     inkscape:cy="7.7099021"
+     inkscape:cx="9.5469078"
+     inkscape:cy="6.0024294"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -201,13 +179,6 @@
      id="layer1"
      style="display:inline"
      transform="translate(0,-1036.3622)">
-    <rect
-       style="display:inline;fill:url(#linearGradient9571);fill-opacity:1;stroke:none"
-       id="rect3997-9-2-7"
-       width="12.504435"
-       height="13.265991"
-       x="1.7710609"
-       y="1038.1497" />
     <rect
        y="1043.3622"
        x="5"
@@ -286,25 +257,6 @@
        width="6"
        id="rect18863-4-2"
        style="fill:url(#linearGradient10490);fill-opacity:1;stroke:none;display:inline" />
-    <image
-       y="1052.3622"
-       x="0"
-       id="image4191"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAb9JREFU
-OI2lk79rk1EUhp/7JeAfYbuIdBBHRXF0cFDMjyKis6O2sQ2NjY2lNNaWlkojCO4NuLWmVAfBDoJQ
-MKMIiuigg6vUSr/ce85xiKT9kiioZ7nT+/Lc97zHmRn/M2mA7Wfj/+Ry+vx9lwZQc5w4t/hX4ubz
-0j6BaoSacfPuGiuVYVZWX9FqebwXfAh4LwQvBBFElFplGNVo3+CHP0RLYGkyjw/G9atnADDncGaJ
-FyCWtqZjECRCxZhcXGehlGdsbq0v9rVLJ6k3miyU8gQ5QBA0hRjcm8gjBl+/fWe+cCEhLteecmxo
-kLmJQcTamo6BaApV487yE6rFHDt7MRtbbxIZ7OzFvH3/mXqjSbWYQw4aBIk6BAbsxp7M2eMJgq3Z
-Tx0CL5b8QjqlpBzcXlqnWswRh9BDEIeQIEintJdgZiyHGIhoD8Hm63ccPTLAzPhAO4PuEFWM2VqD
-6UIWAy5PrfZs4cPHL9QbTaYL2WSIQSPEjEohg5jx4tFo3zXiYGr0MPJL0zFoN9Ex/6BBeSTL443t
-PzaxPJJJNjFIu8q3bmRQM65cPEX3dTnADHAO1a4tqEW83HzYH/s3o5YG4Cez7SEjn8Zc8AAAAABJ
-RU5ErkJggg==
-"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="16"
-       width="16" />
     <rect
        y="1039.3622"
        x="12.011048"
