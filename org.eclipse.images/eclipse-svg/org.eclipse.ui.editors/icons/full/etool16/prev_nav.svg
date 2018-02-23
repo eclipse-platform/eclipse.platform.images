@@ -256,13 +256,12 @@
          transform="translate(-1.0606602,-0.61871837)"
          id="g5253-5"
          style="display:inline">
-        <rect
+        <path
            style="display:inline;opacity:1;fill:none;fill-opacity:0.52156863;stroke:url(#linearGradient7050);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 16.503522,1036.5747 0,13"
            id="rect7028"
-           width="11"
-           height="11.999962"
-           x="5.5035219"
-           y="1037.0747" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
         <rect
            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c1c6d9;fill-opacity:1;stroke:none;stroke-width:0.69427586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
            id="rect6891-5-7-31-2"
