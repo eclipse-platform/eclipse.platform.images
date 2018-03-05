@@ -25,15 +25,15 @@
        inkscape:collect="always"
        id="linearGradient4289">
       <stop
-         style="stop-color:#e5eef2;stop-opacity:1"
+         style="stop-color:#e5eef2;stop-opacity:0.404"
          offset="0"
          id="stop4291" />
       <stop
          id="stop4297"
          offset="0.45937952"
-         style="stop-color:#c9e5f5;stop-opacity:1" />
+         style="stop-color:#cfe3ef;stop-opacity:0.80392158" />
       <stop
-         style="stop-color:#d7e3ec;stop-opacity:1"
+         style="stop-color:#d7e3ec;stop-opacity:0.388"
          offset="1"
          id="stop4293" />
     </linearGradient>
@@ -41,15 +41,15 @@
        inkscape:collect="always"
        id="linearGradient4279">
       <stop
-         style="stop-color:#bbc5d2;stop-opacity:1"
+         style="stop-color:#b1bccb;stop-opacity:1"
          offset="0"
          id="stop4281" />
       <stop
          id="stop4287"
          offset="0.50933158"
-         style="stop-color:#a3b4c7;stop-opacity:1" />
+         style="stop-color:#93a7bd;stop-opacity:1" />
       <stop
-         style="stop-color:#c4ccd6;stop-opacity:1"
+         style="stop-color:#b2bcc9;stop-opacity:1"
          offset="1"
          id="stop4283" />
     </linearGradient>
@@ -106,27 +106,28 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#1f1f1f"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="35.15625"
-     inkscape:cx="8"
+     inkscape:zoom="39.951533"
+     inkscape:cx="7.5619693"
      inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1391"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="1"
+     inkscape:window-width="789"
+     inkscape:window-height="856"
+     inkscape:window-x="656"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     inkscape:snap-others="false">
     <inkscape:grid
        type="xygrid"
        id="grid3999"
@@ -161,7 +162,7 @@
        rx="4"
        ry="3.9999871" />
     <rect
-       style="display:inline;fill:#8b96ab;fill-opacity:1;stroke:none"
+       style="display:inline;fill:#59657b;fill-opacity:1;stroke:none"
        id="rect4167-8"
        width="1.0000174"
        height="5"
@@ -172,14 +173,7 @@
        y="1036.3622"
        x="17"
        id="image4402"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAS9JREFU
-OI3Fk81OwlAQhb/bQrE/3BLSKEXQN/EBNMaVb+gDuPJ1WEhD0YbUtreIpb1uNBFIuhATZzPJ5MyX
-nJMZobXmmDKO2v4LQGd/kKS5VuqdeZzwlil86TIZBbjuCcGgL/b14mcGy1Wmo3hFp9shCHz6nkte
-KJIkZVvVnI+GnA3lDmTHQpqvaQyD8TTEsh02NXRth/F0TGMYpHl5YGEHMJu/4kiJqjRl1aCq+qs3
-2NJnNk/aM0jSgiEWTw+PB8Kru2uStGgH+NLB/Ci5vb/hOxkhQGtQhcKXTruFizBgnWVYJvRMgWWC
-ZUDPhDLLuQyDdsDAsxFNTRwt2ChF19BsSsUyijGaLdKzDwBi/5SfX1JdqDXRIiEvSvqewyQMcF2b
-6emg/Q5+U///C0cDPgFSA31+6A3zewAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAS9JREFU OI3Fk81OwlAQhb/bQrE/3BLSKEXQN/EBNMaVb+gDuPJ1WEhD0YbUtreIpb1uNBFIuhATZzPJ5MyX nJMZobXmmDKO2v4LQGd/kKS5VuqdeZzwlil86TIZBbjuCcGgL/b14mcGy1Wmo3hFp9shCHz6nkte KJIkZVvVnI+GnA3lDmTHQpqvaQyD8TTEsh02NXRth/F0TGMYpHl5YGEHMJu/4kiJqjRl1aCq+qs3 2NJnNk/aM0jSgiEWTw+PB8Kru2uStGgH+NLB/Ci5vb/hOxkhQGtQhcKXTruFizBgnWVYJvRMgWWC ZUDPhDLLuQyDdsDAsxFNTRwt2ChF19BsSsUyijGaLdKzDwBi/5SfX1JdqDXRIiEvSvqewyQMcF2b 6emg/Q5+U///C0cDPgFSA31+6A3zewAAAABJRU5ErkJggg== "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="16"
