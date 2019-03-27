@@ -26,7 +26,13 @@ mvn org.eclipse.images:org.eclipse.images.renderer:render-icons
 
 This renders all of the svg icons in "eclipse-svg" into the "eclipse-png" folder of the org.eclipse.images project, maintaining the directory structure (i.e. eclipse-svg/icondir will be rendered into org.eclipse.images/eclipse-png/icondir).
 
-Supported runtime arguments (e.g mvn -Declipse.svg.scale=2 ...):
+To render scaled images execute the icon render mojo with:
+
+mvn org.eclipse.images:org.eclipse.images.renderer:render-icons -Declipse.svg.scale=2 -Declipse.svg.createFragments=false
+
+This renders scaled images out of all of the svg icons in "eclipse-svg" into the "eclipse-png" folder of the org.eclipse.images project, maintaining the directory structure (i.e. eclipse-svg/icondir will be rendered into org.eclipse.images/eclipse-png/icondir).
+
+Supported runtime arguments are:
 
 eclipse.svg.scale           - an integer that is used to scale output images (e.g. 2 will render a 16x16 svg at 32x32)
 eclipse.svg.createFragments - a boolean that specifies whether to create separate fragments or putting the high resolution icons next to the low-resolution icons (defaults to "true")
