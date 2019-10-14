@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -30,7 +29,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="35.968673"
-     inkscape:cx="12.815233"
+     inkscape:cx="7.7830763"
      inkscape:cy="5.9552658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -64,6 +63,18 @@
         <dc:title></dc:title>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Remain BV, W.S. Jongman</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Eclipse Foundation</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="https://www.eclipse.org/legal/epl-2.0/" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,46 +84,22 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <circle
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#747474;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#747474;stroke-width:0.44999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4790"
        cx="10.499991"
        cy="1040.8622"
-       r="1.5000087"
-       inkscape:export-filename="C:\Users\jongw\git\eclipse.platform.ui\bundles\org.eclipse.e4.ui.workbench.renderers.swt\icons\full\elcl16\path4790.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       r="1.5" />
     <circle
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#747474;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#747474;stroke-width:0.44999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4790-4"
        cx="10.499983"
        cy="1044.8622"
-       r="1.5"
-       inkscape:export-filename="C:\Users\jongw\git\eclipse.platform.ui\bundles\org.eclipse.e4.ui.workbench.renderers.swt\icons\full\elcl16\path4790.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       r="1.5" />
     <circle
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#747474;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#747474;stroke-width:0.44999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4790-4-7"
        cx="10.499983"
        cy="1048.8622"
-       r="1.5"
-       inkscape:export-filename="C:\Users\jongw\git\eclipse.platform.ui\bundles\org.eclipse.e4.ui.workbench.renderers.swt\icons\full\elcl16\path4790.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <image
-       y="1035.3622"
-       x="20"
-       id="image5478"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAyCAYAAADySu2nAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
-jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADzSURBVGhD7dDRbcMwDABRretpE3eAtFnA7QYJ
-DeSTCqwLC9fNEXiCvijh2sf156ZxhoMMBxkOMhxkOMhwUJvj0Lg2f8VFwzaFm6apTLb/FdkbVLa/
-Z3O4ihn93BZ7/c1wjzEcHBDuOy7P1X4uf4Nad1bJ9vf8i3AV82vhqmT7X7HurJjRv20K95cZDjIc
-ZDjIcJDhoN3CneM4sspw2f6edv6My4GVhkv29xjuMYaDYzg4bxmuSra/5/Dh9mI4yHCQ4SDDQRFu
-iYtGGQ4yHGQ4qJ3i0Lh2usRFwwwHGQ4yHGQ4yHCQ4SDDQYaDDAcZDjIcstzucMvbRnClH+MAAAAA
-SUVORK5CYII=
-"
-       preserveAspectRatio="none"
-       height="38.747154"
-       width="34.20768" />
+       r="1.5" />
   </g>
 </svg>
