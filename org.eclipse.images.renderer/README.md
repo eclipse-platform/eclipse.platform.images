@@ -40,6 +40,8 @@ eclipse.svg.renderthreads   - an integer that specifies how many threads to use 
 eclipse.svg.sourcedirectory - a string that specifies the directory name where the SVGs are taken from (defaults to "eclipse-svg")
 eclipse.svg.targetdirectory - a string that specifies the directory name where the PNGs are written to (defaults to "eclipse-png")
 
+Note: The renderer always renders all svg icons. The renderer may produce binary different png files (that look identical) on different hardware. So it's a good idea only to commit the files that "really" did change and reset the changes to all the other files.
+
 SASS/CSS Stylesheet Rendering (Experimental)
 
 Icons can be rendered using an alternate stylesheet theme, which are located in eclipse-css. Rendering with stylesheets
