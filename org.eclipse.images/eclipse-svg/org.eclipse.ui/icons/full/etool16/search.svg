@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,8 +42,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="987"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview817"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -61,14 +61,14 @@
        id="grid877" />
   </sodipodi:namedview>
   <circle
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#aaaaaa;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path879"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#797979;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path879-8"
      cx="6.5"
-     cy="6.4999995"
-     r="5" />
+     cy="6.5"
+     r="4.5" />
   <path
-     style="fill:none;stroke:#aaaaaa;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 10.353552,10.353552 5.292895,5.292895"
-     id="path881"
+     style="fill:none;stroke:#797979;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 9.9999982,9.9999982 15.292893,15.292893"
+     id="path881-2"
      inkscape:connector-curvature="0" />
 </svg>
