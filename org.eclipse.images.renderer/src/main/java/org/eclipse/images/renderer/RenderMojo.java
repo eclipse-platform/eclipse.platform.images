@@ -357,8 +357,7 @@ public class RenderMojo extends AbstractMojo {
 		// Load the document and find out the native height/width
 		// We reuse the document later for rasterization
 		SVGDocument svgDocument = null;
-		try {
-			FileInputStream iconDocumentStream = new FileInputStream(icon.inputPath);
+		try (FileInputStream iconDocumentStream = new FileInputStream(icon.inputPath)) {
 
 			String parser = XMLResourceDescriptor.getXMLParserClassName();
 			SAXSVGDocumentFactory f = new SAXSVGDocumentFactory(parser);
@@ -681,7 +680,6 @@ public class RenderMojo extends AbstractMojo {
 		try (FileWriter writer = new FileWriter(file)) {
 			file.getParentFile().mkdirs();
 			writer.write(contents);
-			writer.close();
 		} catch (IOException e) {
 			log.error(e);
 		}
