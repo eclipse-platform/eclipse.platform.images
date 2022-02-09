@@ -29,7 +29,7 @@ import java.util.stream.Collectors;
 
 import javax.imageio.ImageIO;
 
-import org.apache.batik.dom.svg.SAXSVGDocumentFactory;
+import org.apache.batik.anim.dom.SAXSVGDocumentFactory;
 import org.apache.batik.gvt.renderer.ImageRenderer;
 import org.apache.batik.gvt.renderer.StaticRenderer;
 import org.apache.batik.transcoder.ErrorHandler;
