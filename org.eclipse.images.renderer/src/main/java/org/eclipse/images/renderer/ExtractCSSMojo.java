@@ -18,6 +18,7 @@ import java.io.IOException;
 import java.io.StringWriter;
 import java.io.Writer;
 import java.net.URI;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -174,7 +175,7 @@ public class ExtractCSSMojo extends AbstractMojo {
 
 			log.info("Creating css for: " + css);
 			
-			IOUtils.write(stream.toString(), new FileOutputStream(newOutput));
+			IOUtils.write(stream.toString(), new FileOutputStream(newOutput), StandardCharsets.UTF_8);
 		} catch (Exception e) {
 			log.error("Error creating CSS: " + e.getMessage(), e);
 		}
