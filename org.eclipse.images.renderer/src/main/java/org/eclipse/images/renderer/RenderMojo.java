@@ -454,8 +454,8 @@ public class RenderMojo extends AbstractMojo {
 			}
 		}
 
-		transcoder.addTranscodingHint(PNGTranscoder.KEY_WIDTH, new Float(width));
-		transcoder.addTranscodingHint(PNGTranscoder.KEY_HEIGHT, new Float(height));
+		transcoder.addTranscodingHint(PNGTranscoder.KEY_WIDTH, Float.valueOf(width));
+		transcoder.addTranscodingHint(PNGTranscoder.KEY_HEIGHT, Float.valueOf(height));
 
 		transcoder.setErrorHandler(new ErrorHandler() {
 			@Override
