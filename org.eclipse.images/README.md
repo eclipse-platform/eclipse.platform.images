@@ -14,6 +14,6 @@ When you add a file "example.svg", also add both the generated "example.png" and
 
 ##License
 
-[Eclipse Public License (EPL) v1.0][1]
+[Eclipse Public License (EPL) v2.0][1]
 
 [1]: http://wiki.eclipse.org/EPL

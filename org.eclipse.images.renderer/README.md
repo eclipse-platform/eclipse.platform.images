@@ -93,7 +93,7 @@ Supported runtime arguments :
 License
 -------
 
-[Eclipse Public License (EPL) v1.0][2]
+[Eclipse Public License (EPL) v2.0][2]
 
 [1]: http://wiki.eclipse.org/Platform_UI
 [2]: http://wiki.eclipse.org/EPL
