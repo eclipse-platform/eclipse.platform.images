@@ -28,7 +28,7 @@
   <name>Eclipse Images</name>
 
   <properties>
-    <tycho.scmUrl>scm:git:git://git.eclipse.org/gitroot/platform/eclipse.platform.images.git</tycho.scmUrl>
+    <tycho.scmUrl>scm:git:https://github.com/eclipse-platform/eclipse.platform.images.git</tycho.scmUrl>
   </properties>
 
   <repositories>
