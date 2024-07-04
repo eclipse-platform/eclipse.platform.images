@@ -8,7 +8,7 @@
    id="svg6584"
    sodipodi:docname="open_replace.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   inkscape:export-filename="open_replace@2x.png"
+   inkscape:export-filename="..\..\..\..\..\..\..\eclipse.platform.ui\bundles\org.eclipse.ui.workbench.texteditor\icons\full\elcl16\open_replace@2x.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,11 +27,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="64.1875"
-     inkscape:cx="4.7984421"
-     inkscape:cy="7.9922103"
-     inkscape:window-width="3440"
-     inkscape:window-height="1369"
+     inkscape:zoom="32.09375"
+     inkscape:cx="4.5180136"
+     inkscape:cy="8.6932814"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -41,5 +41,5 @@
      clip-rule="evenodd"
      d="M10.072 8.024L5.715 3.667l.618-.62L11 7.716v.618L6.333 13l-.618-.619 4.357-4.357z"
      id="path6582"
-     style="fill:#797979;fill-opacity:1" />
+     style="fill:#1a1a1a;fill-opacity:1" />
 </svg>
