@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="iu_disabled_obj.svg">
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="iu_disabled_obj.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
@@ -87,16 +87,6 @@
        y1="366.78851"
        x2="531.09253"
        y2="371.17883" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3955"
-       id="linearGradient3945"
-       gradientUnits="userSpaceOnUse"
-       x1="523.00781"
-       y1="373.2294"
-       x2="543.91406"
-       y2="373.2294"
-       gradientTransform="matrix(1.1835826,0,0,1.1835826,-147.48911,-87.252829)" />
     <mask
        maskUnits="userSpaceOnUse"
        id="mask4917">
@@ -353,7 +343,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4485">
+       id="filter4485"
+       x="-0.100931"
+       y="-0.091065558"
+       width="1.201862"
+       height="1.1821311">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4487" />
@@ -361,7 +355,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4489">
+       id="filter4489"
+       x="-0.045429614"
+       y="-0.062483285"
+       width="1.0908592"
+       height="1.1247113">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4491" />
@@ -369,7 +367,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4493">
+       id="filter4493"
+       x="0"
+       y="-inf"
+       width="1"
+       height="inf">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4495" />
@@ -377,7 +379,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4497">
+       id="filter4497"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4499" />
@@ -385,7 +391,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4501">
+       id="filter4501"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4503" />
@@ -393,7 +403,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4505">
+       id="filter4505"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4507" />
@@ -401,7 +415,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4509">
+       id="filter4509"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4511" />
@@ -409,7 +427,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4513">
+       id="filter4513"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4515" />
@@ -417,7 +439,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4517">
+       id="filter4517"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4519" />
@@ -425,7 +451,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4521">
+       id="filter4521"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4523" />
@@ -433,7 +463,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4525">
+       id="filter4525"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4527" />
@@ -441,7 +475,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4529">
+       id="filter4529"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4531" />
@@ -449,7 +487,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4533">
+       id="filter4533"
+       x="-0.068962558"
+       y="-0.080227087"
+       width="1.1379251"
+       height="1.1604542">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4535" />
@@ -457,7 +499,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4537">
+       id="filter4537"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4539" />
@@ -465,7 +511,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4541">
+       id="filter4541"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4543" />
@@ -473,7 +523,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4545">
+       id="filter4545"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4547" />
@@ -481,7 +535,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4549">
+       id="filter4549"
+       x="-0.16745919"
+       y="-0.050075785"
+       width="1.3349184"
+       height="1.1001516">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4551" />
@@ -489,7 +547,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4553">
+       id="filter4553"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4555" />
@@ -497,7 +559,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4557">
+       id="filter4557"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4559" />
@@ -505,7 +571,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Greyscale"
-       id="filter4561">
+       id="filter4561"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
       <feColorMatrix
          values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
          id="feColorMatrix4563" />
@@ -518,23 +588,32 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.961482"
-     inkscape:cx="16.507537"
-     inkscape:cy="8.0000005"
+     inkscape:zoom="16.249838"
+     inkscape:cx="-3.1077233"
+     inkscape:cy="5.6308254"
      inkscape:document-units="px"
      inkscape:current-layer="g13862"
      showgrid="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1392"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid3947" />
+       id="grid3947"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -544,7 +623,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -573,11 +652,6 @@
          id="rect13693"
          d="m 472.68093,354.495 33.22969,0 c 1.72122,0 3.1069,1.38903 3.1069,3.11442 l 0,13.39945 c 0,1.72538 -1.44501,2.66525 -3.1069,3.11442 l -33.22969,8.9812 c -1.66188,0.44917 -3.1069,-1.38903 -3.1069,-3.11442 l 0,-22.38065 c 0,-1.72539 1.38568,-3.11442 3.1069,-3.11442 z"
          style="fill:url(#linearGradient4933);fill-opacity:1;stroke:url(#linearGradient4935);stroke-width:3.58380508;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4489)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path13797"
-         d="m 471.31191,354.49499 23.78261,0"
-         style="fill:none;stroke:url(#linearGradient3945);stroke-width:3.58380508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4493)" />
       <rect
          style="display:inline;fill:url(#linearGradient10770-6);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4497)"
          id="rect10007-0-74-2-7-6"
@@ -689,23 +763,6 @@
          id="path4313-8-8-7-8"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
-      <image
-         y="345.53546"
-         x="521.48517"
-         id="image4482"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAWBJREFU
-OI2NU7FKA0EQfSsBf8DSb7BMY+FCDCSLRa6LrZWFoFVS5Aj3CQYCFxDkOq8QcoUsMSqElJb+gnb6
-AXuXO8ci7GU3lzt8MOwwzL55OzvDiAgmpJRWQAjBUAUiys33ffr8Vpb5vk9mzrYxrUBKSUf1Bg4P
-9q0CXz8xPt7fCoW1slqlPGBNWG8U4lJKEkKwSgLP86zTVKWxV3WZcw7P8woEJkoJ0vTX8l13CNcd
-FvJ2PqHXHwDGZ66SDG3RBAD0ewMAwAk/3hDcXPcJjGH+vAQBcJwWAIBzDgBQSZb702gGp9NCNJ1h
-Pl9SDQA6TttSoJM1YpVaPuccYfiEbvdsrSAIop19yBUYBEqlWCwWUCpFEESa4NYa1/PuVT7gnPP8
-kiaYTB4RhuPyQXoIx6zjXOZtVCrFaBSCCIiiiVWsdJDieCM7STJIebdzqdj2Npo4bV4QI+Dl9b50
-IysJ/oM/kGvGoFZhOYkAAAAASUVORK5CYII=
-"
-         style="image-rendering:optimizeSpeed;filter:url(#filter4561)"
-         preserveAspectRatio="none"
-         height="57.340881"
-         width="57.340881" />
     </g>
   </g>
 </svg>
