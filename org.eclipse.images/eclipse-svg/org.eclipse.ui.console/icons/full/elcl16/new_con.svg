@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="new_con.svg">
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="new_con.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
@@ -113,10 +113,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter7823-3-4-6"
-       x="-0.084914483"
-       width="1.169829"
-       y="-0.11041452"
-       height="1.220829">
+       x="-0.18344673"
+       width="1.4377165"
+       y="-0.16038014"
+       height="1.382678">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.6188839"
@@ -160,18 +160,6 @@
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter8410"
-       x="-0.23999982"
-       width="1.4799996"
-       y="-0.24000018"
-       height="1.4800004">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.4653611"
-         id="feGaussianBlur8412" />
-    </filter>
     <mask
        maskUnits="userSpaceOnUse"
        id="mask8465">
@@ -232,23 +220,32 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="6.0655096"
-     inkscape:cy="9.8972447"
+     inkscape:zoom="45.254834"
+     inkscape:cx="9.3139221"
+     inkscape:cy="5.1817669"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-8"
      showgrid="true"
-     inkscape:window-width="986"
-     inkscape:window-height="624"
-     inkscape:window-x="1067"
-     inkscape:window-y="557"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid6272" />
+       id="grid6272"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -308,21 +305,6 @@
            transform="matrix(0.40514455,0,0,0.40514455,48.017265,625.5691)"
            style="display:inline"
            id="g7827-7" />
-        <g
-           id="g8461"
-           mask="url(#mask8465)">
-          <g
-             id="g7590-1-0"
-             transform="matrix(0.51237963,0,0,0.51237963,21.788022,514.89288)"
-             style="display:inline;fill:#ffffff;stroke:#ffffff">
-            <path
-               sodipodi:nodetypes="czczczczc"
-               inkscape:connector-curvature="0"
-               id="rect6501-1-6-8"
-               d="m -16.30668,1023.0143 c 0,0 0.754772,2.7548 2.663409,4.6634 1.908637,1.9086 4.663405,2.6634 4.663405,2.6634 0,0 -2.739141,0.7391 -4.663398,2.6634 -1.924257,1.9243 -2.663409,4.6634 -2.663409,4.6634 0,0 -0.676645,-2.6766 -2.66341,-4.6634 -1.986765,-1.9868 -4.663405,-2.6634 -4.663405,-2.6634 0,0 2.801649,-0.8017 4.663405,-2.6634 1.861756,-1.8618 2.663403,-4.6634 2.663403,-4.6634 z"
-               style="opacity:0.84999999999999998;fill:#ffffff;stroke:#ffffff;stroke-width:5.8550337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter8410)" />
-          </g>
-        </g>
         <path
            transform="matrix(0.40514455,0,0,0.40514455,48.017265,625.5691)"
            sodipodi:nodetypes="cc"
