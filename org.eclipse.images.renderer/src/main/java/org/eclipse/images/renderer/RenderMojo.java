@@ -42,6 +42,9 @@ import org.apache.batik.transcoder.TranscoderOutput;
 import org.apache.batik.transcoder.image.PNGTranscoder;
 import org.apache.batik.util.XMLResourceDescriptor;
 import org.apache.maven.plugin.AbstractMojo;
+import org.apache.maven.plugins.annotations.Execute;
+import org.apache.maven.plugins.annotations.LifecyclePhase;
+import org.apache.maven.plugins.annotations.Mojo;
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugin.MojoFailureException;
 import org.apache.maven.plugin.logging.Log;
@@ -56,13 +59,10 @@ import com.jhlabs.image.GrayscaleFilter;
 import com.jhlabs.image.HSBAdjustFilter;
 
 /**
- * <p>
  * Mojo which renders SVG icons into PNG format.
- * </p>
- *
- * @goal render-icons
- * @phase generate-resources
  */
+@Mojo(name = "render-icons")
+@Execute(goal="render-icons", phase = LifecyclePhase.GENERATE_RESOURCES)
 public class RenderMojo extends AbstractMojo {
 
 	/** Maven logger */
