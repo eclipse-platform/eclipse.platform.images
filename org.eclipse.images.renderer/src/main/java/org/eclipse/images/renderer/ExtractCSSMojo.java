@@ -36,6 +36,9 @@ import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugin.MojoFailureException;
 import org.apache.maven.plugin.logging.Log;
+import org.apache.maven.plugins.annotations.Execute;
+import org.apache.maven.plugins.annotations.LifecyclePhase;
+import org.apache.maven.plugins.annotations.Mojo;
 import org.w3c.dom.Attr;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -43,14 +46,10 @@ import org.w3c.dom.NodeList;
 import org.w3c.dom.svg.SVGDocument;
 
 /**
- * <p>
  * Extracts CSS styles from SVG icons and places them in an external stylesheet.
- * </p>
- * 
- * @goal extract-css
- * @phase generate-resources
- *
  */
+@Mojo(name="extract-css")
+@Execute(goal="extract-css", phase = LifecyclePhase.GENERATE_RESOURCES)
 public class ExtractCSSMojo extends AbstractMojo {
 
 	/** Maven logger */
