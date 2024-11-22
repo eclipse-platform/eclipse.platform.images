@@ -402,11 +402,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1208"
-     inkscape:window-height="913"
-     inkscape:window-x="694"
-     inkscape:window-y="60"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
@@ -473,14 +473,6 @@
            id="rect3997-9-9"
            d="m 2.500702,1041.8621 12.883511,0 0,2.0053 -12.883511,0 z"
            style="fill:#58b6e8;fill-opacity:1;stroke:url(#linearGradient4063-8);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;display:inline" />
-        <g
-           transform="translate(-12.593765,20.531347)"
-           style="display:inline"
-           id="g7590-7" />
-        <g
-           transform="matrix(0.40514455,0,0,0.40514455,48.017265,625.5691)"
-           style="display:inline"
-           id="g7827-7" />
         <path
            transform="matrix(0.40514455,0,0,0.40514455,48.017265,625.5691)"
            sodipodi:nodetypes="cc"
