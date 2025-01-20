@@ -1,5 +1,5 @@
 /*******************************************************************************
- * (c) Copyright 2016 l33t labs LLC and others.
+ * (c) Copyright 2016, 2025 l33t labs LLC and others.
  * 
  * This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License 2.0
@@ -16,7 +16,6 @@ package org.eclipse.images.renderer;
 
 import java.io.File;
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.util.Arrays;
 
@@ -115,10 +114,10 @@ public class CreateCSSThemeMojo extends AbstractMojo {
 			File mainThemeFile = new File(styleDirectoryRoot, "/styles/stock.scss");
 			File newThemeFile = new File(styleDirectoryRoot, "/styles/" + newThemeName + ".scss");
 
-			String stockStr = new String(Files.readAllBytes(mainThemeFile.toPath()));
+			String stockStr = Files.readString(mainThemeFile.toPath());
 			stockStr = stockStr.replaceAll("Stock.scss provides the original Eclipse icon styles.",
 					newThemeName + ".scss <enter description here>");
-			Files.write(newThemeFile.toPath(), stockStr.getBytes(StandardCharsets.UTF_8));
+			Files.writeString(newThemeFile.toPath(), stockStr);
 		} catch (IOException e) {
 			log.error("Error creating new theme directory: " + e.getMessage(), e);
 		}
@@ -139,7 +138,7 @@ public class CreateCSSThemeMojo extends AbstractMojo {
 				try {
 					String stockStr = new String(Files.readAllBytes(file.toPath()));
 					stockStr = stockStr.replaceAll("@import \"stock\"", "@import \"" + newThemeName + "\"");
-					Files.write(file.toPath(), stockStr.getBytes(StandardCharsets.UTF_8));
+					Files.writeString(file.toPath(), stockStr);
 				} catch (IOException e) {
 					log.error("Error creating theme icon style: " + e.getMessage(), e);
 				}

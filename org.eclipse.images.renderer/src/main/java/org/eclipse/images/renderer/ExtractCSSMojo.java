@@ -1,5 +1,5 @@
 /*******************************************************************************
- * (c) Copyright 2016 l33t labs LLC and others.
+ * (c) Copyright 2016, 2025 l33t labs LLC and others.
  * 
  * This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License 2.0
@@ -18,10 +18,12 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.StringWriter;
 import java.io.Writer;
 import java.net.URI;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -31,7 +33,6 @@ import java.util.stream.Stream;
 
 import org.apache.batik.anim.dom.SAXSVGDocumentFactory;
 import org.apache.batik.util.XMLResourceDescriptor;
-import org.apache.commons.io.IOUtils;
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugin.MojoFailureException;
@@ -177,7 +178,7 @@ public class ExtractCSSMojo extends AbstractMojo {
 
 			log.info("Creating css for: " + css);
 			
-			IOUtils.write(stream.toString(), new FileOutputStream(newOutput), StandardCharsets.UTF_8);
+			Files.writeString(newOutput.toPath(), stream.toString());
 		} catch (Exception e) {
 			log.error("Error creating CSS: " + e.getMessage(), e);
 		}
@@ -210,11 +211,9 @@ public class ExtractCSSMojo extends AbstractMojo {
 		for (int i = 0; i < len; i++) {
 			Node item = nodes.item(i);
 
-			if (!(item instanceof Element)) {
+			if (!(item instanceof Element elem)) {
 				continue;
 			}
-
-			Element elem = (Element) item;
 
 			Attr idAttr = elem.getAttributeNodeNS(null, "id");
 			if (idAttr != null && idAttr.getValue() != null && !"".equals(idAttr.getValue())) {
@@ -316,7 +315,7 @@ public class ExtractCSSMojo extends AbstractMojo {
 		// We reuse the document later for rasterization
 		SVGDocument svgDocument = null;
 		
-		try (FileInputStream iconDocumentStream = new FileInputStream(icon.inputPath)){
+		try (InputStream iconDocumentStream = Files.newInputStream(icon.inputPath.toPath())){
 
 			String parser = XMLResourceDescriptor.getXMLParserClassName();
 			SAXSVGDocumentFactory f = new SAXSVGDocumentFactory(parser);
