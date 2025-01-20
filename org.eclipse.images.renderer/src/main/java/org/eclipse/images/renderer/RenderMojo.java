@@ -752,8 +752,7 @@ public class RenderMojo extends AbstractMojo {
 		for (int i = 0; i < len; i++) {
 			Node item = nodes.item(i);
 
-			if (item instanceof Element) {
-				Element elem = (Element) item;
+			if (item instanceof Element elem) {
 				Attr attr = elem.getAttributeNodeNS(null, "style");
 
 				if (attr != null) {
@@ -780,8 +779,7 @@ public class RenderMojo extends AbstractMojo {
 		for (int i = 0; i < len; i++) {
 			Node item = nodes.item(i);
 
-			if (item instanceof Element) {
-				Element elem = (Element) item;
+			if (item instanceof Element elem) {
 				elem.setAttributeNS(null, "style", "");
 			}
 
